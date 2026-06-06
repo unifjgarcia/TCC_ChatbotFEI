@@ -1,20 +1,29 @@
 import streamlit as st
 
+from services.buscador_mock import buscar_resposta
+
+
 st.set_page_config(
     page_title="Assistente Acadêmico FEI",
     page_icon="🎓",
     layout="centered"
 )
 
+
 st.title("🎓 Assistente Acadêmico FEI")
-st.write("Protótipo demonstrativo para suporte a dúvidas acadêmicas e administrativas.")
+st.write("Tire suas dúvidas acadêmicas e administrativas de forma simples.")
 
-pergunta = st.text_input("Digite sua dúvida:")
+st.divider()
 
-if st.button("Enviar pergunta"):
-    if pergunta.strip() == "":
-        st.warning("Digite uma pergunta antes de enviar.")
-    else:
-        st.success("Pergunta recebida com sucesso!")
-        st.write("Sua pergunta foi:")
-        st.info(pergunta)
+
+pergunta = st.chat_input("Digite sua dúvida acadêmica...")
+
+
+if pergunta:
+    resultado = buscar_resposta(pergunta)
+
+    with st.chat_message("user"):
+        st.write(pergunta)
+
+    with st.chat_message("assistant"):
+        st.write(resultado["resposta"])

@@ -1,0 +1,51 @@
+[
+  {
+    "categoria": "Matrícula",
+    "palavras_chave": ["matricula", "matrícula", "rematricula", "rematrícula", "disciplina", "grade"],
+    "resposta": "A rematrícula deve ser realizada pelo portal do aluno, dentro do período definido no calendário acadêmico. O aluno deve verificar as disciplinas disponíveis e confirmar sua grade conforme as orientações da instituição.",
+    "fonte": "Portal do Aluno - Área de Matrícula",
+    "trecho_base": "A rematrícula é realizada pelo portal institucional, respeitando os prazos definidos no calendário acadêmico."
+  },
+  {
+    "categoria": "Notas",
+    "palavras_chave": ["nota", "notas", "media", "média", "prova", "avaliacao", "avaliação"],
+    "resposta": "As notas das disciplinas podem ser consultadas no portal do aluno. Caso exista alguma divergência, o estudante deve entrar em contato com o professor responsável ou com a secretaria acadêmica.",
+    "fonte": "Portal do Aluno - Consulta de Notas",
+    "trecho_base": "O estudante pode acompanhar suas notas e médias pelo portal acadêmico da instituição."
+  },
+  {
+    "categoria": "Documentos",
+    "palavras_chave": ["documento", "documentos", "historico", "histórico", "declaracao", "declaração", "segunda via"],
+    "resposta": "A solicitação de documentos acadêmicos, como declaração de matrícula ou histórico escolar, deve ser feita pelo portal do aluno ou diretamente pelos canais oficiais da secretaria acadêmica.",
+    "fonte": "Secretaria Acadêmica - Solicitação de Documentos",
+    "trecho_base": "Documentos acadêmicos podem ser solicitados pelo aluno por meio dos canais institucionais disponíveis."
+  },
+  {
+    "categoria": "Financeiro",
+    "palavras_chave": ["boleto", "mensalidade", "pagamento", "financeiro", "desconto", "segunda via"],
+    "resposta": "Questões relacionadas a boletos, mensalidades, pagamentos ou descontos devem ser verificadas na área financeira do portal do aluno ou junto ao setor financeiro da instituição.",
+    "fonte": "Portal do Aluno - Área Financeira",
+    "trecho_base": "Informações financeiras, como boletos e mensalidades, ficam disponíveis na área financeira do portal do aluno."
+  },
+  {
+    "categoria": "Estágio",
+    "palavras_chave": ["estagio", "estágio", "contrato", "termo", "empresa", "relatorio", "relatório"],
+    "resposta": "Para assuntos relacionados a estágio, o aluno deve verificar as orientações institucionais sobre termo de compromisso, documentação obrigatória e prazos de entrega.",
+    "fonte": "Central de Estágios - Orientações ao Aluno",
+    "trecho_base": "O estágio exige documentação específica, incluindo termo de compromisso e demais registros solicitados pela instituição."
+  },
+  {
+    "categoria": "Portal/Sistemas",
+    "palavras_chave": ["portal", "senha", "login", "sistema", "acesso", "email", "e-mail"],
+    "resposta": "Problemas de acesso ao portal, senha, login ou sistemas institucionais devem ser verificados pelos canais de suporte da instituição. O aluno deve confirmar seus dados de acesso e, se necessário, solicitar redefinição de senha.",
+    "fonte": "Suporte de Sistemas - Acesso ao Portal",
+    "trecho_base": "O acesso aos sistemas institucionais depende das credenciais do aluno e pode ser recuperado pelos canais oficiais de suporte."
+  },
+  {
+    "categoria": "Calendário",
+    "palavras_chave": ["calendario", "calendário", "data", "prazo", "feriado", "aula", "prova"],
+    "resposta": "As datas importantes, como início das aulas, prazos de matrícula, provas e feriados, devem ser consultadas no calendário acadêmico oficial da instituição.",
+    "fonte": "Calendário Acadêmico FEI",
+    "trecho_base": "O calendário acadêmico reúne os principais prazos e datas relacionadas às atividades acadêmicas."
+  }
+]
