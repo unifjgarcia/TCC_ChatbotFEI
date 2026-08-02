@@ -44,3 +44,8 @@ def buscar_resposta(pergunta):
         "fonte": "Nenhuma fonte encontrada",
         "trecho_base": "Nenhum trecho foi recuperado para essa pergunta."
     }
+
+if __name__ == "__main__":
+    pergunta_teste = "Como faço para pegar a segunda via do boleto?"
+    resultado = buscar_resposta(pergunta_teste)
+    print(resultado)
