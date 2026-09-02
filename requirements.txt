@@ -1,4 +1,6 @@
-mkdir -p scripts
-mkdir -p documentos/html_bruto
-mkdir -p documentos/textos_limpos
-mkdir -p dados
+streamlit
+requests
+beautifulsoup4
+pandas
+sentence-transformers
+scikit-learn

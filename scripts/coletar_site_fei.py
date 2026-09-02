@@ -9,11 +9,38 @@ from bs4 import BeautifulSoup
 
 
 URL_BASE = "https://portal.fei.edu.br/"
+PALAVRAS_RELEVANTES = [
+    "aluno",
+    "alunos",
+    "secretaria",
+    "tesouraria",
+    "financeiro",
+    "matricula",
+    "matrícula",
+    "bolsas",
+    "estagio",
+    "estágio",
+    "biblioteca",
+    "calendario",
+    "calendário",
+    "documentos",
+    "diploma",
+    "manual",
+    "regulamento",
+    "graduacao",
+    "graduação",
+    "portal",
+    "moodle",
+]
 
 PASTA_HTML = "documentos/html_bruto"
 PASTA_TEXTO = "documentos/textos_limpos"
 CAMINHO_CSV = "dados/fontes_documentais.csv"
 
+def link_eh_relevante(url):
+    url_minuscula = url.lower()
+
+    return any(palavra in url_minuscula for palavra in PALAVRAS_RELEVANTES)
 
 def limpar_nome_arquivo(texto):
     texto = texto.lower()
@@ -62,18 +89,22 @@ def coletar_links_internos(html, url_origem):
     links = set()
 
     for tag in soup.find_all("a", href=True):
-        href = tag["href"]
+        href = tag["href"].strip()
+
+        if not href:
+            continue
 
         url_completa = urljoin(url_origem, href)
 
-        # Remove âncoras tipo #secao
+        # Remove espaços, âncoras e barra final duplicada
+        url_completa = url_completa.strip()
         url_completa = url_completa.split("#")[0]
+        url_completa = url_completa.rstrip("/")
 
         if url_eh_do_site_fei(url_completa):
             links.add(url_completa)
 
     return sorted(links)
-
 
 def baixar_pagina(url):
     headers = {
@@ -130,8 +161,14 @@ def main():
     links = coletar_links_internos(html_inicial, URL_BASE)
 
     # Para não coletar o site inteiro de primeira, vamos limitar.
-    # Depois aumentamos esse número.
-    links_para_coletar = [URL_BASE] + links[:10]
+    url_base_normalizada = URL_BASE.rstrip("/")
+
+    links_filtrados = [
+        link for link in links
+        if link != url_base_normalizada and link_eh_relevante(link)
+    ]
+
+    links_para_coletar = [url_base_normalizada] + links_filtrados[:30]
 
     registros = []
 

@@ -1,0 +1,87 @@
+Departamento de Matemática - FEI
+Ensino
+Departamento de Matemática
+Chefe de Departamento:
+O Departamento de Matemática do Centro Universitário da FEI tem sua origem principal no Departamento de Matemática
+da Faculdade de Engenharia Industrial que existiu até o ano de 2002, quando houve a criação do Centro
+Universitário, com a reunião das faculdades de Engenharia, Administração e Ciência da Computação. A partir de
+então os professores e as disciplinas dessas faculdades foram reagrupados para compor o Departamento de Matemática
+com a atual configuração.
+Esse Departamento oferece disciplinas em todos os cursos (Administração, Ciência da Computação e Engenharia),
+concentradas principalmente nos quatro primeiros semestres.
+Os objetivos gerais dos respectivos conjuntos de disciplinas são voltados ao desenvolvimento das capacidades e
+habilidades para o tratamento matemático inerente aos trabalhos dos profissionais da Administração, Ciência da
+Computação e Engenharia. Esses objetivos visam contemplar aspectos conceituais da matemática e também suas
+aplicações.
+O quadro a seguir relaciona, de forma resumida, os grupos de disciplinas com as práticas vinculadas às várias
+capacidades e habilidades mais específicas.
+Grupo 1:
+Cálculo Diferencial e Integral, Matemática
+Grupo 2:
+Cálculo Vetorial e Geometria Analítica, Álgebra Linear, Álgebra
+Grupo 3:
+Cálculo Numérico
+Grupo 4:
+Estatística, Estatística Básica
+Grupo 1
+Grupo 2
+Grupo 3
+Grupo 4
+Argumentação e Organização Lógica
+X
+X
+X
+X
+Linguagem Algébrica e Geométrica
+X
+X
+X
+X
+Raciocínio Analítico
+X
+X
+X
+X
+Elaboração e Aplicação de Métodos Numéricos
+X
+Modelagem Matemática
+X
+X
+X
+X
+Visão Espacial
+X
+X
+X
+Vivência em Ambiente Computacional
+X
+X
+Abordagem de Conceitos Básicos
+X
+X
+X
+X
+Os professores são todos titulados (mestres ou doutores) e todos possuem sólida bagagem nas
+atividades de ensino. Alguns atuam em trabalhos de investigação e pesquisa tanto em áreas da matemática
+(Matemática, Matemática Aplicada, História da Matemática e Educação Matemática) como em outras áreas correlatas
+(Engenharia, Física e Computação) fornecendo ao departamento uma atuação integrada às necessidades dos distintos
+cursos oferecidos.
+O Departamento incentiva o desenvolvimento de projetos de Iniciação Científica e Iniciação Didática tanto em
+Matemática como em áreas correlatas, em projetos onde as necessidades de conhecimentos diferenciados em Matemática
+se destacam. Tais projetos são desenvolvidos com a participação de alunos dos diversos cursos.
+×
+Profº Dr. Fábio Gerab
+Iniciou suas atividades no Centro Universitário FEI em 2001, atualmente é Professor Titular e Chefe do Departamento de Matemática da Instituição.
+Atua nos cursos de Administração, de Engenharia e de Ciência da Computação,  nas disciplinas de Estatística, Álgebra Linear e Cálculo Diferencial
+e Integral.
+Graduado em Física, pela USP (1985), Mestre em Física Nuclear, pela USP (1989); Doutor em Física Aplicada, pela USP e parcialmente desenvolvido
+na Universidade de Lund, Suécia (1996), Pós-doutor pelo Instituto de Pesquisas Energéticas e Nucleares - IPEN (1997).
+Informações complementares: Líder do Grupo de Educação Matemática e Matemática no Ensino Superior - GEMMES, do CNPq. Desenvolve atividades e
+pesquisas nas áreas de Educação, Estatística, Física Nuclear, Física Aplicada à Estudos Ambientais, Engenharia Automotiva, Acústica e Vibração,
+Ergonomia Automotiva e Gestão da Qualidade. Possui mais de uma década de experiência no desenvolvimento de produtos na indústria automotiva.
+Currículo Lattes
+/
+Google Acadêmico
+/
+prifgerab@fei.edu.br
+```

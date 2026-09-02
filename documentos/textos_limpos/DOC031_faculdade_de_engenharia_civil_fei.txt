@@ -1,0 +1,3421 @@
+Faculdade de Engenharia Civil -  FEI
+Período
+Diurno
+Duração
+10 Semestres
+Localização
+São Bernardo do Campo
+Consulte o valor
+Clique aqui
+-
+Bolsas / Crédito
+Clique aqui
+Disciplinas
+Clique aqui
+×
+CONSULTA
+Nome
+Informe seu nome
+Sobrenome
+Informe seu sobrenome
+E-mail
+Informe seu E-mail
+Celular
+Informe seu celular
+Você é um robô?
+Eu li e concordo com os termos da política de privacidade
+Você precisa aceitar os termos.
+Quero ser avisado
+Pronto! |  Valor Diurno: R$ 4.053,00 | Noturno: R$ 3.379,00
+Conheça o curso de
+Engenharia Civil
+Na Engenharia Civil da FEI você vai se capacitar a desenvolver projetos nas áreas de construção civil, gerenciamento, estruturas, geotecnia, hidráulica, saneamento, meio ambiente e transportes.
+A capacidade de propor e desenvolver soluções inovadoras que você adquire durante o curso faz de você um profissional totalmente preparado para atuar no mercado de trabalho, como empreendedor ou em empresas do setor, nas atividades de condução de obras, elaboração de projetos, estudos de viabilidade, pesquisa, orçamentos, monitoramento etc.
+Na FEI você terá a prática da Engenharia nos laboratórios tecnológicos de Estruturas, Informática, Mecânica dos solos, Topografia e monitoramento, Materiais de construção, Construção civil, Mecânica dos fluídos e Hidráulica, que proporcionam o desenvolvimento de pesquisas científicas e atividades experimentais.
+QUERO ME INSCREVER!
+Avaliações do
+Mercado
+Reconhecido pelo MEC
+Decreto nº 72.012 29/03/1973
+Veja como o curso foi avaliado!
+Novo Plano Pedagógico
+Clique aqui para visualizar!
+Guia da Faculdade
+2025 Estadão
+4 Estrelas
+Campus São Bernardo do Campo
+Avaliação Folha RUF - 2025
+1º lugar – melhor curso de São Bernardo do Campo e 5º melhor curso do Estado de São Paulo
+Confira
+QUERO ME INSCREVER!
+Disciplinas
+INGRESSANTES ATÉ 2º 2018
+Diurno
+Clique nos ciclos abaixo para mais detalhes:
+1 º Ciclo
+2 º Ciclo
+3 º Ciclo
+4 º Ciclo
+5 º Ciclo
+6 º Ciclo
+7 º Ciclo
+8 º Ciclo
+9 º Ciclo
+10 º Ciclo
+INTRODUÇÃO À COMPUTAÇÃO
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+INTRODUÇÃO À COMPUTAÇÃO
+Linguagem algorítmica; Linguagem de programação; Ambiente de programação; Fluxos seqüenciais, fluxos alternativos, fluxos repetitivos; Modularização e subprogramas; Tipos estruturados: listas e registros.
+Código:
+CC1410
+Coordenação:
+Leila Cristina C Bergamasco
+Carga Horária Total:
+80 Horas
+SOCIOLOGIA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+SOCIOLOGIA
+O sentido do trabalho humano: objetivo e subjetivo. Conceitos sociológicos para compreender a realidade social. A transformação da organização social do trabalho. Trabalho, identidade e interação social. A Sociedade Globalizada: trabalho, economia, cultura e política. Novos paradigmas sociais: menos organização e mais conectividade, trabalho material e imaterial, dilemas entre o público e o privado. Multiculturalismo e pluralidade: heranças culturais indígenas, africanas, europeias e asiáticas na cultura brasileira. A Revolução Informacional e a Sociedade em Rede. O Ócio criativo: trabalho e lazer. A Política Nacional de Informática. Novas Tecnologias de comunicação e informação e seu impacto sobre a cultura e a sociedade.
+Código:
+CS1210
+Coordenação:
+Lania Stefanoni Ferreira
+Carga Horária Total:
+40 Horas
+EDUCAÇÃO FÍSICA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+EDUCAÇÃO FÍSICA
+.
+Código:
+CS1510
+Coordenação:
+Carla Andrea Soares de Araujo
+Carga Horária Total:
+40 Horas
+FÍSICA I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+FÍSICA I
+Cinemática escalar do ponto; cinemática vetorial do ponto; elementos geométricos da trajetória; movimento circular de uma partícula; Leis de Newton; equilíbrio do ponto; trabalho; potência de uma força; energia cinética; energia potencial; energia mecânica; conservação e não conservação da energia mecânica; quantidade de movimento; conservação da quantidade de movimento.
+Código:
+FS1110
+Coordenação:
+Marcilei Aparecida Guazzelli
+Carga Horária Total:
+120 Horas
+CÁLCULO DIFERENCIAL E INTEGRAL I
+Aulas Semanais
+6 Teóricas / 0 Práticas
+×
+CÁLCULO DIFERENCIAL E INTEGRAL I
+Conjuntos numéricos usuais. Conceitos de funções, funções básicas. Limites, formas indeterminadas, limites fundamentais. Derivada, reta tangente, regras de derivação, problemas de máximos e mínimos, regra de L-Hospital. Taxa de variação. Esboço de curvas. Diferenciais.
+Código:
+MA1110
+Coordenação:
+Paulo Henrique Trentin
+Carga Horária Total:
+120 Horas
+CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA
+Vetores. Dependência linear. Base. Mudança de base. Produto escalar. Produto vetorial. Produto misto. Sistema de coordenadas. Reta e Plano. Posições relativas. Superfícies esféricas.
+Código:
+MA1210
+Coordenação:
+Fabio Gerab
+Carga Horária Total:
+80 Horas
+DESENHO TECNICO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+DESENHO TECNICO
+Estudo das várias técnicas do desenho de projeções normalizado para uma eficiente leitura e interpretação de desenho técnico em engenharia, além de desenvolver hábitos motores corretos na execução de desenhos e uso do instrumental. Desenvolvimento de raciocínio espacial e criatividade.
+Código:
+ME1110
+Coordenação:
+Renato Jose Pinto
+Carga Horária Total:
+80 Horas
+FILOSOFIA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+FILOSOFIA
+Realismo. Exigências estruturais do homem. Razão. Dinâmica do conhecer. A experiência humana: sua natureza. Compromisso com a vida.  O Eu como promessa.
+Código:
+CS2120
+Coordenação:
+Rafael Mahfoud Marcoccia
+Carga Horária Total:
+40 Horas
+FÍSICA II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+FÍSICA II
+Temperatura e calor. 1a Lei da termodinâmica. Transformações com gases perfeitos. Teoria cinética dos gases. 2a Lei da termodinâmica. Máquinas térmicas. Oscilações. Ondas.
+Código:
+FS2120
+Coordenação:
+Eliane de Fatima Chinaglia
+Carga Horária Total:
+120 Horas
+CÁLCULO DIFERENCIAL E INTEGRAL II
+Aulas Semanais
+6 Teóricas / 0 Práticas
+×
+CÁLCULO DIFERENCIAL E INTEGRAL II
+Integrais indefinidas e definidas. Técnicas de integração. Aplicações. Funções de duas variáveis - aplicações. Integrais duplas. Análise vetorial. Equações diferenciais de primeira ordem. Equações diferenciais de segunda ordem com coeficientes constantes.
+Código:
+MA2121
+Coordenação:
+Miua Tanaka
+Carga Horária Total:
+120 Horas
+ÁLGEBRA LINEAR
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ÁLGEBRA LINEAR
+Espaços vetoriais. Transformações lineares. Auto valores e auto vetores. Espaços com produto interno.
+Código:
+MA2220
+Coordenação:
+Roseli Alves de Moura
+Carga Horária Total:
+80 Horas
+CÁLCULO NUMÉRICO
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+CÁLCULO NUMÉRICO
+Sistemas lineares: métodos exatos e iterativos. Zeros de funções: método gráfico e numérico. Aproximação de funções; Método dos Mínimos Quadrados. Interpolação; Método de Newton e Método de Lagrange. Integração numérica. Equações diferenciais; Métodos numéricos.
+Código:
+MA2311
+Coordenação:
+Claudio Dall'Anese
+Carga Horária Total:
+120 Horas
+QUÍMICA GERAL I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+QUÍMICA GERAL I
+Noções sobre microestrutura da matéria / Estrutura do Átomo  / Elementos,  Compostos e Misturas / Mol e Massa Molar / Noções sobre Ligação Química / Substância Iônica e Substância Molecular / Nomenclatura dos compostos químicos / Identificação Funcional (ácido, base, sal, óxido) / Polaridade das Ligações  e Eletronegatividade / Noções sobre Forças Intermoleculares / Estequiometria / Balanceamento de Equações Químicas / Estados Físicos da Matéria (Sólidos, Líquidos e Gases) / Mudança de Estado e Equilíbrios Físicos / Diagramas de fase / Mistura gás - vapor  / Gases / Sólidos / Soluções  / Propriedades e Tipos de Soluções/ Unidades de Concentração .
+Código:
+QM2110
+Coordenação:
+Geraldo Luiz P Fontana
+Carga Horária Total:
+120 Horas
+ENSINO SOCIAL CRISTÃO
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+ENSINO SOCIAL CRISTÃO
+Fundamentos do Ensino Social da Igreja: Princípio personalista: concepção de pessoa na antropologia cristã, dignidade e direitos humanos, aplicação deste princípio em questões de bioética. Princípio da subsidiariedade: conceito e aplicações, o papel do Estado e a importância do terceiro Setor. Princípio de solidariedade: conceito e estudo de caso, o papel do Estado e a importância do terceiro setor. Princípio do Bem Comum: Pessoa/Estado/Mercado, Política, Estado e Religião, Economia e Ética, Características do mercado globalizado, Desafios para o desenvolvimento no âmbito da economia e tecnologia. Trabalho humano: Dimensão objetiva e subjetiva, Sentido e implicações do trabalho e emprego no mundo atual.
+Código:
+CS3310
+Coordenação:
+Rafael Mahfoud Marcoccia
+Carga Horária Total:
+40 Horas
+ARQUITETURA E DESENHO CIVIL
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+ARQUITETURA E DESENHO CIVIL
+Interfaces da Arquitetura e Engenharia; Análise de obra; Representação gráfica; Etapas de projeto; Necessidades e escala humana; Conforto ambiental; Avaliação Pós-Ocupação; Legislação: código de obras; Uso e ocupação do solo (zoneamento); Desenho arquitetônico; Plano geral: implantação, plantas baixas; Cortes; Elevações: definição de acabamentos e aberturas; Representação de materiais e peças estruturais; Desenho em computador
+Código:
+CV3110
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+FÍSICA III
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+FÍSICA III
+Lei de Coulomb; campo eletrostático; distribuições discreta e contínua de cargas; Lei de Gauss; potencial eletrostático; trabalho; campo de indução magnética; força magnética; força de Lorentz; força magnética em condutores de corrente; conjugado magnético; Lei circuital de Ampere; Lei de Biot-Savart; capacitância.
+Código:
+FS3130
+Coordenação:
+Gilberto Marcon Ferraz
+Carga Horária Total:
+120 Horas
+MECÂNICA DO CORPO RÍGIDO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+MECÂNICA DO CORPO RÍGIDO
+Sistema de muitas partículas; centro de massa; momento de uma força; equilíbrio do corpo rígido; cinemática plana do corpo rígido (translação e rotação em torno de eixo fixo, centro instantâneo de rotação); dinâmica plana do corpo rígido (momento de inércia, Teorema do Centro de Massa, Teorema do Momento Angular, translação, rotação em torno de eixo fixo e movimento plano geral).
+Código:
+FS3310
+Coordenação:
+Fernando Marques Fernandes
+Carga Horária Total:
+80 Horas
+CÁLCULO DIFERENCIAL E INTEGRAL III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+CÁLCULO DIFERENCIAL E INTEGRAL III
+Números complexos. Funções de variáveis complexas. Funções Analíticas. Integrais de funções complexas. Integrais de Cauchy. Séries numéricas. Critérios de convergência para séries positivas. Séries alternadas. Séries de funções. Séries de Taylor. Séries de Fourier.
+Código:
+MA3130
+Coordenação:
+Fabio Gerab
+Carga Horária Total:
+80 Horas
+TERMODINÂMICA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TERMODINÂMICA
+Descrever as leis básicas da termodinâmica (1ª e 2ª Leis da Termodinâmica). Sistemas abertos ou fechados. Regime permanente ou variável. Propriedades das substâncias. Estudos de ciclos motores a vapor (Carnot e Rankine).
+Código:
+ME3110
+Coordenação:
+Gilberto Oswaldo Ieno
+Carga Horária Total:
+80 Horas
+QUÍMICA TECNOLÓGICA
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+QUÍMICA TECNOLÓGICA
+Combustão e Combustíveis Industriais: Definição e classificação de combustíveis industriais / Constituintes dos combustíveis / Reações de Combustão / Estequiometria da combustão / Análise dos Fumos / Tipos de Combustão / Poder Calorífico de combustíveis / Temperatura Adiabática e Real de chama / Problemas ambientais causados pelos fumos da combustão/ Corrosão de materiais metálicos e proteção contra a corrosão: Conceito de Corrosão / Tipos de Corrosão / Heterogeneidades determinantes da força eletro-motriz / indicadores de corrosão / pilhas / taxa de corrosão / métodos de prevenção da corrosão / Fundamentos da Lubrificação Industrial.
+Código:
+QM3130
+Coordenação:
+Daniel Benestante Hauk
+Carga Horária Total:
+80 Horas
+MATERIAIS DE CONSTRUÇAO CIVIL I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+MATERIAIS DE CONSTRUÇAO CIVIL I
+Normalização Técnica; Propriedades, obtenção e aplicação de materiais de construção civil; Aglomerantes; Agregados; Estudo de dosagem do concreto de cimento Portland; Aço estrutural e para concreto armado; Ensaios de Controle Tecnológico.
+Código:
+CV4110
+Coordenação:
+Rui Barbosa de Souza
+Carga Horária Total:
+80 Horas
+ELETRICIDADE BASICA
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+ELETRICIDADE BASICA
+Tensão, potência e energia elétrica em corrente contínua. Convenção de gerador e receptor. Leis de Kirchhoff. Análise de malhas. Análise nodal. Gerador equivalente de Thevenin. Circuitos monofásicos. Circuito RLC série e paralelo. Correção de fator de potência. Noções de circuitos trifásicos. Transformadores. Motor. Alternador.
+Código:
+EL4110
+Coordenação:
+Renato Camargo Giacomini
+Carga Horária Total:
+120 Horas
+PRINCÍPIOS DE FÍSICA MODERNA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+PRINCÍPIOS DE FÍSICA MODERNA
+Equação de Maxwell na forma diferencial; interferência por sistema de N fendas; difração; polarização da luz; ondas de De Broglie; difração de Bragg; átomo de Bohr; números quânticos; decaimento nuclear e datação.
+Código:
+FS4420
+Coordenação:
+Luis Humberto Avanzi
+Carga Horária Total:
+40 Horas
+ESTATISTICA BASICA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+ESTATISTICA BASICA
+Espaço amostral. Probabilidade. Variáveis aleatórias discretas. Distribuição conjunta de variáveis aleatórias discretas. Distribuições teóricas de variáveis aleatórias discretas: Binomial e Poisson. Variáveis aleatórias contínuas. Distribuição Normal.
+Código:
+MA4320
+Coordenação:
+Monica Karrer
+Carga Horária Total:
+40 Horas
+FUNDAMENTOS DE TRANSMISSAO DE CALOR
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+FUNDAMENTOS DE TRANSMISSAO DE CALOR
+Estudos das leis básicas para a compreensão dos fenômenos de condução, convecção e radiação de calor.
+Código:
+ME4120
+Coordenação:
+Edvaldo Angelo
+Carga Horária Total:
+80 Horas
+MECANICA DOS FLUIDOS I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+MECANICA DOS FLUIDOS I
+Objetiva estudar as propriedades, a estática e a cinemática dos fluidos, bem como as instrumentações básicas para medidas de suas propriedades, possibilitando desta forma os estudos dos escoamentos unidirecionais, incompressíveis e em regime permanente em condutos forçados na presença, ou não de máquinas hidráulicas.
+Código:
+ME4310
+Coordenação:
+Reinaldo Rossetti
+Carga Horária Total:
+120 Horas
+RESISTENCIA DOS MATERIAIS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+RESISTENCIA DOS MATERIAIS
+Propiciar condições ao aluno de entender e analisar o comportamento de sólidos sujeitos aos vários tipos de esforços, fornecendo as bases de projeto e verificação estrutural de componentes de engenharia.
+Código:
+ME4610
+Coordenação:
+Mauricio de Carvalho Silva
+Carga Horária Total:
+80 Horas
+CONSTRUÇAO CIVIL I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+CONSTRUÇAO CIVIL I
+Técnicas de construção; Etapas de construção; Canteiro de obras; Execução de fundações; Execução de estruturas de concreto armado; Fôrmas e escoramentos; Alvenarias e vãos; Instalação de Esquadrias; Impermeabilização; Coberturas; Revestimentos; Execução de instalações hidráulicas e elétricas; Novas tecnologias de fechamentos: paredes secas (gesso acartonado); Visitas a obras de pequeno, médio e grande porte.
+Código:
+CV5110
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+MATERIAIS DE CONSTRUÇAO CIVIL II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+MATERIAIS DE CONSTRUÇAO CIVIL II
+Características e aplicação dos materiais na Construção Civil; Ligas metálicas; Dureza; Madeiras; Cerâmicas; Plásticos, polímeros e Elastômeros; Vidros; Tintas; Betumes.
+Código:
+CV5121
+Coordenação:
+Rui Barbosa de Souza
+Carga Horária Total:
+40 Horas
+HIDRAULICA
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+HIDRAULICA
+Instalações hidráulicas de bombeamento; Estudo de viabilidade econômica; Usinas hidroelétricas; Aproveitamentos hidroelétricos; Potência e rendimentos; Tipos de turbinas; Usinas reversíveis; Semelhança entre turbinas; Rotação específica; Escolha do tipo de turbina; Custo de geração de energia; Perda de carga em condutos; Ábaco de Hazem-Williams; Perda de carga em tubulações e singularidades; Influência da idade; Forças atuantes em superfÌcies submersas; EquilÌbrio de corpos flutuantes; Condições de flutuabilidade
+Código:
+CV5210
+Coordenação:
+Gilberto Oswaldo Ieno
+Carga Horária Total:
+120 Horas
+HIDROLOGIA APLICADA
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+HIDROLOGIA APLICADA
+Ciclo Hidrológico; Bacias Hidrográficas; Precipitação; Infiltração; Evaporação e Evapotranspiração; Escoamento superficial; Regime dos cursos d`água; Previsão de enchentes; Regularização de vazões e aproveitamento de recursos hídricos; Micro e macro drenagem urbana.
+Código:
+CV5220
+Coordenação:
+Fernando Cesar Dias Ribeiro
+Carga Horária Total:
+40 Horas
+INSTALAÇOES HIDRAULICAS
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+INSTALAÇOES HIDRAULICAS
+Instalações hidráulico-sanitárias: conceitos e importância da compatibilidade com o projeto de construção; Normas; Instalações de água fria; Reservatório; Ramal de alimentação; Colunas e barriletes; Sistema de recalque; Ramais e sub-ramais; Instalações de água quente; Sistema predial de águas pluviais, calhas e condutores; Sistema predial de esgoto sanitário; Ventilação; Traçado, diagramas isométricos, materiais, dimensionamento, e projeto de sistema predial de águas e esgoto
+Código:
+CV5230
+Coordenação:
+Gilberto Oswaldo Ieno
+Carga Horária Total:
+40 Horas
+TEORIA DAS ESTRUTURAS I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TEORIA DAS ESTRUTURAS I
+Associação das estruturas com a função estrutural; Estruturas isostáticas; Cargas móveis; Linhas de influência; Envoltória de máximos e mínimos; Torção em barras; Tensões e deformações;  Cisalhamento na flexão; Estado plano de tensões; Círculo de Mohr
+Código:
+CV5311
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+MECANICA DOS SOLOS I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+MECANICA DOS SOLOS I
+Formação Geológica dos solos; Classificação Genética dos Solos; Identificação e Classificações Geotécnicas; Índices Físicos; Solos Granulares; Solos Argilosos; Resistência ao Cisalhamento, Permeabilidade e Deformabilidade; Compactação e Controle Tecnológico; Investigações Geotécnicas; Tensões Geoestáticas e Transmissão de tensões no solo
+Código:
+CV5411
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+INSTALAÇÕES ELÉTRICAS
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+INSTALAÇÕES ELÉTRICAS
+Instalações elétricas de baixa tensão; Circuitos unifilar e multifilar; Medidores e Sistemas de distribuição de energia e tarifação; Fatores de carga, de demanda e de utilização; Luminotécnica; Condutores elétricos; Isolações; Segurança em eletricidade e dispositivos de proteção; Circuitos de carga, comando e sinalização para partida direta de motores trifásicos;
+Código:
+EL5400
+Coordenação:
+Michele Rodrigues Hempel Lima
+Carga Horária Total:
+40 Horas
+SOCIOLOGIA INDUSTRIAL
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+SOCIOLOGIA INDUSTRIAL
+Análise sociológica das organizações. Cultura e Poder nas organizações. Os novos paradigmas organizacionais: Capital Intelectual, Inovação, Empreendedorismo, Liderança, Relacionamento Interpessoal e conflito de gerações, Responsabilidade Social. O engenheiro e o mercado de trabalho.
+Código:
+CS6221
+Coordenação:
+Carla Andrea Soares de Araujo
+Carga Horária Total:
+40 Horas
+CONSTRUÇAO CIVIL II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+CONSTRUÇAO CIVIL II
+Alvenaria Armada; Argamassa Armada e Tela Soldada; Noções gerais de concreto protendido; Pré-fabricados de concreto armado e protendido; Novas tecnologias; Patologias das Construções; Contratos de construção; Análise de projetos; Etapas Construtivas; Planejamento da execução das obras; Noções de segurança do trabalho; Responsabilidade do Engenheiro; Visitas a obras de pequeno, médio e grande porte
+Código:
+CV6120
+Coordenação:
+Rui Barbosa de Souza
+Carga Horária Total:
+80 Horas
+TEORIA DAS ESTRUTURAS II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TEORIA DAS ESTRUTURAS II
+Estruturas hiperestáticas; Deformações; Compatibilidade de deslocamentos; Flexão; Vigas simples hiperestáticas; Vigas contínuas; Equação dos três momentos; Deslocamentos dos vínculos; Aplicação de programas computacionais; Pórticos hiperestáticos; Equação dos 4 momentos
+Código:
+CV6321
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+MECANICA DOS SOLOS II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+MECANICA DOS SOLOS II
+Compressibilidade dos solos; Adensamento; Analogia mecânica de Terzaghi; Ensaios de laboratório; Recalques; Critérios de resistência; Lei de Darcy; Linhas de fluxo, equipotenciais e canais de fluxo; Princípio de Bernoulli; Linha freática; Velocidade de percolação; Estabilidade de Taludes; Escala de Varnes; Ensaios de cisalhamento e adensamento; Métodos de Análise.
+Código:
+CV6421
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+SISTEMAS DE TRANSPORTES
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+SISTEMAS DE TRANSPORTES
+Aspectos sociais e Noções Gerais dos Modos de Transporte: Transporte Ferroviário e metroviário; Transporte Rodoviário;  Transporte Aeroviário; Transporte Aquaviário; Transporte Dutoviário; Noções de Planejamento em Transportes: Demanda; Geração de viagens; Terminais; Intermodalidade; Logística em transportes; Avaliação e Custos em Empreendimentos de Transportes; Impacto do tráfego no meio ambiente; Critérios de seleção de projetos; Estimativa de valor unitário de pedágio; Transporte Urbano: Rede de tráfego urbana; Modos urbanos de transporte de passageiros e carga; Melhoria de corredor. Modelagem de sistemas.
+Código:
+CV6511
+Coordenação:
+Fernando Cesar Dias Ribeiro
+Carga Horária Total:
+120 Horas
+TOPOGRAFIA
+Aulas Semanais
+4 Teóricas / 4 Práticas
+×
+TOPOGRAFIA
+Conceitos Fundamentais; Escalas; Medição de Distâncias; Medição de ângulos; Instrumentos Topográficos; Poligonais; Cálculo de Azimutes; Cálculo de Coordenadas; Nivelamento; Taqueometria; Desenho Topográfico; Representação do Relevo; Cálculo de áreas e volumes; Estudos sobre a Planta Topográfica; Locação Topográfica; Organização de Levantamentos; Sistema de Projeção UTM; Aerofotogrametria; Projeto topográfico; Exercícios práticos no campo.
+Código:
+CV6610
+Coordenação:
+Fernando Cesar Dias Ribeiro
+Carga Horária Total:
+160 Horas
+MORAL E RELIGIÃO
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+MORAL E RELIGIÃO
+Oferecer elementos que apresentem o `problema religioso` enfocado a partir dos eixos antropológico, ético e teológico, que se encontram implicados diante da delicada questão da consciência religiosa do homem contemporâneo, influenciado pelas inúmeras consequências do relativismo moral e filosófico.
+Código:
+CS7131
+Coordenação:
+Diego Genu Klautau
+Carga Horária Total:
+40 Horas
+CONSTRUÇAO CIVIL III
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+CONSTRUÇAO CIVIL III
+Noções de Planejamento e Gerenciamento de obras; Produtividade; Orçamento na Construção Civil; Custo Horário de Equipamentos; Insumos e serviços; Composição de preços; Encargos Sociais; BDI.
+Código:
+CV7130
+Coordenação:
+Rafael Barreto Castelo da Cruz
+Carga Horária Total:
+40 Horas
+SANEAMENTO BASICO E AMBIENTAL
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+SANEAMENTO BASICO E AMBIENTAL
+Ecologia e Saneamento básico: definição e importância social; Sistemas de abastecimento de água; Ensaios de caracterização das águas, usos e consumo; Saneamento do meio rural e urbano; Sistemas de captação, adução e distribuição; Sistemas de tratamento de águas; Sistemas de esgotamento sanitário no meio rural e urbano; Ensaios de caracterização dos esgotos sanitários; Sistemas de tratamento de esgotos sanitários; Coleta e disposição de águas pluviais; Poluição e autodepuração das águas; Saneamento de emergência; Sistema de tratamento de resíduos sólidos; Controle da poluição das águas, do solo, do ar, ruídos e radiações; Tratamento de resíduos industriais.
+Código:
+CV7211
+Coordenação:
+Geraldo Luiz P Fontana
+Carga Horária Total:
+80 Horas
+TEORIA DAS ESTRUTURAS III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TEORIA DAS ESTRUTURAS III
+Análise matricial de estruturas; Deslocabilidade; Vetor deslocamento nodal e vetor esforço nodal; Sistemas, local e global, de referência para barras; Matriz de rigidez de barra no sistema local e global; Matriz transformação de coordenadas; Matriz de rigidez da estrutura; Equações de equilíbrio; Esforços nas barras; Energia de deformação; Teoremas fundamentais: Clapeyron, Maxwell e Castigliano para cálculo de deslocamentos;  Teorema de Menabrea; Aplicações em treliças, pórticos planos, arcos e estrutura espacial
+Código:
+CV7330
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+FUNDAÇOES E OBRAS DE TERRA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+FUNDAÇOES E OBRAS DE TERRA
+Conceitos de Capacidade de Carga e Recalque Admissível; Critério de Escolha de Fundação; Métodos executivos; Dimensionamento; Métodos Teóricos e Semi-empíricos; Provas de carga; Ensaios Dinâmicos; Projeto de fundações: sapatas isoladas, associadas, de divisa, viga alavanca, blocos de estacas; Muros de arrimo; Empuxo do solo; Obras de terra: Aterros, barragens, cortes e taludes naturais; Métodos de execução e controle; Terraplanagem.
+Código:
+CV7410
+Coordenação:
+Kurt Andre Pereira Amann
+Carga Horária Total:
+80 Horas
+PROJETO GEOMETRICO VIARIO
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+PROJETO GEOMETRICO VIARIO
+Estudo das estradas e vias de circulação; Influências econômicas, políticas e sociais; Classificação  das  vias;  Vias  rodoviárias,  ferroviárias  e  hidroviárias;  Veículo  de projeto;  Motorista; Características do tráfego e níveis de serviço; Fases do Projeto: Reconhecimento  ou  anteprojeto;  Exploração;  Locação  e  projeto definitivo;  Traçado de vias; Elementos geométricos; Elementos da seção transversal; Segurança viária; Distância    de    visibilidade;    Superlargura;    Superelevação;    Perfil    do    terreno; Lançamento  do  greide;  Curvas  verticais;  Noções  de  terraplenagem;  Diagrama  de Bruckner; Especificações de projeto; Interseções; Projeto e Orçamento.
+Código:
+CV7510
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+CONCRETO ARMADO I
+Aulas Semanais
+6 Teóricas / 0 Práticas
+×
+CONCRETO ARMADO I
+Propriedades das estruturas de concreto armado; Sistemas estruturais; Características dos materiais: concreto e aço; Segurança nas estruturas; Estados limites; Cálculo da armadura de flexão; Posição limite da linha neutra; Largura colaborante das lajes; Cálculo da viga -T-; Cálculo do Cisalhamento no concreto armado; Treliça de Morsch; Decalagem e ancoragem da armadura nas vigas; Projeto da estrutura de um edifício. Concepção estrutural; Cálculo da armadura das lajes; Lajes em balanço; Cargas nas vigas ; Detalhamento da armadura; Projeto por meio de computador; Análise: projeto por computador versus projeto manual.
+Código:
+CV7710
+Coordenação:
+Marcello Cherem
+Carga Horária Total:
+120 Horas
+ANALISE ECONOMICA DE INVESTIMENTOS
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+ANALISE ECONOMICA DE INVESTIMENTOS
+Matemática Financeira, Análise econômica de alternativas de investimentos. Substituição de equipamentos, Desconto de duplicatas, Influência do imposto de renda na avaliação de projeto, Tipos de financiamentos e prestações, Diagrama de equilíbrio.
+Código:
+PR7320
+Coordenação:
+Fernanda Cristina Vianna
+Carga Horária Total:
+40 Horas
+LEGISLAÇÃO E NOÇÕES DE DIREITO
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+LEGISLAÇÃO E NOÇÕES DE DIREITO
+Noções de Direito: Organização do Estado Brasileiro. Sistema federativo e separação de poderes. Norma jurídica: estrutura, distinção e características. Processo legislativo. Revogação das leis. Efeitos das leis no tempo. Espécies normativas: Constituição Federal, Leis Ordinárias e Complementares, Medidas Provisórias e Atos Administrativos Normativos. Ramos do Direito. Ordenamento Jurídico. Legislação relacionada à engenharia: Aspectos peculiares do Direito do Trabalho em relação ao engenheiro, A propriedade intelectual e a profissão da engenharia, Código de Ética do Engenheiro, Regulamentação da profissão da engenharia.
+Código:
+CS8411
+Coordenação:
+Raul Cesar Gouveia Fernandes
+Carga Horária Total:
+40 Horas
+PRODUTIVIDADE NA CONSTRUÇAO CIVIL
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+PRODUTIVIDADE NA CONSTRUÇAO CIVIL
+Conceito de Produtividade; Controle da produtividade da mão de obra da Construção Civil; Organização do trabalho (Taylorismo/Fordismo); A mensuração e os indicadores de produtividade: modelos; Dimensionamento quantitativo de equipamentos; Treinamento; O Processo Produtivo; Racionalização; O papel dos agentes da cadeia produtiva; Implantação de Tecnologias; Organização de canteiros de obras e transporte de materiais; Metas e `benchmarking`.
+Código:
+CV8110
+Coordenação:
+Rafael Barreto Castelo da Cruz
+Carga Horária Total:
+40 Horas
+TRANSPORTE URBANO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TRANSPORTE URBANO
+Características técnicas e gerais dos transportes; A problemática dos transportes; Classificação; O transporte no Brasil; Indicadores de desempenho; Transporte metroviário; Transporte ferroviário; Transporte por ônibus; Sistema viário urbano; Tratamento preferencial ao transporte coletivo por ônibus; Pontos de parada; Nível de ocupação;.
+Código:
+CV8510
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+PORTOS E VIAS NAVEGAVEIS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+PORTOS E VIAS NAVEGAVEIS
+Noções de oceanografia e meteorologia. Ondas e vagas. Marés. Correntes marítimas. Ação geodinâmica do vento e do mar sobre os litorais. Obras de melhoramentos dos portos. Assessoria das obras de acostagem. Portos fluviais. Melhoramento dos cursos de água naturais para navegação. Canalização. Obras de transposição de desnível (eclusas).
+Código:
+CV8520
+Coordenação:
+Diego Lourenço Cartacho
+Carga Horária Total:
+80 Horas
+SUPERESTRUTURA RODOVIARIA
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+SUPERESTRUTURA RODOVIARIA
+Pavimentos. Conceituação e funções. Dimensionamento, projeto e construção de pavimentos flexíveis, semi-rígido e rígidos. Critérios. Materiais. Conservação. Drenagem superficial. Sinalização.
+Código:
+CV8610
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+SUPERESTRUTURA METRO-FERROVIARIA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+SUPERESTRUTURA METRO-FERROVIARIA
+Elementos da via permanente ferroviária; Noções de material rodante; Tecnologia de construção; Características do Metrô; Trilhos; Dispositivos de fixação; Desgaste das juntas; Trilho longo soldado; Tensão de temperatura; Flambagem da via; Dormentes: tipos e características; Lastro: tipos e características; Distribuição das tensões; Métodos de Talbot e Schramm; Sublastro e Material Selecionado: funções e especificação; Determinação dos esforços no trilho; Método da linha elástica de Zimmermann; Efeito dinâmico da carga; Projeto de via superestrutura de via permanente ferroviária; Equipamentos de via complementares; Aparelhos de Mudança de Via; Manutenção da via;
+Código:
+CV8620
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+CONCRETO ARMADO II
+Aulas Semanais
+6 Teóricas / 0 Práticas
+×
+CONCRETO ARMADO II
+Projeto de escada; Dimensionamento de pilares; Índice de Esbeltez; Cálculo da armadura;  Emprego de ábacos; Excentricidade complementar;. Flexão normal composta e flexão obliqua composta; Projeto de Fundações por sapatas em concreto armado; Projeto de Blocos sobre estacas; Projeto de Vigas-Alavanca; Reservatório de água para edifício;  Torção nas vigas de concreto armado; Controle de Fissuração nas vigas;
+Código:
+CV8720
+Coordenação:
+Marcello Cherem
+Carga Horária Total:
+120 Horas
+SISTEMAS DE QUALIDADE NA CONSTRUÇAO CIVIL
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+SISTEMAS DE QUALIDADE NA CONSTRUÇAO CIVIL
+Qualidade na indústria da Construção Civil; Normas séries ISO 9000 e ISO 14000; Certificação de conformidade; Implantação de programas evolutivos de gestão da Qualidade na construção civil (ITQC, PBQP-H QualiHab); Sistema 5S; Qualidade no projeto e no processo; Garantia da Qualidade; Conceito de `Lean Construction`.
+Código:
+CV9110
+Coordenação:
+Rafael Barreto Castelo da Cruz
+Carga Horária Total:
+40 Horas
+TEORIA DAS ESTRUTURAS IV
+Aulas Semanais
+3 Teóricas / 0 Práticas
+×
+TEORIA DAS ESTRUTURAS IV
+Métodos dos elementos finitos; Relação entre deslocamentos, deformaçõese tensões; Teoria da elasticidade; Estudo do elemento finito triangular; Estado plano de tensões e deformações; Matriz de rigidez de um elemento finito triangular; Processo de deslocamentos; Matriz de rigidez da estrutura; Condições de contorno; Emprego do computador; Diagramas de tensões normais e de cisalhamento; Discretização de elementos;
+Código:
+CV9340
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+60 Horas
+ENGENHARIA DE TRAFEGO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ENGENHARIA DE TRAFEGO
+Velocidade. Características da corrente de trânsito. Capacidade e níveis de serviço para fluxo ininterrupto. Estudo de origem, destino. Capacidade das rampas. Trânsito em rede viária - distribuição e atribuição de viagens. Tipos de rodovias rurais. Artérias urbanas. Vias expressas em nível. Vias expressas bloqueadas.
+Código:
+CV9511
+Coordenação:
+Raul Fernando Ramos
+Carga Horária Total:
+80 Horas
+TRAFEGO METRO-FERROVIARIO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+TRAFEGO METRO-FERROVIARIO
+Conceituação. Sistemas de tração. Material rodante. Segurança e controle de tráfego. Tráfego mútuo. Sinalização. Tarifas. Receitas e despesas. Relações entre volume, densidade e velocidade
+Código:
+CV9521
+Coordenação:
+Rafael Barreto Castelo da Cruz
+Carga Horária Total:
+80 Horas
+AEROPORTOS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+AEROPORTOS
+Conceitos de aerovia; controle de tráfego e navegação aérea. Projeto de aeroportos - localização: Plano geral, áreas de pouso, manobras, zona de segurança, projeto geométrico das pistas. Área terminal - Heliportos  e aeroportos militares.
+Código:
+CV9531
+Coordenação:
+Diego Lourenço Cartacho
+Carga Horária Total:
+80 Horas
+CONCRETO PROTENDIDO
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+CONCRETO PROTENDIDO
+Tipos de protensão; Métodos construtivos; Projeto de cobertura de concreto protendido pré-moldado; Modelos de concreto armado; Semelhança mecânica; Execução de modelo de viga ou pilar de concreto armado; Ensaios dos modelos de concreto armado; Comparação dos ensaios com os métodos de cálculo e normas;
+Código:
+CV9710
+Coordenação:
+Marcello Cherem
+Carga Horária Total:
+80 Horas
+TRABALHO FINAL DE CURSO I
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+TRABALHO FINAL DE CURSO I
+Planejamento de trabalhos de pesquisa ao final do curso, sob a orientação de Professor Responsável pela disciplina que orientará, fiscalizará e supervisionará individualmente cada aluno. Metodologia Científica
+Código:
+CV9810
+Coordenação:
+Rui Barbosa de Souza
+Carga Horária Total:
+40 Horas
+ESTAGIO SUPERVISIONADO EM ENGENHARIA CIVIL
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+ESTAGIO SUPERVISIONADO EM ENGENHARIA CIVIL
+Relatório sobre um ou mais diversos sistemas de transporte com visitas periódicas aos sistemas existentes. Esse trabalho é orientado, fiscalizado e supervisionado pelo professor da disciplina.
+Código:
+CV9820
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+40 Horas
+HIGIENE E SEGURANÇA DO TRABALHO NA CONST. CIVIL
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+HIGIENE E SEGURANÇA DO TRABALHO NA CONST. CIVIL
+Prevenção de acidentes; Riscos; Insalubridade; Periculosidade; Legislação e normas aplicadas à construção civil; Segurança no canteiro de obras;  Ergonomia; Prevenção e combate a incêndios. Estudo de casos.
+Código:
+PR9430
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+40 Horas
+PONTES E GRANDES ESTRUTURAS
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+PONTES E GRANDES ESTRUTURAS
+Arquitetura das pontes. Esforços externos ativos. Aparelhos de apoio. Estudo de infra-estrutura. Pilares e encontros. Esforços. Superestruturas de pontes de concreto armado e protendido: Lajes de pontes. Superestruturas de pontes metálicas. Pontes metálicas. Pontes em treliça. Pontes pênseis
+Código:
+CV0710
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+120 Horas
+ECONOMIA DOS TRANSPORTES
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ECONOMIA DOS TRANSPORTES
+Introdução. Características econômicas dos sistemas de transportes. Custo. Demanda. Tarifação. Avaliação de projetos. Investimentos.
+Código:
+CV0520
+Coordenação:
+Raul Fernando Ramos
+Carga Horária Total:
+80 Horas
+PLANEJAMENTO DOS TRANSPORTES
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+PLANEJAMENTO DOS TRANSPORTES
+Conceitos fundamentais de transportes. Planejamento de transportes: obtenção de dados. Diagnóstico da situação existente. Previsão da demanda. Planejamento de transportes por  modelos. Condicionamento existentes ao planejamento de transportes.
+Código:
+CV0530
+Coordenação:
+Kurt Andre Pereira Amann
+Carga Horária Total:
+80 Horas
+PLANEJAMENTO GERAL E URBANO
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+PLANEJAMENTO GERAL E URBANO
+Fundamentação teórica do planejamento como processo. Elaboração do planejamento de implementação. Conceitos: as regiões, atividades econômicas, equilíbrios e desequilíbrios regionais. Modelos; técnicas de planejamento regional. Sistema urbano: componentes. Estudo de uma cidade como sistema.
+Código:
+CV0110
+Coordenação:
+Alda Paulina dos Santos
+Carga Horária Total:
+40 Horas
+TRABALHO FINAL DE CURSO II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+TRABALHO FINAL DE CURSO II
+Desenvolvimento de trabalhos de pesquisa ao final do curso, sob a orientação de Professor Responsável pela disciplina que orientará, fiscalizará e supervisionará individualmente cada aluno.
+Código:
+CV0820
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+40 Horas
+ESTRUTURAS METALICAS E DE MADEIRAS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ESTRUTURAS METALICAS E DE MADEIRAS
+Estruturas metálicas. Campo de aplicação. Método de cálculo. Arranjo estrutural das construções metálicas civis e industriais. Construções de madeira. Campo de aplicação. Propriedades, resistência e proteção, arranjo estrutural das construções de madeira.
+Código:
+CV0720
+Coordenação:
+Bruno Eizo Higaki
+Carga Horária Total:
+80 Horas
+PESQUISA OPERACIONAL
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+PESQUISA OPERACIONAL
+Conceitos de Pesquisa Operacional. Modelos e otimização. Soluções gráficas. Programação linear. Teorema fundamental. Método simplex. Método de duas fases. Método do simplex revisado. Dualidade. Análise de sensibilidade. Modelos de transporte. Análise econômica. Teoria de jogos.
+Código:
+PR0170
+Coordenação:
+Jose Agostinho Baitello
+Carga Horária Total:
+40 Horas
+INGRESSANTES ENTRE 2019 E 2022
+Diurno
+Matriz Curricular
+Clique nos ciclos abaixo para mais detalhes:
+1 º Ciclo
+2 º Ciclo
+3 º Ciclo
+4 º Ciclo
+5 º Ciclo
+6 º Ciclo
+7 º Ciclo
+8 º Ciclo
+9 º Ciclo
+10 º Ciclo
+Calculo Diferencial e Integral I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral I
+Conceito de Função. Funções Básicas. Limites. Formas Indeterminadas. Limites Fundamentais. Derivadas. Interpretação Geométrica. Propriedades Operatórias.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Vetorial e Geometria Analítica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Vetorial e Geometria Analítica
+Matrizes. Vetores no Plano e no Espaço. Operações com Vetores. Dependência Linear. Bases. Produtos. Sistemas de Coordenadas. Retas e Planos. Superfícies Esféricas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Desenho Técnico
+Introdução aos conceitos básicos para a interpretação e elaboração de desenhos técnicos utilizados em engenharia. Representação de figuras planas e perspectivas. Elaboração de croquis. Projeções ortográficas convencionais e com utilização de cortes. Dimensionamento e escalas. Trabalhos práticos manuais com instrumentos e por meio de software CAD.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física I
+Medidas físicas; Cinemática da partícula; Dinâmica da partícula: Forças e leis de Newton; Trabalho, energia e conservação da energia; Impulso, momento linear e conservação do momento linear.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Laboratório de Matemática
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Matemática
+Conversão de relações descritas em língua natural (propostas de problemas) para a forma de expressões matemáticas e lógicas (modelos matemáticos) utilizando Funções Básicas. Desenvolvimento de soluções em ambiente computacional.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Práticas de Inovação I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação I
+Conceito de inovação (descoberta x invenção x inovação); tipos de inovação (produto, processo, marketing, método organizacional e modelo de negócio); formulação de problema e geração de ideias (técnicas de formulação de perguntas, ferramenta de Design Thinking ((pensar de forma criativa e visual e usado geralmente quando o problema não está bem definido)) e o método do 5W1H); seleção de ideias (uso da ferramenta do Funil da Inovação) e difusão de ideias em seus diferentes graus (incremental, radical e mudança de paradigma); algumas ferramentas de auxílio do Google: Analytics, Adsense e Adwords.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sociologia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Sociologia
+Principais conceitos sociológicos. Trabalho objetivo e subjetivo. A transformação da organização social do trabalho. Trabalho, identidade e interação social. A quarta revolução industrial: trabalho, economia, cultura e política. Novos paradigmas sociais. Estado e políticas de inserção social. Desigualdades, conflitos sociais, identidade e diversidade. Multiculturalismo e pluralidade.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Calculo Diferencial e Integral II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral II
+Aplicações de Derivadas: otimização, regra do L’Hospital, esboço de gráficos de funções. Diferenciais e Taxa de Variação. Integrais indefinidas. Técnicas de Integração. Integrais definidas. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Comunicação e Expressão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Comunicação e Expressão
+Textos literários e textos não literários. Níveis de linguagem, linguagem coloquial e norma culta. Leitura e interpretação de textos dissertativos, científicos e jornalísticos. Estrutura do texto dissertativo. Estrutura do parágrafo e tópico frasal; coesão e coerência textuais. Argumentação: tipos de argumento. Tópicos de linguagem. Produção textual.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletrônica Geral
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Eletrônica Geral
+Representação Analógica e Digital e suas interfaces. Introdução aos Circuitos Lógicos. Controladores Lógicos Programáveis e Microcontroladores. Instrumentação e amplificação. Sensores e Atuadores. Processamento de Sinais. Comunicação digital.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Filosofia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Filosofia
+Realismo. Investigação existencial e Experiência. Razão e Razoabilidade. Certeza moral e Fé. Moralidade no conhecimento. Razão e Sentimento. Senso religioso. Pessoa e o Infinito.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física II
+Oscilações simples, amortecidas e forçadas. Ressonância. Ondas mecânicas. Equilíbrio térmico e calor. Transferência de calor: condução, convecção e radiação. Propriedades térmicas da matéria. Primeira lei da termodinâmica, trabalho, energia e processos termodinâmicos simples. Segunda lei da termodinâmica, entropia, máquinas térmicas e refrigeradores.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Computação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Introdução à Computação
+Introdução e conceitos básicos de Algoritmos. Noções sobre bases de numeração: decimal, binária, hexadecimal. Tipos básicos de dados. Variáveis, fluxos sequenciais, operadores matemáticos, lógicos e relacionais. Estruturas de controle de seleção. Estruturas de controle de repetição. Modularização. Tipos de dados estruturados homogêneos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Práticas de Inovação II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação II
+Competências para inovar (liderança, ferramenta DISC para avaliação pessoal, tipos de profissional); risco x incerteza (transformar incerteza em risco, classificando em tipo de grau de risco); Effectuation (metodologia de desenvolvimento de negócio); metodologia de validação de ideias; construção de um MVP Minimum Viable Product no laboratório de informática (elaboração de vídeos, app, blogs, fotos etc); marketing digital e mídias sociais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Geral
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Química Geral
+Quantidade de matéria; Gases; Líquidos; Estequiometria; Equilíbrio líquido – vapor. Balanço Material. Termoquímica; Combustão e combustíveis; Lubrificantes e lubrificação; Eletroquímica.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Arquitetura e Representação Gráfica
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Arquitetura e Representação Gráfica
+Interfaces entre Arquitetura e Engenharia Civil; Análise de obra; Representação gráfica para projetos de edificações; Levantamento e elaboração de planta de imóvel existente; Etapas de projeto; Programa de necessidades e escala humana; Conforto ambiental; Estudos exploratórios de ambientes; Legislação: código de obras; Uso e ocupação do solo: zoneamento; Elaboração de projeto arquitetônico: partido, plano de massas, implantação, plantas, cortes, elevações; Desenho em computador com programa AutoCAD-2D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Calculo Diferencial e Integral III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral III
+Funções de Várias Variáveis. Derivadas Parciais. Diferenciais. Integrais Múltiplas. Integrais de linha. Operadores: Gradiente, Divergente e Rotacional.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Equações Diferenciais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Equações Diferenciais
+Equações diferenciais de primeira Ordem: Variáveis Separáveis, Homogêneas, Lineares e Exatas. Equações Diferenciais de Segunda Ordem com Coeficientes Constantes: Homogênea e Completa. Modelagem matemática.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física III
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física III
+Carga elétrica, campo elétrico, força elétrica e fluxo de campo elétrico. Corrente elétrica, campo magnético, força magnética e fluxo de campo magnético. Movimento de cargas puntiformes em campos elétrico e magnético. Potencial elétrico, energia potencial elétrica e capacitância. Indução eletromagnética, energia magnética e indutância. Campos elétricos e magnéticos na matéria.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Mecânica Geral
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica Geral
+Centroide, centro de massa e momentos de inércia. Sistemas de forças e forças distribuídas. Equilíbrio. Cinemática do corpo rígido: translação, rotação e centro instantâneo de rotação. Dinâmica do corpo rígido: translação e rotação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Princípios de Ciência e Engenharia dos Materiais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Princípios de Ciência e Engenharia dos Materiais
+Tipos de ligações químicas em sólidos de substâncias puras e seu papel na determinação de: (1) propriedades físicas fundamentais; (2) estruturas atômicas/moleculares; (3) classes de materiais; (4) propriedades mecânicas básicas. Influência das estruturas e microestruturas nas propriedades dos materiais. Introdução a relação entre estrutura/propriedades/processamento e desempenho de materiais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação I
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação I
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; modelagem matemática de fenômenos físicos e químicos; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Topografia
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Topografia
+Conceitos básico de cartografia: Introdução a topografia, medição de distâncias e ângulos; poligonais azimutes e coordenadas; declinação magnética, taqueometria, representação do relevo; nivelamento; estudos sobre planta topográfica; avaliação de áreas e volumes; locação topográfica; desenho topográfico com auxílio de computador
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Álgebra Linear e Aplicações
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Álgebra Linear e Aplicações
+Sistemas Lineares. Espaços Vetoriais. Subespaços Vetoriais. Bases e Dimensões. Transformações Lineares. Autovalores e Autovetores. Espaços Vetoriais com Produto Interno. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Eletricidade Geral
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Eletricidade Geral
+Circuitos de corrente contínua. Potência gerada e dissipada. Circuitos de corrente alternada. Fator de Potência. Circuitos trifásicos. Motores e geradores elétricos. Geração, Transmissão e Distribuição de Energia Elétrica. Fornecimento de Energia – Tarifação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física Moderna
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Física Moderna
+Óptica física: polarização, interferência e difração. Relatividade: dilação temporal, contração espacial e equivalência entre massa e energia. Física quântica: fótons e efeito fotoelétrico, ondas de matéria e equação de Schrödinger, princípio da incerteza, interpretação probabilística e tunelamento, átomos e moléculas, condução de eletricidade nos sólidos, núcleos atômicos, radioatividade e energia nuclear.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Hidrologia Aplicada
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Hidrologia Aplicada
+Impacto das grandes cidades e alterações no regime do ciclo hidrológico natural; Estudo do Ciclo Hidrológico. Noções de obras e suas interferências nos cursos dágua. Bacias Hidrográficas; divisores de água; comparações entre bacias; Precipitação; formação e classificação; medidas pluviométricas; frequência das precipitações; intensidade de precipitação; levantamento de dados pluviométricos; Infiltração; características; fatores que influenciam; capacidade de infiltração de um solo; medição; generalidades sobre as águas subterrâneas; Escoamento superficial; hidrograma e hidrograma unitário; Estimativa do escoamento a partir dos dados pluviométricos; Método Racional; aproveitamento de águas de chuva Regime dos cursos dágua; curvas de duração e de utilização; medição de vazões; Previsão de enchentes; período de retorno; métodos de cálculo; Propagação de enchentes em reservatórios, rios e canais; Métodos de combate às enchentes; Regularização de vazões e aproveitamento de recursos hídricos; aspectos ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Instalações Elétricas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Instalações Elétricas
+Fundamentos (planejamento e etapas) de instalações elétricas. Normas técnicas de instalações elétricas de baixa e alta tensão e também para telefonia. Luminotécnica (luminotecnia). Símbolos gráficos usados para representar as instalações elétricas e telefônicas. Dimensionamento de cabos e equipamentos. Traçado de circuitos de instalação elétrica. Pára-raios. Aterramento. Comando e proteção em instalações elétricas (iluminação, de motores elétricos, etc.). Potências aparente, ativa e reativa e correção do Fator de Potência. Gerador suplementar de energia elétrica (emergência). Uso racional da energia elétrica.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Materiais de Construção Civil I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Materiais de Construção Civil I
+Normalização Técnica; Propriedades, obtenção e aplicação de materiais de construção civil; Aglomerantes; Agregados; Estudo de dosagem do concreto de cimento Portland; Aço estrutural e para concreto armado; Ensaios de Controle Tecnológico.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Mecânica dos Sólidos
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica dos Sólidos
+Complementos de estática. Elementos estruturais. Mecânica dos sólidos deformáveis: tensões, deformações, deslocamentos, classificação dos materiais estruturais e leis constitutivas. Modelagem de casos particulares: i) tração/compressão e flambagem; ii) cisalhamento puro e ligações mecânicas; iii) flexão pura, simples e composta; iv) torção e transmissão de potência em seções circulares; v) tensões térmicas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Projeto Interdisciplinar Tutorado de Inovação II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação II
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação I
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Tecnológica para Engenharia Civil
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Química Tecnológica para Engenharia Civil
+Introduzir conceitos básicos sobre eletroquímica. Conceitos fundamentais de corrosão de metais. Asfalto (tipos, caracterização físico-química, normalização). Cimento Portland (processo de produção, composição química, clinquerização, cálculo de Bogue, hidratação e solubilidade dos componentes).
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cálculo Numérico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cálculo Numérico
+Sistemas lineares: métodos exatos e iterativos. Zeros de funções. Aproximação de funções – Método dos Mínimos Quadrados. Interpolação – Método de Newton e Método de Lagrange. Integração numérica. Equações diferenciais – métodos numéricos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Economia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Economia
+Breve história do pensamento econômico. Microeconomia: oferta e demanda, elasticidade e custo marginal. Função produção. Inovação tecnológica no contexto da economia da empresa. Macroeconomia: taxa de juros, câmbio, moeda, dívida pública, PIB, desemprego, inflação. Introdução à organização industrial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ensino Social Cristão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ensino Social Cristão
+Natureza do Ensino Social Cristão. Princípios norteadores. Dignidade humana e Direitos humanos. Princípio da Solidariedade; Princípio da Subsidiariedade e do Bem Comum. Justiça e Misericórdia. Política: papel do Estado e grupos intermediários. Liberdade religiosa. Economia, ética e destinação universal dos bens. A questão do trabalho humano. Solidariedade, economia e desenvolvimento integral.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Materiais de Construção Civil II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Materiais de Construção Civil II
+Introduzir conceitos fundamentais de ciência, tecnologia e desenvolvimento de materiais. Capacitar o aluno a especificar e controlar tecnologicamente os materiais mais comuns utilizados na construção civil: cerâmicas, vidros, polímeros e elastômeros, madeiras, tintas, argamassas e outros materiais cimentícios. Normalização técnica.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Fluidos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Mecânica dos Fluidos
+Conceitos fundamentais de mecânica dos fluídos. Viscosidade. Hidrostática. Manometria. Conservação da massa e energia em volume de controle. Equação de Bernoulli. Perda de carga distribuída e singular. Diagrama de Moody.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Modelos Probabilísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Modelos Probabilísticos
+Probabilidade. Variáveis Aleatórias Discretas. Distribuição Conjunta de Variáveis Aleatórias Discretas. Distribuições de Variáveis Discretas: Binomial e Poisson. Distribuições de Variáveis Aleatórias Contínuas: Normal e Exponencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação III
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação III
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; Analisar e compreender os usuários das soluções de engenharia e seu contexto, para formular as questões de Engenharia Civil e conceber soluções desejáveis; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil; Implantar, operar e manter as soluções e sistemas de Engenharia Civil considerando os aspectos técnicos, sociais, legais, econômicos e ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Teoria das Estruturas I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Teoria das Estruturas I
+Estruturas isostáticas. Diagramas de esforços internos solicitantes. Pórticos planos. Estruturas tri-articuladas. Arcos isostáticos. Cisalhamento na flexão. Estado plano de tensões. Noções de análise experimental de estruturas. Extensometria elétrica. Aquisição de dados. Análise experimental de tensões.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transferência de Calor para Engenharia Civil
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Transferência de Calor para Engenharia Civil
+Modos de transferência de calor: condução, convecção e radiação. Resistência térmica. Associação em série e paralelo. Aletas. Trocadores de calor.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Custos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Custos
+Conceitos básicos. Métodos de custeio. Abordagens contemporâneas de custos: custos ambientais, custo da qualidade, Life Cycle Cost (LCC), outras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Desempenho Térmico e Acústico de Edificações
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Desempenho Térmico e Acústico de Edificações
+Análises experimentais térmicas e acústicas dos principais materiais utilizados em pisos, paredes, coberturas, fachadas e esquadrias. Fundamentos de acústica. Isolamento termoacústico. Dimensionamento e medições necessárias para o atendimento às normas brasileiras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ecologia e Sustentabilidade
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ecologia e Sustentabilidade
+A questão ambiental e a vida humana. Teoria Ecológica: Sociedade, Desenvolvimento e Meio Ambiente. O Impacto das novas tecnologias. Eficiência energética. Produção Mais Limpa. Eco eficiência. Logística reversa. Produção sustentável e Análise de Ciclo de Vida do Produto. Normas e Certificações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Hidráulica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Hidráulica
+Instalações de bombeamento: curvas de bombas, curva da instalação e custo de bombeamento; Perda da carga em condutos forçados; Usinas hidroelétricas: instalações, turbinas e custo de geração; Forças em superfícies submersas; Equilíbrio de corpos flutuantes; Canais e vertedores em regime permanente.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Laboratório de Mecânica dos Fluidos
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Mecânica dos Fluidos
+Estática dos fluídos; Análise dimensional e semelhança; Equação da quantidade de movimento; Experiências de manometria, visualização de escoamentos, bombas, perda de carga singular e distribuída, forças em superfícies sujeitas ao escoamento de um fluido.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Métodos Estatísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Métodos Estatísticos
+Amostragem. Distribuições Amostrais. Intervalos de Confiança. Testes de Hipóteses para a Média e a Proporção. Correlação e Regressão. Teste de Qui-Quadrado. Análise de Variância. Desenho de Experimentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação IV
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação IV
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação III.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Tecnologia das Construções I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Tecnologia das Construções I
+Sistemas e métodos construtivos; Etapas de construção; Plano de canteiro de obras; Locação de obra; Execução de estruturas de concreto armado; Fôrmas e escoramentos; Alvenaria racionalizada; Parede em gesso acartonado; Impermeabilização; Coberturas; Revestimentos; Execução de instalações hidráulicas; Visitas técnicas a obras em construção.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Teoria das Estruturas II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Teoria das Estruturas II
+Estruturas hiperestáticas. Estruturas estaiadas. Grelhas. Vigas hiperestáticas. Vigas contínuas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Engenharia Econômica
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Engenharia Econômica
+Matemática financeira. Valor do dinheiro no tempo: juros e fluxo de caixa. Métodos de análise de projetos de investimento (VPL, TIR, VAE, tempo de retorno). Vida econômica e substituição de equipamentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ética
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ética
+O âmbito da ética. Relações étnico-raciais, discriminação e xenofobia. Ética da Lei Natural. Fundamentos da Lei Natural. A opção fundamental e os comportamentos concretos. Direito natural e direito positivo. Ética, ciência e tecnologia. Éticas aplicadas: códigos de ética profissionais; ética dos negócios e ética concorrencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Geotecnia I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Geotecnia I
+Principais aspectos de geologia com foco na gênese das rochas e dos solos. Constituição do solo, relação entre seus índices físicos. Características dos solos granulares e coesivos e as classificações geotécnicas. Ensaios de laboratório Tensões geostáticas e transmissão de tensões aplicadas na superfície de um maciço, investigações geotécnicas e a teoria de consolidação de argilas saturadas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Instalações Hidráulicas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Instalações Hidráulicas
+Instalação de abastecimento predial; Distribuição de água fria: barrilete, coluna, ramais e sub-ramais; Esgoto sanitário: ramal de descarga e de esgoto, coletores, tubos de queda e coluna de ventilação; Esgoto pluvial: calhas, tubos de queda e galerias pluviais; Instalações de água quente; Sistemas de combate a incêndio: comandado e automático.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação V
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação V
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; Analisar e compreender os usuários das soluções de engenharia e seu contexto, para formular as questões de Engenharia Civil e conceber soluções desejáveis; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil; Implantar, operar e manter as soluções e sistemas de Engenharia Civil considerando os aspectos técnicos, sociais, legais, econômicos e ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Teoria das Estruturas III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Teoria das Estruturas III
+Deslocamento dos vínculos. Análise matricial. Teorema da energia de deformação. Teorema de Menabrea.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transportes I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes I
+Introdução aos Transportes. Modos, vias e veículos. Física aplicada aos modais de transporte. Técnica e Economia em Transportes. Modelos de estudos financeiros aplicados. Heurística aplicada a estudos e projetos em Transportes. Estudo de vias de transporte terrestre; influências econômicas, políticas e sociais. Classificação das vias, veículos de projeto, fases de projeto (reconhecimento, projeto básico, projeto executivo 0; elementos da seção transversal, elementos horizontais e verticais (especificações de projeto), noções de terraplenagem, diagrama de Bruckner, estimativa de custo.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Tratamento de Água
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Tratamento de Água
+Fontes de água; caracterização das águas (determinação de: dureza, alcalinidade, sólidos totais, sólidos fixos, sólidos voláteis, sólidos sedimentáveis, sólidos em suspensão e sólidos dissolvidos); usos e consumos; sistemas de tratamento de águas; tratamento de águas para fins potáveis (ensaios de clarificação e filtração); sistemas de abastecimento.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estratégia e Gestão Organizacional
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estratégia e Gestão Organizacional
+Estratégia. Gestão por processos e funções organizacionais (finanças, marketing, produção). Gestão do desenvolvimento de produto. Aspectos humanos nas organizações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estruturas de Concreto I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas de Concreto I
+Pré-dimensionamento. Comportamento mecânico. Vigas retangulares. Lajes maciças. Seção T. Vigas submetidas ao cisalhamento.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Geotecnia II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Geotecnia II
+Conceitos de resistência ao cisalhamento dos solos e respectivos ensaios. Aspectos conceituais e de execução relativos a compactação de aterros. Percolação de água nos solos. Análise de estabilidade de taludes de aterros. Escavações pela Teoria do Equilíbrio Limite.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Metodologia de Pesquisa
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Metodologia de Pesquisa
+A pesquisa e a produção metodológica de conhecimento. Projeto de pesquisa científica. Taxonomias e tipos de pesquisas. Procedimentos e etapas de um trabalho científico (tema, problema, objetivos, hipóteses, justificativas). Citações e Referências bibliográficas. Plágio e ética na Pesquisa Científica. Níveis e variáveis de mensuração. Amostragem na pesquisa. Elementos pré-textuais, textuais e póstextuais. As Referências e normas. Fontes de pesquisa e banco de patentes.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+OPTATIVA I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+OPTATIVA I
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Nome:
+Arquitetura Sustentável
+Ementa:
+Conceito de sustentabilidade, Arquitetura sustentável, Agenda 21, Conceito de Edifícios verdes. Principais selos para construções sustentáveis: Certificação LEED, Programa nacional de Eficiência energética em Edificações (PROCEL EDIFICA), processo AQUA, BREAM (Building Reserarch Establishment Environmental Assessment Method) , Casa Azul, DGNB (German Sustainable Building Council).
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Barragens de Terra e Enrocamento
+Ementa:
+Exemplo clássico de usina hidrelétrica, com todos os seus órgãos constituintes, ou seja, obras para desvio do rio, barramento, sistemas de vertimento e de geração de energia elétrica. Fatores intervenientes na escolha dos tipos de soluções e respectivo arranjo. Principais tipos de barragens de terra e/ou enrocamento, seus detalhes, tratamentos de fundação, metodologias de dimensionamento e um estudo comparativo entre as soluções apresentadas.
+Pré-requisito:
+Geotecnia I
+Nome:
+Building Information Modeling (BIM)
+Ementa:
+Conceituação e prática do sistema parametrizado BIM – Building Information Modeling para projeto de edificações; Utilização do programa Revit-Autodesk; Modelagem 3D de projeto de edificação a partir de Estudo Preliminar pré- elaborado pelo aluno; Verificação de elementos construtivos do projeto; Quantificação de materiais; Geração de imagens 3D renderizadas.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Cidades Inteligentes (Smart Cities)
+Ementa:
+Conceitos de cidades inteligentes; expectativa de vida humana, migração urbana populacional, recursos naturais, cidades resilientes; infraestrutura básica para cidades; conectividade; mobilidade; segurança, saúde, educação, governança, centro de operação, centro de comando e controle; sensorização, iluminação, informação ao cidadão, redes inteligentes, energia, colaboração cidadão, modos de transportes urbanos e integração, galerias de utilidades, conceito de cidades globais.
+Pré-requisito:
+Arquitetura e Representação Gráfica
+Nome:
+Drenagem Superficial de Vias Terrestres
+Ementa:
+Teoremas aplicados da hidráulica, para conduções forçada e livre. Aplicações de Reynolds e Número de Froude. Tipologia de elementos de drenagem superficial aplicáveis a rodovias, ferrovias e aeroportos. Projeto de Seções transversais. Sistemas de drenagem. Controle de Erosões. Técnica construtiva.
+Pré-requisito:
+Hidráulica e Hidrologia
+Nome:
+Drenagem Urbana
+Ementa:
+Fundamentos de hidrologia urbana. Conceitos gerais de drenagem urbana sustentável. Gestão do risco em drenagem urbana. Sistemas de Micro drenagem: elementos constituintes, concepção e traçado de sarjetas e captações superficiais, vazão de dimensionamento, dimensionamento de galerias e canalizações, dimensionamento de bueiros e dissipadores. Uso de “softwares” de simulação. Sistemas de Macro drenagem: conceitos gerais, análise de risco em drenagem, modelagem hidrológica da bacia, dispositivos de condução, dispositivos de retenção e armazenamento, dimensionamento de canalizações, bueiros, diques e polderes.
+Pré-requisito:
+Hidrologia
+Nome:
+Durabilidade do Concreto
+Ementa:
+Introdução à microestrutura do concreto. Ações de degradação de estruturas de concreto. Ataque por sulfatos. Ataque por cloretos. Carbonatação. Retração por secagem. Reação álcali-agregado. Lixiviação. Eflorescência.
+Pré-requisito:
+Materiais de Construção Civil I
+Nome:
+Economia dos Transportes
+Ementa:
+Relação entre conceitos e aspectos econômicos e movimentações de cargas e pessoas. Relação entre ransporte e desenvolvimento. Aplicações da matemática financeira no setor transporte. Utilização de recursos e necessidade de decisão. Características econômicas dos sistemas de transporte. Estrutura de custos no setor transporte (custo, preço e valor). Demanda por transporte. Fretes e tarifas em sistemas de transporte. Ambientes econômicos e formação de preços. Avaliação de projetos e de intervenções. Enfoques empresarial e governamental (social). Investimentos e financiamento no setor transporte. Estrutura Institucional e de gestão no setor transporte.
+Pré-requisito:
+Transportes I
+Nome:
+Edifícios Inteligentes e Automação Predial (Building Technologies)
+Ementa:
+Conceitos básicos de tecnologias prediais e automação compreendidas por: protocolos de equipamentos e comunicação; certificações LEED,ACQUA e PROCEL Edifica, sistema integrado de facilidades (água, esgoto, elétrica, incêndio, aterramento, pararaios, telecomunicações, etc); reuso de água(captação e filtragem de galerias pluviais e coletores); geração distribuída (solar); sistemas de emergência - gerador, iluminação, abastecimento; tratamento e coleta seletiva de resíduos domésticos; segurança perimetral e invasão; portaria eletrônica e automação de acesso; otimização e infraestrutura de veículos elétricos - conceitos de smart grid (redes inteligentes); centro de controle e comando predial.
+Pré-requisito:
+Instalações Hidráulicas
+Nome:
+Engenharia Civil: Direito e Legislação
+Ementa:
+A regulamentação da engenharia. Sistema jurídico brasileiro. Prerrogativas de atividades do engenheiro civil. Engenharia civil e Direito do Trabalho. Planejamento urbanístico e licenciamento de obras. A engenharia civil no setor público. Engenharia Civil e as questões legais específicas. Segurança nas obras e legislação. Legislação ambiental na construção civil. A ética e a engenharia civil.
+Pré-requisito:
+Nome:
+Engenharia de Trafego
+Ementa:
+Estruturação e Funções dos Espaços urbanos. Componentes, classes e funções do sistema viário. . Configurações de demanda e perfis de tráfego veicular. Princípios Fundamentais da Teoria de Fluxo de Tráfego. Modelos Gerais de Fluxo de Tráfego e Equação Fundamental de Tráfego. Capacidade Viária e Níveis de Serviço. . Noções de Polos Geradores do Tráfego. Estacionamentos. Segurança de Tráfego. Sinalização viária. Estruturação de Interseções Urbanas e de Rodovias. Teoria das Filas e simulações.
+Pré-requisito:
+Transportes I
+Nome:
+Engenharia Humanitária
+Ementa:
+A Engenharia Humanitária. Critérios para a engenharia humanitária. Fator Humano, fator econômico, Fator ambiental. Inovações, sustentabilidade e segurança. Prevenção, inovação e mudança. Tecnologia, economia, ética e cultura. Cooperação e transdisciplinaridade para a Engenharia Humanitária.
+Pré-requisito:
+Nome:
+Escaneamento a Laser
+Ementa:
+Laser Scan terrestre: - Tecnologias e equipamentos. Princípios físicos e geométricos do levantamento - Técnicas de levantamento de campo, métodos de varredura - Modelos, maquetes 3D, plantas, seções, perfis, levantamento do como construído (“as built”) - Processamento de dados: da nuvem de pontos à formação de modelos: eliminação de ruídos e de pontos redundantes, consolidação, registro, extrações dimensionais, primitivas, - Técnicas de modelagem 3D: primitivas, renderização, variáveis visuais - Técnicas de integração em projetos. Projetos inteligentes. - Aplicações: Plantas industriais, refinarias de petróleo, túneis, mineração e construção de edifícios.
+Pré-requisito:
+Topografia
+Nome:
+Estruturas de Concreto Assistidas por Computador
+Ementa:
+Uso de ferramentas computacionais na elaboração de projetos de concreto armado. Modelos estruturais e tipos de análise estrutural. Exemplo de cálculo completo, desde a concepção até a geração dos desenhos de fôrma e armadura.
+Pré-requisito:
+Estruturas de Concreto I
+Nome:
+Gerência de Pavimentos
+Ementa:
+Avaliações de qualidade por métodos de investigação superficial. Equipamentos de mensuração de características gerais estruturais. Índice de condição do pavimento. Técnicas de gerência com metodologia de critérios específicos de ações sob nota decrescente de segmentos de pavimentos.
+Pré-requisito:
+Transportes II
+Nome:
+Gerenciamento de Resíduos na Construção Civil
+Ementa:
+Perdas e Geração de resíduos na construção civil. Classificação e características dos resíduos da construção e demolição. Marcos conceituais, legislação, classificação e acondicionamento e destinação dos resíduos. Análise do Ciclo de Vida do produto (ACV) na construção civil. Projetos de Gerenciamento de Resíduos da Construção Civil. Gestão pós-uso na área da construção civil abrangendo minimização no uso de recursos, reutilização, recuperação e reciclagem evitando perdas e desperdícios.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Gestão Ambiental
+Ementa:
+O conteúdo programático de Gestão Ambiental. Representação Legal. Conceitos Fundamentais. Licenciamento Ambiental. Sustentabilidade e Desenvolvimento sustentável. Recursos Tecnológicos Disponíveis – Equipamentos de Controle da Poluição do Ar. Gestão Ambiental Empresarial.
+Pré-requisito:
+Nome:
+Gestão de Riscos ao Meio Ambiente na Construção
+Ementa:
+Os principais perigos associados à indústria da construção civil e os riscos associados às diversas categorias de trabalhadores do setor. Legislação relativa ao setor da construção. Documentação e comunicação e avaliação de riscos. Gerência dos riscos do projeto. Metodologias e estratégias de controle. Legislação na área trabalhista e de segurança na área da construção civil.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Gestão de Vias Urbanas e Segurança Viária
+Ementa:
+Aspectos gerais de segurança viária e métodos de avaliação de riscos. Pedágio urbano. Concessão de vias urbanas. Geometria viária urbana: intersecções e segmentos de vias. Elementos da seção transversal. Normatização e Métodos.
+Pré-requisito:
+Transportes I
+Nome:
+Instrumentação e Monitoramento de Estruturas
+Ementa:
+Estruturas e seu comportamento perante as solicitações do ambiente e de cargas. Introdução à segurança das estruturas. Referências para a coleta de dados de deslocamentos em estruturas. Sistemas cartesianos de referência (absolutos e relativos). Referencial altimétrico. Equipamentos clássicos e modernos de medição: técnicas de Topografia e Geodésia. instrumentação estrutural e Geotécnica. Fases de monitoramento dos deslocamentos versus tempo. Análise dos resultados perante modelos teóricos de deslocamentos estruturais.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Introdução à Modelagem de Estruturas via Método dos Elementos Finitos
+Ementa:
+Introdução ao Método dos elementos finitos. Elementos de viga. Elementos de casca. Não linearidade geométrica. Não linearidade do material.
+Pré-requisito:
+Teoria das Estruturas III
+Nome:
+LIBRAS - Língua Brasileira de Sinais
+Ementa:
+A realidade da pessoa surda na sociedade brasileira. Inclusão e integração do surdo na educação e no mercado de trabalho. De que se trata a Língua Brasileira de Sinais. A linguagem de Sinais em situações dialógicas: apresentação pessoal, cumprimentos, diálogos corriqueiros, alfabeto, números, cores, verbos, tempos verbais, pronomes, família, a casa, profissões, alimentos, horários, sentimentos, meios de comunicação, meses do ano.
+Pré-requisito:
+Nome:
+Ligações em Estruturas
+Ementa:
+Ligações em estruturas de madeiras. Ligações em estruturas metálicas; Cálculo das ligações parafusadas em perfis soldados/laminados e em perfis formados a frio; Simbologia de soldagem; Cálculo das ligações soldadas em perfis soldados/laminados e em perfis formados a frio; Dimensionamento de placas de base e chumbadores; Ligações de viga de aço com elementos de concreto; Ligações em estruturas mistas
+Pré-requisito:
+Estruturas Metálicas e de Madeiras (cursando)
+Nome:
+Matemática Financeira
+Ementa:
+Capitalizações simples e composta, com foco em juro e desconto nas operações financeiras; séries não uniformes e uniformes; sistemas de amortização, com análise das melhores opções de pagamento e aplicação; técnicas de análise de investimentos; principais taxas de juros; taxa de inflação; principais aplicações financeiras. Matemática financeira e suas aplicações em planilhas eletrônicas.
+Pré-requisito:
+Nome:
+Materiais Ecoeficientes
+Ementa:
+Ecoeficiência e influência na análise do custo do ciclo de vida. Indicadores de impactos ambientais. Impactos ambientais dos materiais de construção civil. Materiais e produtos que minimizam o uso de recursos naturais. Materiais e produtos que contribuem para a minimização do consumo de água, energia e efeito de ilha de calor. Materiais e produtos que minimizam os riscos para a saúde humana e ecossistemas. Planejamento e orçamento de uma obra que utiliza materiais sustentáveis.
+Pré-requisito:
+Nome:
+Modelagem Digital de Terrenos
+Ementa:
+Modelos digitais de terreno: histórico, classificação e visão geral dos diversos tipos de modelo. Aplicação nas diversas áreas da engenharia. Esquemas gerais de interpolação. Modelos que utilizam redes regulares. Técnicas de interpolação. Modelos que utilizam redes triangulares. Fundamentos, equacionamento e esquema de interpolação. Aplicativos em modelagem digital de terrenos: Projeto geométrico de estradas. Cálculo de declividades. Problemas de visibilidade. Desenho das curvas de nível.
+Pré-requisito:
+Topografia
+Nome:
+Modelagem e Planejamento de Transporte Urbano
+Ementa:
+Condicionantes do Planejamento de Transporte Urbano. Modelagem e Simulação em Transporte Urbano. Softwares de modelagem. Software EMME. Análise de dados e previsão de demanda do Modelo 4 Etapas. Avaliação e estudos de projetos de transporte urbano através de modelagem usando o software EMME.
+Pré-requisito:
+Transportes I
+Nome:
+Novas Tecnologias aplicadas ao Transporte Urbano
+Ementa:
+Novos sistemas de transporte público e individuais urbanos. Novos métodos de coleta de dados em transporte (GPS, smartphones). Análise e visualização de dados em transporte: GPS, bilhetagem eletrônica, dados de smartphones. Perspectivas em planejamento de transportes.
+Pré-requisito:
+Transportes I
+Nome:
+Operações e Manutenção Aeroportuárias
+Ementa:
+Estrutura administrativa de aeroporto de grande porte. Sistemas de apoio (ETA, ETE, subestação de energia elétrica, CAG). Estratégias de ampliação e de manutenção de TPS e TECA. Operações de pátio e integração com TWR. Sistemas operacionais de transporte de malas e bulk. Segurança operacional. Tendências evolutivas aeronáuticas e implicações ao sítio aeroportuário. Noções de manutenção de pavimentos aeroportuários. Tipologia de aeronaves associada às necessidades de terra.
+Pré-requisito:
+Transportes I
+Nome:
+Operações e Manutenção Rodoviárias
+Ementa:
+Concessão rodoviária e sua viabilidade técnico-econômica. Viabilidade e recursos públicos para rodovias de baixo tráfego. Estrutura administrativa rodoviária. Gestão de operações e recursos. Parcerias. Métodos de análise financeira associada a vida útil dos elementos.
+Pré-requisito:
+Transportes I
+Nome:
+Operações Metro-Ferroviárias
+Ementa:
+Tipologia de carros e de trens-unidade. A viabilidade metroviária associada à demanda. Sistemas construtivos e possibilidade de ampliação de acordo com demanda e recursos. Técnicas e sistemas de controle de trens. Segurança de linha e de estações. Integração operacional. Gestão financeira.
+Pré-requisito:
+Transportes I
+Nome:
+Operações, Manutenção e Recapacitação Portuárias
+Ementa:
+Métodos de pesquisa operacional e planos diretores aplicados. Estudos de viabilidade de registro de aceitação de calados maiores, armazéns e extensão de cais. Elementos da bacia de evolução e zonas de acesso portuário. Características aplicadas de navios e tendências tecnológicas.
+Pré-requisito:
+Transportes I
+Nome:
+Patologia das Construções
+Ementa:
+Caracterização de patologias, fatores endógenos e exógenos, intrínsecos e extrínsecos, aplicados ao ambiente construído. Engenharia legal, responsabilidade e o código de defesa do consumidor. Diagnóstico, prognóstico e profilaxia em sistemas construídos. Métodos de restauro, reparo e conservação de sistemas construtivos. Manutenção corretiva, preventiva e preditiva e planos de manutenção.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Pavimentação Rígida
+Ementa:
+Principais fatores influentes na seleção de tipos de pavimentos. Princípio de Westergaard. Métodos de projeto para cargas especiais, carga máxima e consumo de resistência à fadiga. Procedimentos de projeto dimensional. Características aplicadas dos concretos de cimento Portland. Técnica construtiva.
+Pré-requisito:
+Transportes II
+Nome:
+Planejamento e Gestão de empreendimentos: Real Estate
+Ementa:
+Fundamentos de real estate. Indicadores da qualidade dos investimentos nos negócios do setor. Aglutinação de capitais de investimento. Poupança em ativos com lastro imobiliário. Os empreendimentos imobiliários com investimentos do empreendedor. Os empreendimentos imobiliários com financiamentos para produção e comercialização. Os empreendimentos de base imobiliária com renda fixada (build to suit e edifícios de escritórios para locação pulverizada). Decidir sobre investimentos diante do risco. Sistemas de gestão de investimentos e análises para programar a equação de fundos de um empreendimento: Conceitos de gestão de investimentos – caracterização do sistema gerenciador de investimentos e do sistema empreendimento; modelos para geração de informações para decisões financeiras nas hierarquias estratégicas (plano de negócios) e dos empreendimentos (validação de equação de fundos); e conceito de formatação de fluxos de caixa esperados. Rotina para escolha de empreendimentos e indicadores da condição econômica esperada: processo de hierarquização e escolha de empreendimentos; procedimento para construção de AQI; e indicadores da qualidade do investimento. Modelagem de sistemas para geração de informação de planejamento para apoio à gestão financeira. Formação da equação de fundos para desenvolvimento de empreendimentos, ou para suporte de investimentos em capital de giro. Rotina para escolha de empreendimentos.
+Pré-requisito:
+Engenharia Econômica
+Nome:
+Planejamento e Gestão de Projetos: Sistemas de Orçamento e Recursos
+Ementa:
+Projeto como produto e como serviço; coordenação de projetos. Inserção do projeto no empreendimento de construção de edifícios: papel dos agentes do empreendimento face ao processo de projeto. Configuração das equipes de projeto dentro da lógica multidisciplinar Gestão de Recursos Humanos: perfil dos trabalhadores; histórico; desenvolvimento dos recursos humanos; motivação e treinamento; estratégias de contratação. Gestão de contratos: agentes envolvidos; licitações; regimes de contratação. O processo de projeto e sua gestão; etapas de desenvolvimento do projeto e retroalimentação do processo. Projeto para produção como ferramenta para a qualidade e a inovação tecnológica; integração entre decisões no projeto e no canteiro de obras. Ferramentas de gestão da qualidade: PDCA; Kaizen; Diagramas e fluxogramas de análise de processos; 5W2H (What, When, Why, Where, Who, How, How much); Benchmarking. Qualidade na cadeia produtiva.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Planejamento Territorial Sustentável
+Ementa:
+O que é planejamento sustentável. História do planejamento territorial no Brasil. Políticas Territoriais no Brasil. Estudo e análise do estatuto da cidade. Estudo e análise do Plano Diretor. Aplicação do Planejamento no projeto integrado.
+Pré-requisito:
+Arquitetura e Representação Gráfica
+Nome:
+Produtividade e Gestão de Processos na Construção Civil
+Ementa:
+Aplicações do conceito de Projeto para Produção e sua implementação no canteiro de obras. Gestão de materiais: programação e escolha; aquisição; recebimento e controle. Elementos do sistema de gestão da qualidade em empresas construtoras; relações entre Suprimentos, Recursos Humanos, Projeto, Produção e Assistência Técnica. Certificação da qualidade; acordos setoriais e Planos Setoriais da Qualidade (PSQ); sistemas evolutivos de certificação da qualidade. Coordenação de projetos: gestão e controle do processo; os possíveis coordenadores de projetos. Sistemas de informação para a coordenação de projetos. Conceito de satisfação do cliente; clientes internos e externos; ciclo da qualidade na construção de edifícios. Certificação da qualidade de produtos e de sistemas: fornecedores de materiais e componentes; fornecedores de serviços. Planos da qualidade do empreendimento (PQE): interfaces entre sistemas da qualidade do empreendedor, dos projetistas e dos construtores e fornecedores.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Saneamento Básico
+Ementa:
+Características Físicas, Químicas e Biológicas dos efluentes (esgotos). DBO, DQO e Carga orgânica. Tratamento Físico e químico. Tratamento Biológico (aeróbico e anaeróbico). Processos de tratamento Biológicos de efluentes (Esgotos). Processo de lodo ativado e filtros biológicos. Processo de lagoas de estabilização e aeradas. Dimensionamento de Fossas Sépticas. Dimensionamento de sumidouros. Dimensionamento de Valos de oxidação. Dimensionamento de lagoas aeradas. Emissários Submarinos.
+Pré-requisito:
+Hidráulica
+Nome:
+Semáforos Inteligentes
+Ementa:
+Noções em evolução semafórica, semáforos isolados e integrados. Sistemas inteligentes de controle. Equipamentos de medição e controle. Noções sobre softwares e hardwares de confiabilidade para uso em período extenso de tempo (tipo wax). Integração interregional. Estimativas de remansos e de nível de serviço em tempo real. Elementos de projeto de semáforos inteligentes.
+Pré-requisito:
+Transportes I
+Nome:
+Sinalização Rodoviária
+Ementa:
+Sinalizações catóptrica, Horizontal e Vertical. Materiais, especificações e serviços, projeto e conservação. Elementos de Projeto de sinalização de intersecção rodoviária.
+Pré-requisito:
+Transportes I
+Nome:
+Sistemas de Gestão da Qualidade
+Ementa:
+Gestão segundo a normalização e certificações. Auditorias internas da qualidade. Diagramas de Ishikawa, métodos 5W2H e modelos multicriteriais de apoio a decisão. Avaliação Pós Ocupação, condicionamento e assistência técnica. Programas evolutivos da qualidade (ITQC , PBQP-H e Qualihab).
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Sistemas de Impermeabilização
+Ementa:
+Introdução; Conceitos Importantes; Normalização Brasileira; Tipos de Impermeabilização (NBR 9574) e Ensaios de campo. Sistemas de Impermeabilização aplicados: Fundações, Estruturas de Contenção, rodapé, banheiros, calhas, rufos, fachada; poço de elevador; reservatórios, piscinas, jardineiras e lajes. Tipos de laje impermeabilizadas: subpressão; tráfego de veículos; tráfego de pessoas, laje de cobertura; varandas e terraços; Cuidados na execução; Estruturas sujeitas a ambientes agressivos – ETA, ETE, Tanques de resíduos, Aterro sanitário; Canais de Irrigação; Tuneis; Ensaios; Contratação; Orçamento e composição de preços; Fiscalização e acompanhamento; Aspectos de saúde e segurança do trabalho; Cronograma físicofinanceiro; Garantias; Norma de Desempenho aplicada a serviços de impermeabilização. Serviços auxiliares e complementares; Sistemas de impermeabilização e seleção; Projeto de Impermeabilização; Interferências com os demais subsistemas; Detalhamento e Caderno de Especificação; Os danos causados à estrutura de concreto armado; Eflorescências; Umidade de rodapé; Descolamentos; Deformações estruturais; Infiltrações; Medidas corretivas e como evitá-las.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Sistemas de Posicionamento por Satélite e suas Aplicações na Engenharia
+Ementa:
+Conceitos básicos de geodesia por satélites (GNSS). Sistemas de Posicionamento e de Referência. Projeções Cartográficas. Características do Sistema GNSS. Métodos e modelos matemáticos (código, fase, combinações). Métodos de posicionamento: estático, cinemático, RTK, DGPS, PPP e outros. GNSS e altimetria. Processamento de dados GNSS. Aplicações na engenharia: Redes, Apoio topográfico, Controle de veículos e frotas, Sistemas de Navegação e Controle de rotas. Monitoramento de Estruturas
+Pré-requisito:
+Topografia
+Nome:
+Sistemas Inteligentes de Transportes (ITS)
+Ementa:
+Visão geral sobre arquitetura ITS e TMS (arquiteturas abertas, infraestrutura e regulamentações); Visão geral de normalização (abordagem ITS, TMS); NTCIP - normas de equipamentos: comunicação central-central); protocolos de comunicação, protocolos de bilhetagem; processo de implantação de normas de tráfego e sinalização; ensaios de conformidade; sistemas de tráfego de transportes públicos; green zones; informação ao motorista; sistemas de rotas; integração infraestrutura veicular; pesagem em trânsito; utilização de normas e aplicabilidade com agências reguladoras.
+Pré-requisito:
+Transportes I
+Nome:
+Sistemas Térmicos Aplicados à Engenharia Civil
+Ementa:
+Propriedades termodinâmicas, tabelas e ábacos; Primeiro e Segundo Princípios da Termodinâmica; Sistemas de refrigeração aplicados à engenharia civil; Transferência de calor em paredes de concreto; Ventilação e ar condicionado, para o conforto térmico; Utilização da energia solar nas instalações de aquecimento ambiental.
+Pré-requisito:
+Transmissão de Calor
+Nome:
+Superestrutura Metroviária
+Ementa:
+Material rodante. Elementos da Via Permanente Metroviária. Trilhos. Dispositivos de fixação. Temperatura. Flambagem. Tensões. Lastro. Sublastro. Esforços e métodos de dimensionamento. Estações e feixes metroviários.
+Pré-requisito:
+Transportes I
+Nome:
+Sustentabilidade na Construção Civil
+Ementa:
+As características de uma construção sustentável. Principais modelos de certificação na área de construção civil. O Modelo Leed (Green Building). Processos e critérios da certificação AQUA. Programa Brasileiro de Etiquetagem. A Rotulagem PROCEL EDIFICA. Materiais de Construção Sustentáveis. Avaliação de materiais de construção alternativos, naturais e sustentáveis e as suas aplicações, tanto no setor da construção convencional como na engajada nos novos paradigmas. Retrofit de edificações já existentes. Sistemas e Instalações Sustentáveis. Os sistemas de energia renovável e de conservação de energia nas habitações.
+Pré-requisito:
+Nome:
+Técnicas Gráficas de Soluções Geotécnicas
+Ementa:
+Embasamento matemático da estimativa de esforços geotécnicos (empuxos, tensões e resistência ao cisalhamento). Traçado de redes de fluxo em meios porosos. Método de Fellenius aplicado a taludes com extratificação complexa. Métodos Gráficos de Culmann e de Poncelet para determinação de empuxos.
+Pré-requisito:
+Geotecnia I
+Nome:
+Tecnologia das Construções II
+Ementa:
+Sistemas e métodos construtivos de maior complexidade; Alvenaria estrutural; Alvenaria com blocos de concreto celular autoclavado e sílico calcáreo; painéis de concreto prémoldados no local, pré-vigas e pré-lajes; painéis de concreto pré-fabricados; paredes em EPS com argamassa jateada e reforço em telas metálicas; paredes com painéis de madeira e enchimento termo-acústico; paredes com painéis de fibrocimento; Sistema Steel Framing; Estruturas mistas de concreto armado e estrutura metálica, lajes steel deck, fôrmas trepantes; Sistemas de caixilhos em alumínio, pvc, ferro; Curtain wall; Caixilhos unitizados; Visitas técnicas à obras; Elaboração de projeto e modelo de vedação vertical.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Tecnologia de Construção Pesada
+Ementa:
+Regime de contratação, organização e logística da empresa e do canteiro de obras pesadas. Qualidade em obras de construção pesadas. Impacto Ambiental: a problemática ambiental de implantação de obras de infraestrutura; EIA e RIMA. Discutir a complexidade dos diversos setores envolvidos no desenvolvimento do empreendimento de infraestrutura e dos agentes de fomento e financiamento. Aspectos do planejamento e do projeto de obras de construção pesada e o uso de recursos e a infraestrutura necessária para executar obras de construção pesada. Controle de custos e orçamento em obras de construção pesada. Métodos de contenção; ensecadeiras e corta-rios; esgotamento e rebaixamento de água; terraplanagem e pavimentação; operações de corte e aterro; desmonte de rocha em bancada; produção de brita e concreto asfáltico. Escavação e contenção de valas a céu aberto; métodos de escavação e contenção em túneis; escavação de túnel em solo e em rocha; técnicas de reforço de solo; esgotamento e rebaixamento de água; desmonte de rocha em túnel; projeção de concreto. Grandes Estruturas: produção de fundações e superestrutura de pontes, viadutos, torres, estações elevatórias. Equipamentos para Obras Pesadas: características, uso e manutenção.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Terraplenagem Mecanizada
+Ementa:
+Cubação, fatores de conversão, estimativas de volume e distâncias de transporte, máquinas motrizes e operatrizes (especificações, operações e estimativas). Projeto específico de elementos gerais em canteiro de obras.
+Pré-requisito:
+Geotecnia I
+Nome:
+Tópicos Especiais de Fundações
+Ementa:
+Conceitos de Capacidade de Carga e Recalque Admissível; Critério de Escolha de Fundação; Métodos executivos; Dimensionamento; Métodos Teóricos e Semi-empíricos; Provas de carga; Ensaios Dinâmicos; Projeto de fundações: sapatas isoladas, associadas, de divisa, viga alavanca, blocos de estacas; Métodos de execução e controle.
+Pré-requisito:
+Geotecnia I
+Nome:
+Transporte Urbano
+Ementa:
+Características técnicas e gerais dos transportes; A problemática dos transportes; Classificação; O transporte no Brasil; Indicadores de desempenho; Transporte metroviário; Transporte ferroviário; Transporte por ônibus; Sistema viário urbano; Tratamento preferencial ao transporte coletivo por ônibus; Pontos de parada; Nível de ocupação.
+Pré-requisito:
+Transportes I
+Nome:
+Túneis e Obras de Terra
+Ementa:
+Detalhamento da execução de aterros com foco na execução de aterros sobre solos moles e as soluções para melhoria das condições de fundação (substituição, uso de geotêxteis, colunas de jet-grouting e colunas de brita). Principais técnicas de escavações subterrâneas(túneis), incluindo os aspectos de investigação de subsolo, instrumentação e elementos para estabilização das escavações.
+Pré-requisito:
+Geotecnia I
+Nome:
+Vias Navegáveis Interiores
+Ementa:
+Morfologia fluvial (Teoremas de W. Davis e Surel). Noções aplicadas de geomorfologia e geologia de depósitos quaternários (calhas de Rios). Melhoramentos em cursos livres segundo a geometria associada à profundidade (leis de Fargue). Elementos de projeto de melhoramentos em condução livre e de eclusas e ascensores de embarcações. Elementos de Estudo da sustentabilidade de melhoramentos em fluxo restrito (barragens).
+Pré-requisito:
+Transportes I
+Projeto Interdisciplinar Tutorado de Inovação VI
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação VI
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação V
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transportes II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes II
+Superestruturas, tipos e elementos. Noções sobre materiais cimentícios e agregados aplicados aos sistemas. Projeto dimensional de pavimentos e de misturas betuminosas. Dimensionamento de trilhos, lastro e de sublastro. Construção e conservação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Estruturas de Concreto II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas de Concreto II
+Flexão composta normal. Flexão composta oblíqua. Pilares de edifícios. Concreto protendido.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Estruturas de Fundações
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estruturas de Fundações
+Dimensionamento geométrico. Fundações em concreto armado. Tipologia. Sapatas isoladas. Sapatas associadas. Blocos sobre estacas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Geotecnia III
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Geotecnia III
+Estudo de capacidade de carga dos solos para fundações diretas rasas e o dimensionamento de sapatas. Projeto de muros de arrimo de flexão e gravidade. Soluções de contenções especiais para estabilização de taludes e execução de subsolos de edifícios.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Planejamento e Gestão de Obras
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Planejamento e Gestão de Obras
+Introdução a atuação e mercado de Construção Civil. Técnicas, conceitos e definições de planejamento estratégico, tático e operacional. Estrutura analítica de projeto e fluxogramas de trabalhos. Sistemas físicos de gerenciamento e execução de projetos. Caminho crítico, rede de dependências e relação de atividades (Pert-CPM), diagramas de Gantt. Introdução a Engenharia de Avaliações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Trabalho de Conclusão de Curso I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Trabalho de Conclusão de Curso I
+Elaboração de Trabalho de Conclusão de Curso e aplicação das competências desenvolvidas ao longo do curso, visando uma proposta que atenda a uma demanda científica, da sociedade, do mercado, ou da indústria da construção civil.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Transportes III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes III
+Auxílios à navegação: vias, métodos, sistemas e equipamentos. Previsão e ações de ventos, ondas e marés. Elementos constituintes e de projeto de portos e aeroportos. Orientação, comprimento e elementos de Pistas de pouso e decolagem. Noções sobre Canalização de Rios com fluxo restrito (eclusas ou ascensores) ou livre (melhoramentos no canal). Previsão de tráfego e estimativa de capacidade das vias específicas. Aspectos geométricos dos elementos. Noções sobre pavimentação Aeroportuária.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+ELETIVA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ELETIVA
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Ergonomia e Segurança do Trabalho
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Ergonomia e Segurança do Trabalho
+Introdução à Engenharia de Segurança do Trabalho na Construção Civil. NR 18 – Condições e Meio Ambiente de Trabalho na Indústria da Construção. Identificar e reconhecer os principais diplomas legais. EPI e EPC; Análise de Riscos. Trabalho em altura. Higiene do Trabalho. Conceito do Acidente do Trabalho: causas e consequências. Avaliar riscos de incêndio e explosão. Ergonomia do Trabalho.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estruturas Metálicas e de Madeiras
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas Metálicas e de Madeiras
+Estruturas de madeiras. Estruturas metálicas. Normas para cálculo estrutural. Sistemas estruturais. Dimensionamento à tração, compressão, flexão reta e flexão oblíqua.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Planejamento Urbano
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Planejamento Urbano
+Planejamento Urbano no Brasil e no Mundo. Regiões Metropolitanas do Estado de São Paulo. Reflexões do Planejamento Urbano nas cidades Brasileiras. Desenho Urbano e Mobilidade Urbana. Cidades planejadas no Brasil e no mundo. Estatuto da Cidade, Plano Diretor e Zoneamento. Estudo de Impacto Ambiental, Estudo de Impacto de Vizinhança, Parcelamento do Solo.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Pontes e Grandes Estruturas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Pontes e Grandes Estruturas
+Tipos construtivos. Esforços atuantes em vigas de pontes. Estruturas submetidas a carregamentos móveis. Linha de influência. Flexão. Cisalhamento. Fadiga.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Trabalho de Conclusão de Curso II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Trabalho de Conclusão de Curso II
+Aprimoramento do Trabalho de Conclusão de Curso I, com a implementação das soluções e Plano de Negócios, quando for o caso.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Transportes IV
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes IV
+Elementos de planejamento e conceitos. Modelos de previsão de demanda. Níveis de serviço. Métodos de estimativa de capacidade de vias. Elementos constituintes. Controle e medições de tráfego. Fatores influentes na demanda e na capacidade. Semaforização. Noções sobre sinalização viária.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+INGRESSANTES A PARTIR DE 2023 (inclui curricularização da extensão)
+Diurno
+Matriz Curricular
+Clique nos ciclos abaixo para mais detalhes:
+1 º Ciclo
+2 º Ciclo
+3 º Ciclo
+4 º Ciclo
+5 º Ciclo
+6 º Ciclo
+7 º Ciclo
+8 º Ciclo
+9 º Ciclo
+10 º Ciclo
+Calculo Diferencial e Integral I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral I
+Conceito de Função. Funções Básicas. Limites. Formas Indeterminadas. Limites Fundamentais. Derivadas. Interpretação Geométrica. Propriedades Operatórias.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Vetorial e Geometria Analítica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Vetorial e Geometria Analítica
+Matrizes. Vetores no Plano e no Espaço. Operações com Vetores. Dependência Linear. Bases. Produtos. Sistemas de Coordenadas. Retas e Planos. Superfícies Esféricas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Desenho Técnico
+Introdução aos conceitos básicos para a interpretação e elaboração de desenhos técnicos utilizados em engenharia. Representação de figuras planas e perspectivas. Elaboração de croquis. Projeções ortográficas convencionais e com utilização de cortes. Dimensionamento e escalas. Trabalhos práticos manuais com instrumentos e por meio de software CAD.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física I
+Medidas físicas; Cinemática da partícula; Dinâmica da partícula: Forças e leis de Newton; Trabalho, energia e conservação da energia; Impulso, momento linear e conservação do momento linear.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Laboratório de Matemática
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Matemática
+Conversão de relações descritas em língua natural (propostas de problemas) para a forma de expressões matemáticas e lógicas (modelos matemáticos) utilizando Funções Básicas. Desenvolvimento de soluções em ambiente computacional.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Práticas de Inovação I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação I
+Conceito de inovação (descoberta x invenção x inovação); tipos de inovação (produto, processo, marketing, método organizacional e modelo de negócio); formulação de problema e geração de ideias (técnicas de formulação de perguntas, ferramenta de Design Thinking ((pensar de forma criativa e visual e usado geralmente quando o problema não está bem definido)) e o método do 5W1H); seleção de ideias (uso da ferramenta do Funil da Inovação) e difusão de ideias em seus diferentes graus (incremental, radical e mudança de paradigma); algumas ferramentas de auxílio do Google: Analytics, Adsense e Adwords.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sociologia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Sociologia
+Principais conceitos sociológicos. Trabalho objetivo e subjetivo. A transformação da organização social do trabalho. Trabalho, identidade e interação social. A quarta revolução industrial: trabalho, economia, cultura e política. Novos paradigmas sociais. Estado e políticas de inserção social. Desigualdades, conflitos sociais, identidade e diversidade. Multiculturalismo e pluralidade.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Calculo Diferencial e Integral II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral II
+Aplicações de Derivadas: otimização, regra do L’Hospital, esboço de gráficos de funções. Diferenciais e Taxa de Variação. Integrais indefinidas. Técnicas de Integração. Integrais definidas. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Comunicação e Expressão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Comunicação e Expressão
+Textos literários e textos não literários. Níveis de linguagem, linguagem coloquial e norma culta. Leitura e interpretação de textos dissertativos, científicos e jornalísticos. Estrutura do texto dissertativo. Estrutura do parágrafo e tópico frasal; coesão e coerência textuais. Argumentação: tipos de argumento. Tópicos de linguagem. Produção textual.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletrônica Geral
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Eletrônica Geral
+Representação Analógica e Digital e suas interfaces. Introdução aos Circuitos Lógicos. Controladores Lógicos Programáveis e Microcontroladores. Instrumentação e amplificação. Sensores e Atuadores. Processamento de Sinais. Comunicação digital.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Filosofia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Filosofia
+Realismo. Investigação existencial e Experiência. Razão e Razoabilidade. Certeza moral e Fé. Moralidade no conhecimento. Razão e Sentimento. Senso religioso. Pessoa e o Infinito.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física II
+Oscilações simples, amortecidas e forçadas. Ressonância. Ondas mecânicas. Equilíbrio térmico e calor. Transferência de calor: condução, convecção e radiação. Propriedades térmicas da matéria. Primeira lei da termodinâmica, trabalho, energia e processos termodinâmicos simples. Segunda lei da termodinâmica, entropia, máquinas térmicas e refrigeradores.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Computação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Introdução à Computação
+Introdução e conceitos básicos de Algoritmos. Noções sobre bases de numeração: decimal, binária, hexadecimal. Tipos básicos de dados. Variáveis, fluxos sequenciais, operadores matemáticos, lógicos e relacionais. Estruturas de controle de seleção. Estruturas de controle de repetição. Modularização. Tipos de dados estruturados homogêneos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Práticas de Inovação II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação II
+Competências para inovar (liderança, ferramenta DISC para avaliação pessoal, tipos de profissional); risco x incerteza (transformar incerteza em risco, classificando em tipo de grau de risco); Effectuation (metodologia de desenvolvimento de negócio); metodologia de validação de ideias; construção de um MVP Minimum Viable Product no laboratório de informática (elaboração de vídeos, app, blogs, fotos etc); marketing digital e mídias sociais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Geral
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Química Geral
+Quantidade de matéria; Gases; Líquidos; Estequiometria; Equilíbrio líquido – vapor. Balanço Material. Termoquímica; Combustão e combustíveis; Lubrificantes e lubrificação; Eletroquímica.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Arquitetura e Representação Gráfica
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Arquitetura e Representação Gráfica
+Interfaces entre Arquitetura e Engenharia Civil; Análise de obra; Representação gráfica para projetos de edificações; Levantamento e elaboração de planta de imóvel existente; Etapas de projeto; Programa de necessidades e escala humana; Conforto ambiental; Estudos exploratórios de ambientes; Legislação: código de obras; Uso e ocupação do solo: zoneamento; Elaboração de projeto arquitetônico: partido, plano de massas, implantação, plantas, cortes, elevações; Desenho em computador com programa AutoCAD-2D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Calculo Diferencial e Integral III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Calculo Diferencial e Integral III
+Funções de Várias Variáveis. Derivadas Parciais. Diferenciais. Integrais Múltiplas. Integrais de linha. Operadores: Gradiente, Divergente e Rotacional.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Equações Diferenciais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Equações Diferenciais
+Equações diferenciais de primeira Ordem: Variáveis Separáveis, Homogêneas, Lineares e Exatas. Equações Diferenciais de Segunda Ordem com Coeficientes Constantes: Homogênea e Completa. Modelagem matemática.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física III
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física III
+Carga elétrica, campo elétrico, força elétrica e fluxo de campo elétrico. Corrente elétrica, campo magnético, força magnética e fluxo de campo magnético. Movimento de cargas puntiformes em campos elétrico e magnético. Potencial elétrico, energia potencial elétrica e capacitância. Indução eletromagnética, energia magnética e indutância. Campos elétricos e magnéticos na matéria.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Mecânica Geral
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica Geral
+Centroide, centro de massa e momentos de inércia. Sistemas de forças e forças distribuídas. Equilíbrio. Cinemática do corpo rígido: translação, rotação e centro instantâneo de rotação. Dinâmica do corpo rígido: translação e rotação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Princípios de Ciência e Engenharia dos Materiais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Princípios de Ciência e Engenharia dos Materiais
+Tipos de ligações químicas em sólidos de substâncias puras e seu papel na determinação de: (1) propriedades físicas fundamentais; (2) estruturas atômicas/moleculares; (3) classes de materiais; (4) propriedades mecânicas básicas. Influência das estruturas e microestruturas nas propriedades dos materiais. Introdução a relação entre estrutura/propriedades/processamento e desempenho de materiais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação I
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação I
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; modelagem matemática de fenômenos físicos e químicos; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Topografia
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Topografia
+Conceitos básico de cartografia: Introdução a topografia, medição de distâncias e ângulos; poligonais azimutes e coordenadas; declinação magnética, taqueometria, representação do relevo; nivelamento; estudos sobre planta topográfica; avaliação de áreas e volumes; locação topográfica; desenho topográfico com auxílio de computador
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Álgebra Linear e Aplicações
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Álgebra Linear e Aplicações
+Sistemas Lineares. Espaços Vetoriais. Subespaços Vetoriais. Bases e Dimensões. Transformações Lineares. Autovalores e Autovetores. Espaços Vetoriais com Produto Interno. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Eletricidade Geral
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Eletricidade Geral
+Circuitos de corrente contínua. Potência gerada e dissipada. Circuitos de corrente alternada. Fator de Potência. Circuitos trifásicos. Motores e geradores elétricos. Geração, Transmissão e Distribuição de Energia Elétrica. Fornecimento de Energia – Tarifação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física Moderna
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Física Moderna
+Óptica física: polarização, interferência e difração. Relatividade: dilação temporal, contração espacial e equivalência entre massa e energia. Física quântica: fótons e efeito fotoelétrico, ondas de matéria e equação de Schrödinger, princípio da incerteza, interpretação probabilística e tunelamento, átomos e moléculas, condução de eletricidade nos sólidos, núcleos atômicos, radioatividade e energia nuclear.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Hidrologia Aplicada
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Hidrologia Aplicada
+Impacto das grandes cidades e alterações no regime do ciclo hidrológico natural; Estudo do Ciclo Hidrológico. Noções de obras e suas interferências nos cursos dágua. Bacias Hidrográficas; divisores de água; comparações entre bacias; Precipitação; formação e classificação; medidas pluviométricas; frequência das precipitações; intensidade de precipitação; levantamento de dados pluviométricos; Infiltração; características; fatores que influenciam; capacidade de infiltração de um solo; medição; generalidades sobre as águas subterrâneas; Escoamento superficial; hidrograma e hidrograma unitário; Estimativa do escoamento a partir dos dados pluviométricos; Método Racional; aproveitamento de águas de chuva Regime dos cursos dágua; curvas de duração e de utilização; medição de vazões; Previsão de enchentes; período de retorno; métodos de cálculo; Propagação de enchentes em reservatórios, rios e canais; Métodos de combate às enchentes; Regularização de vazões e aproveitamento de recursos hídricos; aspectos ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Instalações Elétricas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Instalações Elétricas
+Fundamentos (planejamento e etapas) de instalações elétricas. Normas técnicas de instalações elétricas de baixa e alta tensão e também para telefonia. Luminotécnica (luminotecnia). Símbolos gráficos usados para representar as instalações elétricas e telefônicas. Dimensionamento de cabos e equipamentos. Traçado de circuitos de instalação elétrica. Pára-raios. Aterramento. Comando e proteção em instalações elétricas (iluminação, de motores elétricos, etc.). Potências aparente, ativa e reativa e correção do Fator de Potência. Gerador suplementar de energia elétrica (emergência). Uso racional da energia elétrica.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Materiais de Construção Civil I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Materiais de Construção Civil I
+Normalização Técnica; Propriedades, obtenção e aplicação de materiais de construção civil; Aglomerantes; Agregados; Estudo de dosagem do concreto de cimento Portland; Aço estrutural e para concreto armado; Ensaios de Controle Tecnológico.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Mecânica dos Sólidos
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica dos Sólidos
+Complementos de estática. Elementos estruturais. Mecânica dos sólidos deformáveis: tensões, deformações, deslocamentos, classificação dos materiais estruturais e leis constitutivas. Modelagem de casos particulares: i) tração/compressão e flambagem; ii) cisalhamento puro e ligações mecânicas; iii) flexão pura, simples e composta; iv) torção e transmissão de potência em seções circulares; v) tensões térmicas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Projeto Interdisciplinar Tutorado de Inovação II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação II
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação I
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Tecnológica para Engenharia Civil
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Química Tecnológica para Engenharia Civil
+Introduzir conceitos básicos sobre eletroquímica. Conceitos fundamentais de corrosão de metais. Asfalto (tipos, caracterização físico-química, normalização). Cimento Portland (processo de produção, composição química, clinquerização, cálculo de Bogue, hidratação e solubilidade dos componentes).
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cálculo Numérico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cálculo Numérico
+Sistemas lineares: métodos exatos e iterativos. Zeros de funções. Aproximação de funções – Método dos Mínimos Quadrados. Interpolação – Método de Newton e Método de Lagrange. Integração numérica. Equações diferenciais – métodos numéricos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Economia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Economia
+Breve história do pensamento econômico. Microeconomia: oferta e demanda, elasticidade e custo marginal. Função produção. Inovação tecnológica no contexto da economia da empresa. Macroeconomia: taxa de juros, câmbio, moeda, dívida pública, PIB, desemprego, inflação. Introdução à organização industrial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ensino Social Cristão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ensino Social Cristão
+Natureza do Ensino Social Cristão. Princípios norteadores. Dignidade humana e Direitos humanos. Princípio da Solidariedade; Princípio da Subsidiariedade e do Bem Comum. Justiça e Misericórdia. Política: papel do Estado e grupos intermediários. Liberdade religiosa. Economia, ética e destinação universal dos bens. A questão do trabalho humano. Solidariedade, economia e desenvolvimento integral.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Materiais de Construção Civil II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Materiais de Construção Civil II
+Introduzir conceitos fundamentais de ciência, tecnologia e desenvolvimento de materiais. Capacitar o aluno a especificar e controlar tecnologicamente os materiais mais comuns utilizados na construção civil: cerâmicas, vidros, polímeros e elastômeros, madeiras, tintas, argamassas e outros materiais cimentícios. Normalização técnica.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Fluidos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Mecânica dos Fluidos
+Conceitos fundamentais de mecânica dos fluídos. Viscosidade. Hidrostática. Manometria. Conservação da massa e energia em volume de controle. Equação de Bernoulli. Perda de carga distribuída e singular. Diagrama de Moody.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Modelos Probabilísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Modelos Probabilísticos
+Probabilidade. Variáveis Aleatórias Discretas. Distribuição Conjunta de Variáveis Aleatórias Discretas. Distribuições de Variáveis Discretas: Binomial e Poisson. Distribuições de Variáveis Aleatórias Contínuas: Normal e Exponencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação III
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação III
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; Analisar e compreender os usuários das soluções de engenharia e seu contexto, para formular as questões de Engenharia Civil e conceber soluções desejáveis; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil; Implantar, operar e manter as soluções e sistemas de Engenharia Civil considerando os aspectos técnicos, sociais, legais, econômicos e ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Teoria das Estruturas I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Teoria das Estruturas I
+Estruturas isostáticas. Diagramas de esforços internos solicitantes. Pórticos planos. Estruturas tri-articuladas. Arcos isostáticos. Cisalhamento na flexão. Estado plano de tensões. Noções de análise experimental de estruturas. Extensometria elétrica. Aquisição de dados. Análise experimental de tensões.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transferência de Calor para Engenharia Civil
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Transferência de Calor para Engenharia Civil
+Modos de transferência de calor: condução, convecção e radiação. Resistência térmica. Associação em série e paralelo. Aletas. Trocadores de calor.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Custos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Custos
+Conceitos básicos. Métodos de custeio. Abordagens contemporâneas de custos: custos ambientais, custo da qualidade, Life Cycle Cost (LCC), outras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Desempenho Térmico e Acústico de Edificações
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Desempenho Térmico e Acústico de Edificações
+Análises experimentais térmicas e acústicas dos principais materiais utilizados em pisos, paredes, coberturas, fachadas e esquadrias. Fundamentos de acústica. Isolamento termoacústico. Dimensionamento e medições necessárias para o atendimento às normas brasileiras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ecologia e Sustentabilidade
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ecologia e Sustentabilidade
+A questão ambiental e a vida humana. Teoria Ecológica: Sociedade, Desenvolvimento e Meio Ambiente. O Impacto das novas tecnologias. Eficiência energética. Produção Mais Limpa. Eco eficiência. Logística reversa. Produção sustentável e Análise de Ciclo de Vida do Produto. Normas e Certificações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Hidráulica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Hidráulica
+Instalações de bombeamento: curvas de bombas, curva da instalação e custo de bombeamento; Perda da carga em condutos forçados; Usinas hidroelétricas: instalações, turbinas e custo de geração; Forças em superfícies submersas; Equilíbrio de corpos flutuantes; Canais e vertedores em regime permanente.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Laboratório de Mecânica dos Fluidos
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Mecânica dos Fluidos
+Estática dos fluídos; Análise dimensional e semelhança; Equação da quantidade de movimento; Experiências de manometria, visualização de escoamentos, bombas, perda de carga singular e distribuída, forças em superfícies sujeitas ao escoamento de um fluido.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Métodos Estatísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Métodos Estatísticos
+Amostragem. Distribuições Amostrais. Intervalos de Confiança. Testes de Hipóteses para a Média e a Proporção. Correlação e Regressão. Teste de Qui-Quadrado. Análise de Variância. Desenho de Experimentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação IV
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação IV
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação III.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Tecnologia das Construções I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Tecnologia das Construções I
+Sistemas e métodos construtivos; Etapas de construção; Plano de canteiro de obras; Locação de obra; Execução de estruturas de concreto armado; Fôrmas e escoramentos; Alvenaria racionalizada; Parede em gesso acartonado; Impermeabilização; Coberturas; Revestimentos; Execução de instalações hidráulicas; Visitas técnicas a obras em construção.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Teoria das Estruturas II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Teoria das Estruturas II
+Estruturas hiperestáticas. Estruturas estaiadas. Grelhas. Vigas hiperestáticas. Vigas contínuas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Engenharia Econômica
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Engenharia Econômica
+Matemática financeira. Valor do dinheiro no tempo: juros e fluxo de caixa. Métodos de análise de projetos de investimento (VPL, TIR, VAE, tempo de retorno). Vida econômica e substituição de equipamentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ética
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ética
+O âmbito da ética. Relações étnico-raciais, discriminação e xenofobia. Ética da Lei Natural. Fundamentos da Lei Natural. A opção fundamental e os comportamentos concretos. Direito natural e direito positivo. Ética, ciência e tecnologia. Éticas aplicadas: códigos de ética profissionais; ética dos negócios e ética concorrencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Geotecnia I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Geotecnia I
+Principais aspectos de geologia com foco na gênese das rochas e dos solos. Constituição do solo, relação entre seus índices físicos. Características dos solos granulares e coesivos e as classificações geotécnicas. Ensaios de laboratório Tensões geostáticas e transmissão de tensões aplicadas na superfície de um maciço, investigações geotécnicas e a teoria de consolidação de argilas saturadas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Instalações Hidráulicas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Instalações Hidráulicas
+Instalação de abastecimento predial; Distribuição de água fria: barrilete, coluna, ramais e sub-ramais; Esgoto sanitário: ramal de descarga e de esgoto, coletores, tubos de queda e coluna de ventilação; Esgoto pluvial: calhas, tubos de queda e galerias pluviais; Instalações de água quente; Sistemas de combate a incêndio: comandado e automático.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Projeto Interdisciplinar Tutorado de Inovação V
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação V
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências: solucionar problemas de forma criativa e inovadora; aprender de forma autônoma; trabalhar e liderar equipes multidisciplinares; comunicar-se efetivamente e eficientemente nas formas escrita, oral e gráfica; interpretar e aplicar a legislação e os atos normativos; Analisar e compreender os usuários das soluções de engenharia e seu contexto, para formular as questões de Engenharia Civil e conceber soluções desejáveis; Conceber, projetar e analisar sistemas, produtos (bens e serviços) componentes ou processos no âmbito da Engenharia Civil; Implantar, operar e manter as soluções e sistemas de Engenharia Civil considerando os aspectos técnicos, sociais, legais, econômicos e ambientais.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Teoria das Estruturas III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Teoria das Estruturas III
+Deslocamento dos vínculos. Análise matricial. Teorema da energia de deformação. Teorema de Menabrea.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transportes I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes I
+Introdução aos Transportes. Modos, vias e veículos. Física aplicada aos modais de transporte. Técnica e Economia em Transportes. Modelos de estudos financeiros aplicados. Heurística aplicada a estudos e projetos em Transportes. Estudo de vias de transporte terrestre; influências econômicas, políticas e sociais. Classificação das vias, veículos de projeto, fases de projeto (reconhecimento, projeto básico, projeto executivo 0; elementos da seção transversal, elementos horizontais e verticais (especificações de projeto), noções de terraplenagem, diagrama de Bruckner, estimativa de custo.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Tratamento de Água
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Tratamento de Água
+Fontes de água; caracterização das águas (determinação de: dureza, alcalinidade, sólidos totais, sólidos fixos, sólidos voláteis, sólidos sedimentáveis, sólidos em suspensão e sólidos dissolvidos); usos e consumos; sistemas de tratamento de águas; tratamento de águas para fins potáveis (ensaios de clarificação e filtração); sistemas de abastecimento.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estratégia e Gestão Organizacional
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estratégia e Gestão Organizacional
+Estratégia. Gestão por processos e funções organizacionais (finanças, marketing, produção). Gestão do desenvolvimento de produto. Aspectos humanos nas organizações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estruturas de Concreto I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas de Concreto I
+Pré-dimensionamento. Comportamento mecânico. Vigas retangulares. Lajes maciças. Seção T. Vigas submetidas ao cisalhamento.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Geotecnia II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Geotecnia II
+Conceitos de resistência ao cisalhamento dos solos e respectivos ensaios. Aspectos conceituais e de execução relativos a compactação de aterros. Percolação de água nos solos. Análise de estabilidade de taludes de aterros. Escavações pela Teoria do Equilíbrio Limite.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Metodologia de Pesquisa
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Metodologia de Pesquisa
+A pesquisa e a produção metodológica de conhecimento. Projeto de pesquisa científica. Taxonomias e tipos de pesquisas. Procedimentos e etapas de um trabalho científico (tema, problema, objetivos, hipóteses, justificativas). Citações e Referências bibliográficas. Plágio e ética na Pesquisa Científica. Níveis e variáveis de mensuração. Amostragem na pesquisa. Elementos pré-textuais, textuais e póstextuais. As Referências e normas. Fontes de pesquisa e banco de patentes.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+OPTATIVA I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+OPTATIVA I
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Nome:
+Arquitetura Sustentável
+Ementa:
+Conceito de sustentabilidade, Arquitetura sustentável, Agenda 21, Conceito de Edifícios verdes. Principais selos para construções sustentáveis: Certificação LEED, Programa nacional de Eficiência energética em Edificações (PROCEL EDIFICA), processo AQUA, BREAM (Building Reserarch Establishment Environmental Assessment Method) , Casa Azul, DGNB (German Sustainable Building Council).
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Barragens de Terra e Enrocamento
+Ementa:
+Exemplo clássico de usina hidrelétrica, com todos os seus órgãos constituintes, ou seja, obras para desvio do rio, barramento, sistemas de vertimento e de geração de energia elétrica. Fatores intervenientes na escolha dos tipos de soluções e respectivo arranjo. Principais tipos de barragens de terra e/ou enrocamento, seus detalhes, tratamentos de fundação, metodologias de dimensionamento e um estudo comparativo entre as soluções apresentadas.
+Pré-requisito:
+Geotecnia I
+Nome:
+Building Information Modeling (BIM)
+Ementa:
+Conceituação e prática do sistema parametrizado BIM – Building Information Modeling para projeto de edificações; Utilização do programa Revit-Autodesk; Modelagem 3D de projeto de edificação a partir de Estudo Preliminar pré- elaborado pelo aluno; Verificação de elementos construtivos do projeto; Quantificação de materiais; Geração de imagens 3D renderizadas.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Cidades Inteligentes (Smart Cities)
+Ementa:
+Conceitos de cidades inteligentes; expectativa de vida humana, migração urbana populacional, recursos naturais, cidades resilientes; infraestrutura básica para cidades; conectividade; mobilidade; segurança, saúde, educação, governança, centro de operação, centro de comando e controle; sensorização, iluminação, informação ao cidadão, redes inteligentes, energia, colaboração cidadão, modos de transportes urbanos e integração, galerias de utilidades, conceito de cidades globais.
+Pré-requisito:
+Arquitetura e Representação Gráfica
+Nome:
+Drenagem Superficial de Vias Terrestres
+Ementa:
+Teoremas aplicados da hidráulica, para conduções forçada e livre. Aplicações de Reynolds e Número de Froude. Tipologia de elementos de drenagem superficial aplicáveis a rodovias, ferrovias e aeroportos. Projeto de Seções transversais. Sistemas de drenagem. Controle de Erosões. Técnica construtiva.
+Pré-requisito:
+Hidráulica e Hidrologia
+Nome:
+Drenagem Urbana
+Ementa:
+Fundamentos de hidrologia urbana. Conceitos gerais de drenagem urbana sustentável. Gestão do risco em drenagem urbana. Sistemas de Micro drenagem: elementos constituintes, concepção e traçado de sarjetas e captações superficiais, vazão de dimensionamento, dimensionamento de galerias e canalizações, dimensionamento de bueiros e dissipadores. Uso de “softwares” de simulação. Sistemas de Macro drenagem: conceitos gerais, análise de risco em drenagem, modelagem hidrológica da bacia, dispositivos de condução, dispositivos de retenção e armazenamento, dimensionamento de canalizações, bueiros, diques e polderes.
+Pré-requisito:
+Hidrologia
+Nome:
+Durabilidade do Concreto
+Ementa:
+Introdução à microestrutura do concreto. Ações de degradação de estruturas de concreto. Ataque por sulfatos. Ataque por cloretos. Carbonatação. Retração por secagem. Reação álcali-agregado. Lixiviação. Eflorescência.
+Pré-requisito:
+Materiais de Construção Civil I
+Nome:
+Economia dos Transportes
+Ementa:
+Relação entre conceitos e aspectos econômicos e movimentações de cargas e pessoas. Relação entre ransporte e desenvolvimento. Aplicações da matemática financeira no setor transporte. Utilização de recursos e necessidade de decisão. Características econômicas dos sistemas de transporte. Estrutura de custos no setor transporte (custo, preço e valor). Demanda por transporte. Fretes e tarifas em sistemas de transporte. Ambientes econômicos e formação de preços. Avaliação de projetos e de intervenções. Enfoques empresarial e governamental (social). Investimentos e financiamento no setor transporte. Estrutura Institucional e de gestão no setor transporte.
+Pré-requisito:
+Transportes I
+Nome:
+Edifícios Inteligentes e Automação Predial (Building Technologies)
+Ementa:
+Conceitos básicos de tecnologias prediais e automação compreendidas por: protocolos de equipamentos e comunicação; certificações LEED,ACQUA e PROCEL Edifica, sistema integrado de facilidades (água, esgoto, elétrica, incêndio, aterramento, pararaios, telecomunicações, etc); reuso de água(captação e filtragem de galerias pluviais e coletores); geração distribuída (solar); sistemas de emergência - gerador, iluminação, abastecimento; tratamento e coleta seletiva de resíduos domésticos; segurança perimetral e invasão; portaria eletrônica e automação de acesso; otimização e infraestrutura de veículos elétricos - conceitos de smart grid (redes inteligentes); centro de controle e comando predial.
+Pré-requisito:
+Instalações Hidráulicas
+Nome:
+Engenharia Civil: Direito e Legislação
+Ementa:
+A regulamentação da engenharia. Sistema jurídico brasileiro. Prerrogativas de atividades do engenheiro civil. Engenharia civil e Direito do Trabalho. Planejamento urbanístico e licenciamento de obras. A engenharia civil no setor público. Engenharia Civil e as questões legais específicas. Segurança nas obras e legislação. Legislação ambiental na construção civil. A ética e a engenharia civil.
+Pré-requisito:
+Nome:
+Engenharia de Trafego
+Ementa:
+Estruturação e Funções dos Espaços urbanos. Componentes, classes e funções do sistema viário. . Configurações de demanda e perfis de tráfego veicular. Princípios Fundamentais da Teoria de Fluxo de Tráfego. Modelos Gerais de Fluxo de Tráfego e Equação Fundamental de Tráfego. Capacidade Viária e Níveis de Serviço. . Noções de Polos Geradores do Tráfego. Estacionamentos. Segurança de Tráfego. Sinalização viária. Estruturação de Interseções Urbanas e de Rodovias. Teoria das Filas e simulações.
+Pré-requisito:
+Transportes I
+Nome:
+Engenharia Humanitária
+Ementa:
+A Engenharia Humanitária. Critérios para a engenharia humanitária. Fator Humano, fator econômico, Fator ambiental. Inovações, sustentabilidade e segurança. Prevenção, inovação e mudança. Tecnologia, economia, ética e cultura. Cooperação e transdisciplinaridade para a Engenharia Humanitária.
+Pré-requisito:
+Nome:
+Escaneamento a Laser
+Ementa:
+Laser Scan terrestre: - Tecnologias e equipamentos. Princípios físicos e geométricos do levantamento - Técnicas de levantamento de campo, métodos de varredura - Modelos, maquetes 3D, plantas, seções, perfis, levantamento do como construído (“as built”) - Processamento de dados: da nuvem de pontos à formação de modelos: eliminação de ruídos e de pontos redundantes, consolidação, registro, extrações dimensionais, primitivas, - Técnicas de modelagem 3D: primitivas, renderização, variáveis visuais - Técnicas de integração em projetos. Projetos inteligentes. - Aplicações: Plantas industriais, refinarias de petróleo, túneis, mineração e construção de edifícios.
+Pré-requisito:
+Topografia
+Nome:
+Estruturas de Concreto Assistidas por Computador
+Ementa:
+Uso de ferramentas computacionais na elaboração de projetos de concreto armado. Modelos estruturais e tipos de análise estrutural. Exemplo de cálculo completo, desde a concepção até a geração dos desenhos de fôrma e armadura.
+Pré-requisito:
+Estruturas de Concreto I
+Nome:
+Gerência de Pavimentos
+Ementa:
+Avaliações de qualidade por métodos de investigação superficial. Equipamentos de mensuração de características gerais estruturais. Índice de condição do pavimento. Técnicas de gerência com metodologia de critérios específicos de ações sob nota decrescente de segmentos de pavimentos.
+Pré-requisito:
+Transportes II
+Nome:
+Gerenciamento de Resíduos na Construção Civil
+Ementa:
+Perdas e Geração de resíduos na construção civil. Classificação e características dos resíduos da construção e demolição. Marcos conceituais, legislação, classificação e acondicionamento e destinação dos resíduos. Análise do Ciclo de Vida do produto (ACV) na construção civil. Projetos de Gerenciamento de Resíduos da Construção Civil. Gestão pós-uso na área da construção civil abrangendo minimização no uso de recursos, reutilização, recuperação e reciclagem evitando perdas e desperdícios.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Gestão Ambiental
+Ementa:
+O conteúdo programático de Gestão Ambiental. Representação Legal. Conceitos Fundamentais. Licenciamento Ambiental. Sustentabilidade e Desenvolvimento sustentável. Recursos Tecnológicos Disponíveis – Equipamentos de Controle da Poluição do Ar. Gestão Ambiental Empresarial.
+Pré-requisito:
+Nome:
+Gestão de Riscos ao Meio Ambiente na Construção
+Ementa:
+Os principais perigos associados à indústria da construção civil e os riscos associados às diversas categorias de trabalhadores do setor. Legislação relativa ao setor da construção. Documentação e comunicação e avaliação de riscos. Gerência dos riscos do projeto. Metodologias e estratégias de controle. Legislação na área trabalhista e de segurança na área da construção civil.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Gestão de Vias Urbanas e Segurança Viária
+Ementa:
+Aspectos gerais de segurança viária e métodos de avaliação de riscos. Pedágio urbano. Concessão de vias urbanas. Geometria viária urbana: intersecções e segmentos de vias. Elementos da seção transversal. Normatização e Métodos.
+Pré-requisito:
+Transportes I
+Nome:
+Instrumentação e Monitoramento de Estruturas
+Ementa:
+Estruturas e seu comportamento perante as solicitações do ambiente e de cargas. Introdução à segurança das estruturas. Referências para a coleta de dados de deslocamentos em estruturas. Sistemas cartesianos de referência (absolutos e relativos). Referencial altimétrico. Equipamentos clássicos e modernos de medição: técnicas de Topografia e Geodésia. instrumentação estrutural e Geotécnica. Fases de monitoramento dos deslocamentos versus tempo. Análise dos resultados perante modelos teóricos de deslocamentos estruturais.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Introdução à Modelagem de Estruturas via Método dos Elementos Finitos
+Ementa:
+Introdução ao Método dos elementos finitos. Elementos de viga. Elementos de casca. Não linearidade geométrica. Não linearidade do material.
+Pré-requisito:
+Teoria das Estruturas III
+Nome:
+LIBRAS - Língua Brasileira de Sinais
+Ementa:
+A realidade da pessoa surda na sociedade brasileira. Inclusão e integração do surdo na educação e no mercado de trabalho. De que se trata a Língua Brasileira de Sinais. A linguagem de Sinais em situações dialógicas: apresentação pessoal, cumprimentos, diálogos corriqueiros, alfabeto, números, cores, verbos, tempos verbais, pronomes, família, a casa, profissões, alimentos, horários, sentimentos, meios de comunicação, meses do ano.
+Pré-requisito:
+Nome:
+Ligações em Estruturas
+Ementa:
+Ligações em estruturas de madeiras. Ligações em estruturas metálicas; Cálculo das ligações parafusadas em perfis soldados/laminados e em perfis formados a frio; Simbologia de soldagem; Cálculo das ligações soldadas em perfis soldados/laminados e em perfis formados a frio; Dimensionamento de placas de base e chumbadores; Ligações de viga de aço com elementos de concreto; Ligações em estruturas mistas
+Pré-requisito:
+Estruturas Metálicas e de Madeiras (cursando)
+Nome:
+Matemática Financeira
+Ementa:
+Capitalizações simples e composta, com foco em juro e desconto nas operações financeiras; séries não uniformes e uniformes; sistemas de amortização, com análise das melhores opções de pagamento e aplicação; técnicas de análise de investimentos; principais taxas de juros; taxa de inflação; principais aplicações financeiras. Matemática financeira e suas aplicações em planilhas eletrônicas.
+Pré-requisito:
+Nome:
+Materiais Ecoeficientes
+Ementa:
+Ecoeficiência e influência na análise do custo do ciclo de vida. Indicadores de impactos ambientais. Impactos ambientais dos materiais de construção civil. Materiais e produtos que minimizam o uso de recursos naturais. Materiais e produtos que contribuem para a minimização do consumo de água, energia e efeito de ilha de calor. Materiais e produtos que minimizam os riscos para a saúde humana e ecossistemas. Planejamento e orçamento de uma obra que utiliza materiais sustentáveis.
+Pré-requisito:
+Nome:
+Modelagem Digital de Terrenos
+Ementa:
+Modelos digitais de terreno: histórico, classificação e visão geral dos diversos tipos de modelo. Aplicação nas diversas áreas da engenharia. Esquemas gerais de interpolação. Modelos que utilizam redes regulares. Técnicas de interpolação. Modelos que utilizam redes triangulares. Fundamentos, equacionamento e esquema de interpolação. Aplicativos em modelagem digital de terrenos: Projeto geométrico de estradas. Cálculo de declividades. Problemas de visibilidade. Desenho das curvas de nível.
+Pré-requisito:
+Topografia
+Nome:
+Modelagem e Planejamento de Transporte Urbano
+Ementa:
+Condicionantes do Planejamento de Transporte Urbano. Modelagem e Simulação em Transporte Urbano. Softwares de modelagem. Software EMME. Análise de dados e previsão de demanda do Modelo 4 Etapas. Avaliação e estudos de projetos de transporte urbano através de modelagem usando o software EMME.
+Pré-requisito:
+Transportes I
+Nome:
+Novas Tecnologias aplicadas ao Transporte Urbano
+Ementa:
+Novos sistemas de transporte público e individuais urbanos. Novos métodos de coleta de dados em transporte (GPS, smartphones). Análise e visualização de dados em transporte: GPS, bilhetagem eletrônica, dados de smartphones. Perspectivas em planejamento de transportes.
+Pré-requisito:
+Transportes I
+Nome:
+Operações e Manutenção Aeroportuárias
+Ementa:
+Estrutura administrativa de aeroporto de grande porte. Sistemas de apoio (ETA, ETE, subestação de energia elétrica, CAG). Estratégias de ampliação e de manutenção de TPS e TECA. Operações de pátio e integração com TWR. Sistemas operacionais de transporte de malas e bulk. Segurança operacional. Tendências evolutivas aeronáuticas e implicações ao sítio aeroportuário. Noções de manutenção de pavimentos aeroportuários. Tipologia de aeronaves associada às necessidades de terra.
+Pré-requisito:
+Transportes I
+Nome:
+Operações e Manutenção Rodoviárias
+Ementa:
+Concessão rodoviária e sua viabilidade técnico-econômica. Viabilidade e recursos públicos para rodovias de baixo tráfego. Estrutura administrativa rodoviária. Gestão de operações e recursos. Parcerias. Métodos de análise financeira associada a vida útil dos elementos.
+Pré-requisito:
+Transportes I
+Nome:
+Operações Metro-Ferroviárias
+Ementa:
+Tipologia de carros e de trens-unidade. A viabilidade metroviária associada à demanda. Sistemas construtivos e possibilidade de ampliação de acordo com demanda e recursos. Técnicas e sistemas de controle de trens. Segurança de linha e de estações. Integração operacional. Gestão financeira.
+Pré-requisito:
+Transportes I
+Nome:
+Operações, Manutenção e Recapacitação Portuárias
+Ementa:
+Métodos de pesquisa operacional e planos diretores aplicados. Estudos de viabilidade de registro de aceitação de calados maiores, armazéns e extensão de cais. Elementos da bacia de evolução e zonas de acesso portuário. Características aplicadas de navios e tendências tecnológicas.
+Pré-requisito:
+Transportes I
+Nome:
+Patologia das Construções
+Ementa:
+Caracterização de patologias, fatores endógenos e exógenos, intrínsecos e extrínsecos, aplicados ao ambiente construído. Engenharia legal, responsabilidade e o código de defesa do consumidor. Diagnóstico, prognóstico e profilaxia em sistemas construídos. Métodos de restauro, reparo e conservação de sistemas construtivos. Manutenção corretiva, preventiva e preditiva e planos de manutenção.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Pavimentação Rígida
+Ementa:
+Principais fatores influentes na seleção de tipos de pavimentos. Princípio de Westergaard. Métodos de projeto para cargas especiais, carga máxima e consumo de resistência à fadiga. Procedimentos de projeto dimensional. Características aplicadas dos concretos de cimento Portland. Técnica construtiva.
+Pré-requisito:
+Transportes II
+Nome:
+Planejamento e Gestão de empreendimentos: Real Estate
+Ementa:
+Fundamentos de real estate. Indicadores da qualidade dos investimentos nos negócios do setor. Aglutinação de capitais de investimento. Poupança em ativos com lastro imobiliário. Os empreendimentos imobiliários com investimentos do empreendedor. Os empreendimentos imobiliários com financiamentos para produção e comercialização. Os empreendimentos de base imobiliária com renda fixada (build to suit e edifícios de escritórios para locação pulverizada). Decidir sobre investimentos diante do risco. Sistemas de gestão de investimentos e análises para programar a equação de fundos de um empreendimento: Conceitos de gestão de investimentos – caracterização do sistema gerenciador de investimentos e do sistema empreendimento; modelos para geração de informações para decisões financeiras nas hierarquias estratégicas (plano de negócios) e dos empreendimentos (validação de equação de fundos); e conceito de formatação de fluxos de caixa esperados. Rotina para escolha de empreendimentos e indicadores da condição econômica esperada: processo de hierarquização e escolha de empreendimentos; procedimento para construção de AQI; e indicadores da qualidade do investimento. Modelagem de sistemas para geração de informação de planejamento para apoio à gestão financeira. Formação da equação de fundos para desenvolvimento de empreendimentos, ou para suporte de investimentos em capital de giro. Rotina para escolha de empreendimentos.
+Pré-requisito:
+Engenharia Econômica
+Nome:
+Planejamento e Gestão de Projetos: Sistemas de Orçamento e Recursos
+Ementa:
+Projeto como produto e como serviço; coordenação de projetos. Inserção do projeto no empreendimento de construção de edifícios: papel dos agentes do empreendimento face ao processo de projeto. Configuração das equipes de projeto dentro da lógica multidisciplinar Gestão de Recursos Humanos: perfil dos trabalhadores; histórico; desenvolvimento dos recursos humanos; motivação e treinamento; estratégias de contratação. Gestão de contratos: agentes envolvidos; licitações; regimes de contratação. O processo de projeto e sua gestão; etapas de desenvolvimento do projeto e retroalimentação do processo. Projeto para produção como ferramenta para a qualidade e a inovação tecnológica; integração entre decisões no projeto e no canteiro de obras. Ferramentas de gestão da qualidade: PDCA; Kaizen; Diagramas e fluxogramas de análise de processos; 5W2H (What, When, Why, Where, Who, How, How much); Benchmarking. Qualidade na cadeia produtiva.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Planejamento Territorial Sustentável
+Ementa:
+O que é planejamento sustentável. História do planejamento territorial no Brasil. Políticas Territoriais no Brasil. Estudo e análise do estatuto da cidade. Estudo e análise do Plano Diretor. Aplicação do Planejamento no projeto integrado.
+Pré-requisito:
+Arquitetura e Representação Gráfica
+Nome:
+Produtividade e Gestão de Processos na Construção Civil
+Ementa:
+Aplicações do conceito de Projeto para Produção e sua implementação no canteiro de obras. Gestão de materiais: programação e escolha; aquisição; recebimento e controle. Elementos do sistema de gestão da qualidade em empresas construtoras; relações entre Suprimentos, Recursos Humanos, Projeto, Produção e Assistência Técnica. Certificação da qualidade; acordos setoriais e Planos Setoriais da Qualidade (PSQ); sistemas evolutivos de certificação da qualidade. Coordenação de projetos: gestão e controle do processo; os possíveis coordenadores de projetos. Sistemas de informação para a coordenação de projetos. Conceito de satisfação do cliente; clientes internos e externos; ciclo da qualidade na construção de edifícios. Certificação da qualidade de produtos e de sistemas: fornecedores de materiais e componentes; fornecedores de serviços. Planos da qualidade do empreendimento (PQE): interfaces entre sistemas da qualidade do empreendedor, dos projetistas e dos construtores e fornecedores.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Saneamento Básico
+Ementa:
+Características Físicas, Químicas e Biológicas dos efluentes (esgotos). DBO, DQO e Carga orgânica. Tratamento Físico e químico. Tratamento Biológico (aeróbico e anaeróbico). Processos de tratamento Biológicos de efluentes (Esgotos). Processo de lodo ativado e filtros biológicos. Processo de lagoas de estabilização e aeradas. Dimensionamento de Fossas Sépticas. Dimensionamento de sumidouros. Dimensionamento de Valos de oxidação. Dimensionamento de lagoas aeradas. Emissários Submarinos.
+Pré-requisito:
+Hidráulica
+Nome:
+Semáforos Inteligentes
+Ementa:
+Noções em evolução semafórica, semáforos isolados e integrados. Sistemas inteligentes de controle. Equipamentos de medição e controle. Noções sobre softwares e hardwares de confiabilidade para uso em período extenso de tempo (tipo wax). Integração interregional. Estimativas de remansos e de nível de serviço em tempo real. Elementos de projeto de semáforos inteligentes.
+Pré-requisito:
+Transportes I
+Nome:
+Sinalização Rodoviária
+Ementa:
+Sinalizações catóptrica, Horizontal e Vertical. Materiais, especificações e serviços, projeto e conservação. Elementos de Projeto de sinalização de intersecção rodoviária.
+Pré-requisito:
+Transportes I
+Nome:
+Sistemas de Gestão da Qualidade
+Ementa:
+Gestão segundo a normalização e certificações. Auditorias internas da qualidade. Diagramas de Ishikawa, métodos 5W2H e modelos multicriteriais de apoio a decisão. Avaliação Pós Ocupação, condicionamento e assistência técnica. Programas evolutivos da qualidade (ITQC , PBQP-H e Qualihab).
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Sistemas de Impermeabilização
+Ementa:
+Introdução; Conceitos Importantes; Normalização Brasileira; Tipos de Impermeabilização (NBR 9574) e Ensaios de campo. Sistemas de Impermeabilização aplicados: Fundações, Estruturas de Contenção, rodapé, banheiros, calhas, rufos, fachada; poço de elevador; reservatórios, piscinas, jardineiras e lajes. Tipos de laje impermeabilizadas: subpressão; tráfego de veículos; tráfego de pessoas, laje de cobertura; varandas e terraços; Cuidados na execução; Estruturas sujeitas a ambientes agressivos – ETA, ETE, Tanques de resíduos, Aterro sanitário; Canais de Irrigação; Tuneis; Ensaios; Contratação; Orçamento e composição de preços; Fiscalização e acompanhamento; Aspectos de saúde e segurança do trabalho; Cronograma físicofinanceiro; Garantias; Norma de Desempenho aplicada a serviços de impermeabilização. Serviços auxiliares e complementares; Sistemas de impermeabilização e seleção; Projeto de Impermeabilização; Interferências com os demais subsistemas; Detalhamento e Caderno de Especificação; Os danos causados à estrutura de concreto armado; Eflorescências; Umidade de rodapé; Descolamentos; Deformações estruturais; Infiltrações; Medidas corretivas e como evitá-las.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Sistemas de Posicionamento por Satélite e suas Aplicações na Engenharia
+Ementa:
+Conceitos básicos de geodesia por satélites (GNSS). Sistemas de Posicionamento e de Referência. Projeções Cartográficas. Características do Sistema GNSS. Métodos e modelos matemáticos (código, fase, combinações). Métodos de posicionamento: estático, cinemático, RTK, DGPS, PPP e outros. GNSS e altimetria. Processamento de dados GNSS. Aplicações na engenharia: Redes, Apoio topográfico, Controle de veículos e frotas, Sistemas de Navegação e Controle de rotas. Monitoramento de Estruturas
+Pré-requisito:
+Topografia
+Nome:
+Sistemas Inteligentes de Transportes (ITS)
+Ementa:
+Visão geral sobre arquitetura ITS e TMS (arquiteturas abertas, infraestrutura e regulamentações); Visão geral de normalização (abordagem ITS, TMS); NTCIP - normas de equipamentos: comunicação central-central); protocolos de comunicação, protocolos de bilhetagem; processo de implantação de normas de tráfego e sinalização; ensaios de conformidade; sistemas de tráfego de transportes públicos; green zones; informação ao motorista; sistemas de rotas; integração infraestrutura veicular; pesagem em trânsito; utilização de normas e aplicabilidade com agências reguladoras.
+Pré-requisito:
+Transportes I
+Nome:
+Sistemas Térmicos Aplicados à Engenharia Civil
+Ementa:
+Propriedades termodinâmicas, tabelas e ábacos; Primeiro e Segundo Princípios da Termodinâmica; Sistemas de refrigeração aplicados à engenharia civil; Transferência de calor em paredes de concreto; Ventilação e ar condicionado, para o conforto térmico; Utilização da energia solar nas instalações de aquecimento ambiental.
+Pré-requisito:
+Transmissão de Calor
+Nome:
+Superestrutura Metroviária
+Ementa:
+Material rodante. Elementos da Via Permanente Metroviária. Trilhos. Dispositivos de fixação. Temperatura. Flambagem. Tensões. Lastro. Sublastro. Esforços e métodos de dimensionamento. Estações e feixes metroviários.
+Pré-requisito:
+Transportes I
+Nome:
+Sustentabilidade na Construção Civil
+Ementa:
+As características de uma construção sustentável. Principais modelos de certificação na área de construção civil. O Modelo Leed (Green Building). Processos e critérios da certificação AQUA. Programa Brasileiro de Etiquetagem. A Rotulagem PROCEL EDIFICA. Materiais de Construção Sustentáveis. Avaliação de materiais de construção alternativos, naturais e sustentáveis e as suas aplicações, tanto no setor da construção convencional como na engajada nos novos paradigmas. Retrofit de edificações já existentes. Sistemas e Instalações Sustentáveis. Os sistemas de energia renovável e de conservação de energia nas habitações.
+Pré-requisito:
+Nome:
+Técnicas Gráficas de Soluções Geotécnicas
+Ementa:
+Embasamento matemático da estimativa de esforços geotécnicos (empuxos, tensões e resistência ao cisalhamento). Traçado de redes de fluxo em meios porosos. Método de Fellenius aplicado a taludes com extratificação complexa. Métodos Gráficos de Culmann e de Poncelet para determinação de empuxos.
+Pré-requisito:
+Geotecnia I
+Nome:
+Tecnologia das Construções II
+Ementa:
+Sistemas e métodos construtivos de maior complexidade; Alvenaria estrutural; Alvenaria com blocos de concreto celular autoclavado e sílico calcáreo; painéis de concreto prémoldados no local, pré-vigas e pré-lajes; painéis de concreto pré-fabricados; paredes em EPS com argamassa jateada e reforço em telas metálicas; paredes com painéis de madeira e enchimento termo-acústico; paredes com painéis de fibrocimento; Sistema Steel Framing; Estruturas mistas de concreto armado e estrutura metálica, lajes steel deck, fôrmas trepantes; Sistemas de caixilhos em alumínio, pvc, ferro; Curtain wall; Caixilhos unitizados; Visitas técnicas à obras; Elaboração de projeto e modelo de vedação vertical.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Tecnologia de Construção Pesada
+Ementa:
+Regime de contratação, organização e logística da empresa e do canteiro de obras pesadas. Qualidade em obras de construção pesadas. Impacto Ambiental: a problemática ambiental de implantação de obras de infraestrutura; EIA e RIMA. Discutir a complexidade dos diversos setores envolvidos no desenvolvimento do empreendimento de infraestrutura e dos agentes de fomento e financiamento. Aspectos do planejamento e do projeto de obras de construção pesada e o uso de recursos e a infraestrutura necessária para executar obras de construção pesada. Controle de custos e orçamento em obras de construção pesada. Métodos de contenção; ensecadeiras e corta-rios; esgotamento e rebaixamento de água; terraplanagem e pavimentação; operações de corte e aterro; desmonte de rocha em bancada; produção de brita e concreto asfáltico. Escavação e contenção de valas a céu aberto; métodos de escavação e contenção em túneis; escavação de túnel em solo e em rocha; técnicas de reforço de solo; esgotamento e rebaixamento de água; desmonte de rocha em túnel; projeção de concreto. Grandes Estruturas: produção de fundações e superestrutura de pontes, viadutos, torres, estações elevatórias. Equipamentos para Obras Pesadas: características, uso e manutenção.
+Pré-requisito:
+Tecnologia das Construções I
+Nome:
+Terraplenagem Mecanizada
+Ementa:
+Cubação, fatores de conversão, estimativas de volume e distâncias de transporte, máquinas motrizes e operatrizes (especificações, operações e estimativas). Projeto específico de elementos gerais em canteiro de obras.
+Pré-requisito:
+Geotecnia I
+Nome:
+Tópicos Especiais de Fundações
+Ementa:
+Conceitos de Capacidade de Carga e Recalque Admissível; Critério de Escolha de Fundação; Métodos executivos; Dimensionamento; Métodos Teóricos e Semi-empíricos; Provas de carga; Ensaios Dinâmicos; Projeto de fundações: sapatas isoladas, associadas, de divisa, viga alavanca, blocos de estacas; Métodos de execução e controle.
+Pré-requisito:
+Geotecnia I
+Nome:
+Transporte Urbano
+Ementa:
+Características técnicas e gerais dos transportes; A problemática dos transportes; Classificação; O transporte no Brasil; Indicadores de desempenho; Transporte metroviário; Transporte ferroviário; Transporte por ônibus; Sistema viário urbano; Tratamento preferencial ao transporte coletivo por ônibus; Pontos de parada; Nível de ocupação.
+Pré-requisito:
+Transportes I
+Nome:
+Túneis e Obras de Terra
+Ementa:
+Detalhamento da execução de aterros com foco na execução de aterros sobre solos moles e as soluções para melhoria das condições de fundação (substituição, uso de geotêxteis, colunas de jet-grouting e colunas de brita). Principais técnicas de escavações subterrâneas(túneis), incluindo os aspectos de investigação de subsolo, instrumentação e elementos para estabilização das escavações.
+Pré-requisito:
+Geotecnia I
+Nome:
+Vias Navegáveis Interiores
+Ementa:
+Morfologia fluvial (Teoremas de W. Davis e Surel). Noções aplicadas de geomorfologia e geologia de depósitos quaternários (calhas de Rios). Melhoramentos em cursos livres segundo a geometria associada à profundidade (leis de Fargue). Elementos de projeto de melhoramentos em condução livre e de eclusas e ascensores de embarcações. Elementos de Estudo da sustentabilidade de melhoramentos em fluxo restrito (barragens).
+Pré-requisito:
+Transportes I
+Projeto Interdisciplinar Tutorado de Inovação VI
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Projeto Interdisciplinar Tutorado de Inovação VI
+Elaboração de projeto inter e multidisciplinar e desenvolvimento de competências. Complementos do Projeto Interdisciplinar Tutorado de Inovação V
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Transportes II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes II
+Superestruturas, tipos e elementos. Noções sobre materiais cimentícios e agregados aplicados aos sistemas. Projeto dimensional de pavimentos e de misturas betuminosas. Dimensionamento de trilhos, lastro e de sublastro. Construção e conservação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Estruturas de Concreto II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas de Concreto II
+Flexão composta normal. Flexão composta oblíqua. Pilares de edifícios. Concreto protendido.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Estruturas de Fundações
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estruturas de Fundações
+Dimensionamento geométrico. Fundações em concreto armado. Tipologia. Sapatas isoladas. Sapatas associadas. Blocos sobre estacas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Geotecnia III
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Geotecnia III
+Estudo de capacidade de carga dos solos para fundações diretas rasas e o dimensionamento de sapatas. Projeto de muros de arrimo de flexão e gravidade. Soluções de contenções especiais para estabilização de taludes e execução de subsolos de edifícios.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Planejamento e Gestão de Obras
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Planejamento e Gestão de Obras
+Introdução a atuação e mercado de Construção Civil. Técnicas, conceitos e definições de planejamento estratégico, tático e operacional. Estrutura analítica de projeto e fluxogramas de trabalhos. Sistemas físicos de gerenciamento e execução de projetos. Caminho crítico, rede de dependências e relação de atividades (Pert-CPM), diagramas de Gantt. Introdução a Engenharia de Avaliações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Trabalho de Conclusão de Curso I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Trabalho de Conclusão de Curso I
+Elaboração de Trabalho de Conclusão de Curso e aplicação das competências desenvolvidas ao longo do curso, visando uma proposta que atenda a uma demanda científica, da sociedade, do mercado, ou da indústria da construção civil.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Transportes III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes III
+Auxílios à navegação: vias, métodos, sistemas e equipamentos. Previsão e ações de ventos, ondas e marés. Elementos constituintes e de projeto de portos e aeroportos. Orientação, comprimento e elementos de Pistas de pouso e decolagem. Noções sobre Canalização de Rios com fluxo restrito (eclusas ou ascensores) ou livre (melhoramentos no canal). Previsão de tráfego e estimativa de capacidade das vias específicas. Aspectos geométricos dos elementos. Noções sobre pavimentação Aeroportuária.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+ELETIVA
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ELETIVA
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Ergonomia e Segurança do Trabalho
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Ergonomia e Segurança do Trabalho
+Introdução à Engenharia de Segurança do Trabalho na Construção Civil. NR 18 – Condições e Meio Ambiente de Trabalho na Indústria da Construção. Identificar e reconhecer os principais diplomas legais. EPI e EPC; Análise de Riscos. Trabalho em altura. Higiene do Trabalho. Conceito do Acidente do Trabalho: causas e consequências. Avaliar riscos de incêndio e explosão. Ergonomia do Trabalho.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estruturas Metálicas e de Madeiras
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Estruturas Metálicas e de Madeiras
+Estruturas de madeiras. Estruturas metálicas. Normas para cálculo estrutural. Sistemas estruturais. Dimensionamento à tração, compressão, flexão reta e flexão oblíqua.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Planejamento Urbano
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Planejamento Urbano
+Planejamento Urbano no Brasil e no Mundo. Regiões Metropolitanas do Estado de São Paulo. Reflexões do Planejamento Urbano nas cidades Brasileiras. Desenho Urbano e Mobilidade Urbana. Cidades planejadas no Brasil e no mundo. Estatuto da Cidade, Plano Diretor e Zoneamento. Estudo de Impacto Ambiental, Estudo de Impacto de Vizinhança, Parcelamento do Solo.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Pontes e Grandes Estruturas
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Pontes e Grandes Estruturas
+Tipos construtivos. Esforços atuantes em vigas de pontes. Estruturas submetidas a carregamentos móveis. Linha de influência. Flexão. Cisalhamento. Fadiga.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Trabalho de Conclusão de Curso II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Trabalho de Conclusão de Curso II
+Aprimoramento do Trabalho de Conclusão de Curso I, com a implementação das soluções e Plano de Negócios, quando for o caso.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Transportes IV
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Transportes IV
+Elementos de planejamento e conceitos. Modelos de previsão de demanda. Níveis de serviço. Métodos de estimativa de capacidade de vias. Elementos constituintes. Controle e medições de tráfego. Fatores influentes na demanda e na capacidade. Semaforização. Noções sobre sinalização viária.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Nota: para alunos
+ingressantes a partir de 2023
+.
+Algumas disciplinas do currículo formam um itinerário extensionistas - unidades curriculares de extensão, atendendo as diretrizes para a extensão na educação superior brasileira (Resolução nº 7, de 18/12/2018, do Ministério da Educação e Cultura/Conselho Nacional de Educação).
+Estude no
+Exterior
+Você tem a possibilidade de realizar intercâmbios e estágios no exterior. A FEI tem acordos bilaterais e multilaterais com instituições como a Universidad Católica de Córdoba, Argentina; Pontifícia Universidad Javeriana, Colômbia; Universidad de Alicante, Espanha; Institut Catholique d’Arts at Métiers, França; Instituto Politénico de Viseu, Portugal; Universidad Iberoamericana, México; e Universidad Católica del Uruguay, Uruguai; entre outras.
+Saiba mais
+Programas de Iniciação
+Científica, Tecnológica e de Inovação, Didática e de Ações Sociais
+Os programas de Iniciação Científica, Tecnológica e de Inovação, Iniciação Didática e de Ações Sociais de Extensão visam iniciar alunos de bom rendimento acadêmico na metodologia científica aplicável às áreas: científica, tecnológica, didática ou de ação social.
+Saiba mais
+Júnior
+FEI
+Administrada e constituída totalmente por alunos da graduação, um dos objetivos da Júnior FEI é envolver os alunos
+que são membros da empresa em projetos de inovação, tecnologia, gestão e desenvolver habilidades profissionais e
+pessoais. Alunos de qualquer curso podem fazer parte da Junior FEI.
+Saiba mais
+Programa de
+Bolsas de Estudos
+Um setor especial atende os alunos que necessitam de bolsas, apoiando seu ingresso no ensino superior, e também os alunos regularmente matriculados que possam ter dificuldades financeiras de se manter no curso. O objetivo é oferecer um local de apoio, orientação e acompanhamento da permanência na vida universitária. Venha conversar conosco se precisar!
+Saiba mais
+Espaços de
+Aprendizagem
+Temos o que há de mais moderno para prática e pesquisa em Engenharia Civil:
+ferramentas computacionais avançadas e instalações modernas e bem equipadas, laboratórios altamente equipados e atualizados para desenvolver projetos acadêmicos de investigação científica.
+Slide 0
+Slide 1
+Veja os
+Vídeos
+Conheça mais sobre o curso de Engenharia Civil
+Como é ser Engenheiro(a) da FEI?
+Qual o papel do Engenheiro?
+Por que estudar Engenharia na FEI?
+Congresso de Inovação
+Alunos do 1º semestre de Engenharia criam soluções tecnológicas.
+Engenharia FEI promove Desafio de Ponte Estaiada
+Concurso Travessia FEI
+Equipe Concreto FEI
+Acontece na
+FEI
+Veja algumas matérias da FEI sobre Engenharia
+Um presidente movido a Paixão
+Destaque Internacional
+Lucas Di Grassi pilota carro de corrida elétrico desenvolvido por estudantes de engenharia da FEI.
+Inovação para o setor automobilístico
+Alunos da FEI desenvolvem projetos para melhorias em áreas estratégicas como Digital, Energia e Serviços
+Novos padrões de consumo surgirão a partir da Indústria 4.0
+A formação do engenheiro do futuro é tema em evento da Revista Exame.
+Coordenador
+do Curso
+Com formação e experiência multidisciplinar, possui graduação em Engenharia Civil com ênfase em Transportes pelo Centro Universitário da FEI (FEI). MBA Gerenciamento de Obras, Produtividade, Racionalização e Desempenho pelo Instituto Goiano de Graduação e Pós Graduação (IPOG) . Especialização em Gestão Publica pela Universidade Federal de São Paulo (UNIFESP), Especialização em Gestão de Projetos (ESALQ/USP), Mestrado Profissional em Habitação, Tecnologia e Planejamento pelo Instituto de Pesquisas Tecnológicas da Universidade de São Paulo (IPT/USP), Mestrado em Engenharia Civil ? Estruturas e Geotécnica ? Faculdade de Engenharia Civil da Universidade Estadual de Campinas (FEC/UNICAMP) e Doutorado em Engenharia de Construção Civil e Urbana pela Escola Politécnica da Universidade de São Paulo (POLI/USP). Pesquisador de Pós Doutorado no Grupo de Engenharia e Planejamento Urbano GEPE - URB do Departamento de Engenharia de Construção Civil e Urbana da Escola Politécnica da Universidade de São Paulo. Atualmente as principais áreas de pesquisa em desenvolvimento junto à Universidade de São Paulo abrangem a temática de instrumentos urbanísticos, cidades e bairros sustentáveis, caminhabilidade, desenvolvimento orientado ao transporte sustentável, mobilidade urbana e sistemas urbanos. A principal especialidade se refere ao planejamento urbano, infraestrutura e engenharia urbana, tecnologias e metodologias multicriteriais de suporte a processo decisório e ferramentas de participação popular. Atua como Professor no Departamento de Engenharia da Pontifícia Universidade Católica de São Paulo (PUC/SP), do Centro Universitário FEI (FEI) e já atuou como Professor Colaborador da Escola Politécnica da Universidade de São Paulo (POLI/USP). Profissional de Engenharia , Arquitetura, Agronomia e Geologia efetivo na Assessoria de Gabinete e Gestão Estratégica da Secretaria Municipal de Urbanismo e Licenciamento da Prefeitura do Município de São Paulo. Representante da Secretaria na Comissão Municipal para o Desenvolvimento Sustentável - Agenda 2030. Também, possuo experiência em Pericias e Avaliações de Estruturas Urbanas, com atuação na área de Engenharia Estrutural, com ênfase em Estruturas de Concreto, Aço e Madeira, tendo como principais temas de pesquisa: Confiabilidade Estrutural, Recuperação, Restauro e Reforço.
+×
+Mais Informações
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Agende uma Visita
+Nome Completo
+CPF
+E-Mail
+Celular
+Dia e Horário
+Opcional
+Escola ou Cursinho que Estuda
+Opcional
+Curso de Interesse
+Administração
+Ciência da Computação
+Engenharia de Automação e Controle
+Engenharia de Materiais
+Engenharia de Produção
+Engenharia de Robôs
+Engenharia Civil
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química
+Número de acompanhantes
+Como você conheceu a FEI?
+Feira de profissões ou palestra no meu colégio
+Indicação de amigos
+Indicação de pais
+Indicação de professores
+Internet
+Jornal, cartaz ou folder
+OBS: A FEI entrará em contato para confirmar a visita
+Desejo receber mais informações sobre o curso por e-mail
+Enviar
+```
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Mais informações
+Nome
+E-mail
+Telefone
+×
+Deixe seus Dados
+Nome
+E-mail
+Celular
+Curso de Interesse
+Clique aqui e selecione o curso
+Administração
+Ciência da Computação
+Engenharia Civil
+Engenharia de Automação e Controle
+Engenharia de Materiais
+Engenharia de Produção
+Engenharia de Robôs
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química

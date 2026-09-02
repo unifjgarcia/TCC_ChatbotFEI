@@ -1,0 +1,19 @@
+id,titulo,categoria,prioridade,url,status_validacao,observacoes
+DOC001,Serviços FEI,Serviços ao aluno / Administrativo,Alta,https://portal.fei.edu.br/servicos,A avaliar,Fonte pública do portal institucional
+DOC002,Secretaria,Serviços ao aluno / Administrativo,Alta,https://portal.fei.edu.br/secretaria,A avaliar,Fonte pública do portal institucional
+DOC003,Biblioteca FEI,Serviços ao aluno / Administrativo,Alta,https://portal.fei.edu.br/biblioteca,A avaliar,Fonte pública do portal institucional
+DOC004,NAE - Núcleo de Apoio ao Estudante,Serviços ao aluno / Administrativo,Alta,https://portal.fei.edu.br/nae-nucleo-de-apoio-ao-estudante,A avaliar,Fonte pública do portal institucional
+DOC005,Fretados,Serviços ao aluno / Administrativo,Alta,https://portal.fei.edu.br/fretados,A avaliar,Fonte pública do portal institucional
+DOC006,Tesouraria,Financeiro / Bolsas,Alta,https://portal.fei.edu.br/tesouraria,A avaliar,Fonte pública do portal institucional
+DOC007,Bolsas de Estudo de Graduação,Financeiro / Bolsas,Alta,https://portal.fei.edu.br/bolsas-de-estudo-de-graduacao,A avaliar,Fonte pública do portal institucional
+DOC008,Estágio e Emprego,Estágio e emprego,Alta,https://portal.fei.edu.br/estagio-e-emprego,A avaliar,Fonte pública do portal institucional
+DOC009,Diploma Digital,Documentos e validações,Alta,https://portal.fei.edu.br/diploma-digital,A avaliar,Fonte pública do portal institucional
+DOC010,Consulta de Diplomas de Graduação,Documentos e validações,Alta,https://portal.fei.edu.br/consulta-diplomas-graduacao,A avaliar,Fonte pública do portal institucional
+DOC011,Validação Eletrônica de Documentos,Documentos e validações,Alta,https://portal.fei.edu.br/validacao-eletronica-de-documentos,A avaliar,Fonte pública do portal institucional
+DOC012,Consulta de Currículos,Documentos e validações,Média,https://portal.fei.edu.br/consulta-curriculos,A avaliar,Fonte pública do portal institucional
+DOC013,Graduação,Graduação / Ingresso / Cursos,Média,https://portal.fei.edu.br/graduacao,A avaliar,Fonte pública do portal institucional
+DOC014,Transferência e Portador de Diploma,Graduação / Ingresso / Cursos,Média,https://portal.fei.edu.br/transferencia-portador,A avaliar,Fonte pública do portal institucional
+DOC015,Provas Anteriores,Graduação / Ingresso / Cursos,Média,https://portal.fei.edu.br/provas-anteriores,A avaliar,Fonte pública do portal institucional
+DOC016,Corpo Docente,Complementar,Média,https://portal.fei.edu.br/corpo-docente-da-fei,A avaliar,Fonte complementar indicada pelo professor
+DOC017,Campus São Bernardo,Complementar,Média,https://portal.fei.edu.br/campus-sao-bernardo-do-campo,A avaliar,Fonte complementar indicada pelo professor
+DOC018,Campus São Paulo,Complementar,Média,https://portal.fei.edu.br/campus-sao-paulo,A avaliar,Fonte complementar indicada pelo professor

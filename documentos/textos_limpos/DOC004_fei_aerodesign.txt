@@ -1,0 +1,100 @@
+FEI AeroDesign
+×
+Mais Informações
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Agende uma Visita
+Nome Completo
+CPF
+E-Mail
+Celular
+Dia e Horário
+Opcional
+Escola ou Cursinho que Estuda
+Opcional
+Curso de Interesse
+Administração
+Ciência da Computação
+Engenharia de Automação e Controle
+Engenharia de Materiais
+Engenharia de Produção
+Engenharia de Robôs
+Engenharia Civil
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química
+Número de acompanhantes
+Como você conheceu a FEI?
+Feira de profissões ou palestra no meu colégio
+Indicação de amigos
+Indicação de pais
+Indicação de professores
+Internet
+Jornal, cartaz ou folder
+OBS: A FEI entrará em contato para confirmar a visita
+Desejo receber mais informações sobre o curso por e-mail
+Enviar
+Programas e
+Projetos
+AeroDesign
+O AeroDesign é um projeto educacional voltado ao desenvolvimento do estudante de engenharia no ramo aeronáutico. Por meio de aeronaves rádio-controladas que são projetados e construídos na FEI, os alunos que participam do projeto adquirem conhecimentos que vão além do que é ensinado em sala de aula.
+Descrição
+Graças a um centro de laboratórios mecânicos atualizados e bem estruturados e ao conhecimento agregado da equipe, a FEI é a única Instituição que tem a permissão de fabricar a própria hélice e a única em nível nacional a desenvolver um sistema que reduz a rotação do motor, possibilitando um aumento no torque e a utilização de uma hélice maior, com maior tração.
+Todo empenho, dedicação e conhecimento aplicado no projeto é testado na competição SAE Brasil AeroDesign, realizada anualmente em São José dos Campos, que reúne mais de 90 equipes do País inteiro e algumas do exterior. A FEI tem crescido a cada ano na competição e vem obtendo resultados expressivos.
+Patrocinadores
+O projeto é mantido com o auxílio da faculdade e dos patrocinadores da equipe, sem os quais seria impossível
+a concretização dos objetivos impostos.
+Para tornar-se um patrocinador, está disponível abaixo a carta de patrocínio com as informações necessárias.
+Clique aqui para baixar a Carta de Patrocínio
+Competições
+A competição SAE AeroDesign ocorre nos Estados Unidos desde 1986, tendo sido concebida e realizada pela SAE Internacional, sociedade que deu origem à SAE Brasil. A partir de 1999 esta competição passou a constar também no calendário de eventos estudantis da SAE Brasil e garante aos melhores classificados a participação na competição mundial. A competição é dividida em três categorias: Micro, Regular e Advanced. A principal diferença entre elas é a somatória dimensional da aeronave e a carga útil máxima elegível para cada categoria.
+Equipe
+Capitão Equipe Regular e Advanced
+Anderson Godoy dos Santos
+Capitão Equipe Regular
+Bruno Hideki Yugawa
+Capitão Equipe Micro
+Higor Davi Pereira de Campos
+Aerodinâmica:
+Gabriel Capelini Fernandes
+Leonardo Amyuni dos Santos
+Paulo Henrique Vidal Cervi
+Withor Farias de Carvalho Menezes
+Abner Embuaba Leme
+Antonio José da Costa Neto
+Cargas e Estruturas:
+Anderson Godoy dos Santos
+Ana Priscila Oliveira Rocha
+Higor Davi Pereira de Campos
+Rafael de Oliveira Guariza
+Bruno Felix da Silva
+Bruno Tomanin Alves Monteiro
+Murilo Morales Hernandez
+Humberto Rossini dos Santos
+Gabriel Toledo Pastori
+Estabilidade e Controle:
+Bruno Hideki Yugawa
+Luise Morita Cembranelli
+Murilo de Barros Santos
+Jéssica Trajano
+Desempenho:
+Carlos Fernandes Alfano Junior
+Fernanda Ferrezi Lopes
+William Trindade Mebs
+Julia Malta Ono
+Telemetria / Elétrica:
+Vinicius Branzani Leite
+Josimar Ferreira de Melo
+Mais informações
+sobre o projeto
+CLIQUE AQUI!
+```

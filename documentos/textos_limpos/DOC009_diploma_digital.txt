@@ -1,0 +1,98 @@
+Diploma Digital
+Diploma Digital
+Diploma Digital
+De acordo com o Ministério da Educação – MEC, o Diploma Digital é um documento com existência, emissão e armazenamento integralmente digitais.
+A partir de 31 de dezembro de 2021 passou a ser obrigatória a emissão do Diploma no formato digital. Portanto, para formados a partir de dezembro de 2021 e os demais que solicitarem segunda via, terão os diplomas expedidos exclusivamente no formato digital.
+Para acessar seu Diploma Digital
+clique aqui
+e acesse com seu CPF o novo Portal do Ex Aluno.
+O portal de acesso é vitalício e você poderá baixar tanto a RVDD - Representação visual do Diploma Digital (Diploma) quanto o XML do Diplomado.
+Entenda, RVDD - Representação visual do Diploma Digital é o seu Diploma, e o XML do Diplomado é o arquivo para verificação de conformidade no site do Ministério da Educação - MEC.
+Existem 3 (três) formas para verificar a conformidade do seu Diploma Digital:
+1.	Baixe o XML do Diplomado e insira no
+Portal validador do MEC
+;
+2.	Direcione a câmera do seu celular para o QRCode que será redirecionado à URL única do seu Diploma Digital. Nela você terá acesso aos dados da Instituição, dados públicos do diplomado, registro, curso, grau conferido, status do Diploma, código validador e opção de baixar a RVDD - Representação visual do Diploma Digital (Diploma);
+3.	Acesse o link de
+Validação Diploma
+FEI e insira o código de validação localizado no rodapé do Diploma Digital.
+Também é possível obter informações do aluno formado por meio de consulta pública disponibilizada no site do Centro Universitário FEI.
+Para consulta,
+clique aqui
+Perguntas Frequentes
+O que é o Diploma Digital?
+De acordo com o Ministério da Educação – MEC, o Diploma Digital é um documento com existência, emissão e armazenamento integralmente digitais.
+A versão digital do documento contém todas as informações pessoais, acadêmicas e validade jurídica assim como no formato físico.
+Para autenticidade e validação jurídica, o Diploma recebe a assinatura com Certificação Digital ICP-Brasil e Carimbo de Tempo conforme parâmetros e diretrizes do Padrão Brasileiro de Assinaturas Digitais (PBAD).
+O Diploma Digital agora é composto por dois arquivos:
+• XML do Diplomado
+• RVDD - Representação visual do Diploma Digital (Diploma)
+Quais os itens de segurança do meu Diploma Digital?
+QR Code
+Direcione a câmera do seu celular para o código e tenha acesso à URL única do seu Diploma. Nela você terá acesso aos dados da Instituição, dados públicos do diplomado, registro, curso, grau conferido, status do Diploma, código validador e opção de baixar a RVDD - Representação visual do Diploma Digital (Diploma).
+Código Validador
+Ao digitar ou clicar no endereço disponibilizado no canto inferior da Representação Visual do Diploma, você será direcionado à URL única do seu Diploma.
+URL única do Diploma
+Assinatura Digital
+O documento XML do Diplomado possui Certificação Digital ICP-Brasil e Carimbo de Tempo conforme parâmetros e diretrizes do Padrão Brasileiro de Assinaturas Digitais (PBAD).
+Como obter meu Diploma Digital?
+A partir de 31 de dezembro de 2021 passou a ser obrigatória a emissão do Diploma no formato digital.
+Portanto, alunos que colaram grau a partir do 2º semestre de 2021 receberão instruções para acesso exclusivo ao seu Portal para retirada do seu Diploma. Desta forma o aluno não receberá mais o seu diploma físico e sim o link do seu Diploma.
+O Diploma é composto por dois arquivos:
+RVDD - Representação Visual do Diploma Digital (Diploma)
+– este possui todos os dados idênticos ao Diploma Físico com caráter meramente ilustrativo que pode ser impresso pelo formado em qualquer papel. Esta representação possui um código de validação e QRCode que está atrelado à URL única do Diploma Digital do Centro Universitário FEI.
+XML do Diplomado
+– este possui todos os dados que comprovam que o aluno concluiu o curso, além das certificações ICP-Brasil e carimbo de tempo, e poderá verificar sua conformidade no portal validador do
+Ministério da Educação - MEC (Aqui).
+O Diploma Digital será disponibilizado em nosso Portal do Ex Aluno com acesso restrito e vitalício e o formado poderá consulta-lo ou baixa-lo a qualquer momento. Fica sob a responsabilidade do formado o compartilhamento do seu Diploma.
+1ª Via – a partir do 2º semestre de 2021 é emitida automaticamente em até 120 dias a contar da assinatura da ata da sua colação de grau oficial.
+2ª Via – mediante formalização da solicitação na Secretaria Escolar do Centro Universitário através do e-mail
+diplomas@fei.edu.br
+Como retirar meu Diploma Digital?
+1º Passo:
+Acessar o
+Portal do Ex Aluno
+e logar com seu CPF e senha;
+Para 1º acesso o formado deverá criar uma senha através do número do seu CPF e validar seu acesso no Portal através do código de validação, que será enviado ao e-mail cadastrado no sistema da FEI. Caso os dados (CPF e e-mail) não sejam identificados, o formado será direcionado a uma tela para inserção de dados pessoais, do curso e upload da cópia do documento oficial com foto e uma foto de sua face segurando o documento oficial com foto.
+2º Passo:
+Acessar Documentos e Solicitações Acadêmicas, Entrar na Aba Acessar Documentos e Solicitações Acadêmicas;
+3º Passo:
+Baixar a RVDD – Representação Visual do Diploma Digital (Diploma) e o XML do Diplomado.
+Perdi o acesso do meu Diploma Digital, como obter novo acesso?
+O formado deverá acessar o
+Portal do Ex Aluno (Aqui)
+Logar com seu CPF e senha e seu Diploma estará disponível por tempo indeterminado.
+Como verificar a conformidade do meu Diploma Digital?
+Existem 3 (três) formas para verificar a conformidade do seu Diploma Digital:
+1.	Baixe o XML do Diplomado e insira no
+Portal validador do MEC;
+2.	Direcione a câmera do seu celular para o QRCode que será redirecionado à URL única do seu Diploma Digital. Nela você terá acesso aos dados da Instituição, dados públicos do diplomado, registro, curso, grau conferido, status do Diploma, código validador e opção de baixar a RVDD - Representação visual do Diploma Digital (Diploma);
+3.	Acesse o link de
+Validação Diploma FEI
+e insira o código de validação localizado no rodapé do Diploma Digital.
+Também é possível obter informações do aluno formado por meio de consulta pública disponibilizada no site do Centro Universitário FEI.
+Para consulta,
+clique aqui
+Como saber se meu Diploma foi publicado no Diário Oficial (DOU)?
+Em posse do seu Diploma você poderá realizar a consulta pública disponibilizada no site do Centro Universitário FEI e verificar a data de sua publicação.
+Para consulta,
+clique aqui
+Como as empresas e órgãos podem validar o meu Diploma Digital?
+As empresas e órgãos públicos em posse da RVDD - Representação visual do Diploma Digital (Diploma), poderão realizar a autenticação no site
+Validação Diploma FEI
+ou através da consulta pública.
+(Aqui)
+Como imprimir o meu Diploma Digital?
+Conforme legislação vigente, documentos nato-digitais (emitidos e assinados por via digital) são válidos somente em meio digital, portanto sua impressão não garante sua validade.
+Como você receberá o acesso Vitalício ao seu Diploma e estando em posse da RVDD - Representação visual do Diploma Digital (Diploma), poderá imprimi-lo em qualquer local e em qualquer papel.
+Lembrando que para ter acesso a versão válida basta utilizar de um dos meios de segurança do Diploma Digital (QRCode ou Site e Código validador).
+O Diploma Digital impresso possui validade?
+Conforme legislação vigente, documentos nato-digitais (emitidos e assinados por via digital) são válidos somente em meio digital, portanto sua impressão não garante sua validade.
+Porém, caso queira imprimir sua RVDD - Representação visual do Diploma Digital (Diploma), para sua validação basta utilizar de um dos meios de segurança do Diploma Digital (QRCode ou Site e Código validador).
+Tenho o Diploma físico, ele continua válido?
+Conforme legislação o Diploma Digital passou a vigorar a partir do dia 31 de dezembro de 2021. Portanto diplomas físicos emitidos anteriormente a esta data continuam válidos.
+Tenho Diploma físico, posso ter o digital?
+Qualquer formado que deseja ter o seu Diploma Digital deverá requerer sua 2ª via.
+A emissão da 2ª via está condicionada ao pagamento de taxa.
+Maiores informações, favor consultar a Secretaria Escolar ou  através do e-mail
+diplomas@fei.edu.br

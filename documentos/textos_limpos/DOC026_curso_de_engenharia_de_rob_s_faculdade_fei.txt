@@ -1,0 +1,1838 @@
+Curso de Engenharia de Robôs -  Faculdade FEI
+Período
+Diurno
+Duração
+10 Semestres
+Localização
+São Bernardo do Campo
+Consulte o valor
+Clique aqui
+-
+Bolsas / Crédito
+Clique aqui
+Disciplinas
+Clique aqui
+×
+CONSULTA
+Nome
+Informe seu nome
+Sobrenome
+Informe seu sobrenome
+E-mail
+Informe seu E-mail
+Celular
+Informe seu celular
+Você é um robô?
+Eu li e concordo com os termos da política de privacidade
+Você precisa aceitar os termos.
+Quero ser avisado
+Pronto! | Diurno: R$ 4.053,00
+Conheça o curso de
+Engenharia de Robôs
+Na FEI você vai fazer o único curso de graduação de Engenharia de Robôs que existe no Brasil. Com os avanços da robótica e sua perspectiva de crescimento nos próximos anos, percebemos que ela havia evoluído tanto que necessitava uma engenharia específica.
+Novas concepções de produção e de produtos começam a surgir, os robôs saem de suas grades de proteção e bases fixas, se tornando cada vez mais presentes na vida das pessoas. A robótica móvel inteligente, colaborativa, interativa e cooperativa é uma realidade. Esta tendência mundial avança para uma nova competência profissional: o engenheiro de robôs ou Engenheiro de Robótica.
+Quando você escolhe fazer Engenharia de Robôs na FEI, determina alcançar novos patamares de formação, investindo em um curso voltado para o profissional que projeta, especifica e desenvolve robôs para as mais diversas atividades.
+Aqui você vai trabalhar com robôs manipuladores, móveis, autônomos e inteligentes, industriais, comerciais, domésticos, de serviço, para entretenimento ou outras aplicações, envolvendo e compartilhando os conhecimentos e competências das áreas de mecânica, eletrônica, computação, automação e controle.
+Nosso projeto pedagógico incentiva pensar em soluções inovadoras e gerenciar projetos para os grandes desafios da sociedade mundial atual:
+Preservação do Meio Ambiente
+Produção Sustentável de Alimentos
+Segurança
+Saúde
+Aquecimento Global
+Fim da Pobreza
+Mobilidade
+Cidades e Campo Inteligentes
+Educação
+Vamos formar  engenheiros com sólidos conhecimentos em engenharia e matemática, que desenvolvem uma percepção global e interdisciplinar da robótica. Têm visão crítica, criativa e inovadora, baseados em pesquisas científica e tecnológica, conscientes de sua influência na prática profissional e impactos na sociedade e no meio ambiente.
+A base deste novo empreendimento da FEI são seus cursos de Ciência da Computação, Engenharia Elétrica, Engenharia Mecânica e Engenharia de Automação e Controle, que oferecem e compartilham 70% das disciplinas de Engenharia de Robôs.
+Com a implantação do curso, queremos formar os mais competentes profissionais do mercado, que irão avançar com a tecnologia robótica no Brasil e no mundo.
+Saiba mais
+QUERO ME INSCREVER!
+AVALIAÇÕES DO
+MERCADO
+Guia da Faculdade
+2025 Estadão
+4 Estrelas
+Campus São Bernardo do Campo
+e Campus São Paulo
+ENADE 2024
+Nota máxima no MEC
+Confira
+QUERO ME INSCREVER!
+Disciplinas
+INGRESSANTES ENTRE 2019 E 2022
+Diurno
+Matriz Curricular
+Clique nos ciclos abaixo para mais detalhes:
+1 º Ciclo
+2 º Ciclo
+3 º Ciclo
+4 º Ciclo
+5 º Ciclo
+6 º Ciclo
+7 º Ciclo
+8 º Ciclo
+9 º Ciclo
+10 º Ciclo
+Cálculo Diferencial e Integral I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral I
+Conceito de Função. Funções Básicas. Limites. Formas Indeterminadas. Limites Fundamentais. Derivadas. Interpretação Geométrica. Propriedades Operatórias.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Vetorial e Geometria Analítica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Vetorial e Geometria Analítica
+Matrizes. Vetores no Plano e no Espaço. Operações com Vetores. Dependência Linear. Bases. Produtos. Sistemas de Coordenadas. Retas e Planos. Superfícies Esféricas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Desenho Técnico
+Introdução aos conceitos básicos para a interpretação e elaboração de desenhos técnicos utilizados em engenharia. Representação de figuras planas e perspectivas. Elaboração de croquis. Projeções ortográficas convencionais e com utilização de cortes. Dimensionamento e escalas. Trabalhos práticos manuais com instrumentos e por meio de software CAD.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física I
+Medidas físicas; Cinemática da partícula; Dinâmica da partícula: Forças e leis de Newton; Trabalho, energia e conservação da energia; Impulso, momento linear e conservação do momento linear.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Laboratório de Matemática
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Matemática
+Conversão de relações descritas em língua natural (propostas de problemas) para a forma de expressões matemáticas e lógicas (modelos matemáticos) utilizando Funções Básicas. Desenvolvimento de soluções em ambiente computacional.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Práticas de Inovação I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação I
+Conceito de inovação (descoberta x invenção x inovação); tipos de inovação (produto, processo, marketing, método organizacional e modelo de negócio); formulação de problema e geração de ideias (técnicas de formulação de perguntas, ferramenta de Design Thinking ((pensar de forma criativa e visual e usado geralmente quando o problema não está bem definido)) e o método do 5W1H); seleção de ideias (uso da ferramenta do Funil da Inovação) e difusão de ideias em seus diferentes graus (incremental, radical e mudança de paradigma); falar de algumas ferramentas de auxílio do Google: Analytics, Adsense e Adwords.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sociologia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Sociologia
+Principais conceitos sociológicos. Trabalho objetivo e subjetivo. A transformação da organização social do trabalho. Trabalho, identidade e interação social. A quarta revolução industrial: trabalho, economia, cultura e política. Novos paradigmas sociais. Estado e políticas de inserção social. Desigualdades, conflitos sociais, identidade e diversidade. Multiculturalismo e pluralidade.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cálculo Diferencial e Integral II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral II
+Aplicações de Derivadas: otimização, regra do L’Hospital, esboço de gráficos de funções. Diferenciais e Taxa de Variação. Integrais Indefinidas. Técnicas de Integração. Integrais Definidas e Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Comunicação e Expressão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Comunicação e Expressão
+Textos literários e textos não literários. Níveis de linguagem, linguagem coloquial e norma culta. Leitura e interpretação de textos dissertativos, científicos e jornalísticos. Estrutura do texto dissertativo. Estrutura do parágrafo e tópico frasal; coesão e coerência textuais. Argumentação: tipos de argumento. Tópicos de linguagem. Produção textual.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletrônica Geral
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Eletrônica Geral
+Representação Analógica e Digital e suas interfaces. Introdução aos Circuitos Lógicos. Controladores Lógicos Programáveis e Microcontroladores. Instrumentação e amplificação. Sensores e Atuadores. Processamento de Sinais. Comunicação Digital.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Filosofia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Filosofia
+Realismo. Investigação existencial e Experiência. Razão e Razoabilidade. Certeza moral e Fé. Moralidade no conhecimento. Razão e Sentimento. Senso religioso. Pessoa e o Infinito.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física II
+Oscilações simples, amortecidas e forçadas. Ressonância. Ondas mecânicas. Equilíbrio térmico e calor. Transferência de calor: condução, convecção e radiação. Propriedades térmicas da matéria. Primeira lei da termodinâmica, trabalho, energia e processos termodinâmicos simples. Segunda lei da termodinâmica, entropia, máquinas térmicas e refrigeradores.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Computação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Introdução à Computação
+Introdução e conceitos básicos de Algoritmos. Noções sobre bases de numeração: decimal, binária, hexadecimal. Tipos básicos de dados. Variáveis, fluxos sequenciais, operadores matemáticos, lógicos e relacionais. Estruturas de controle de seleção. Estruturas de controle de repetição. Modularização. Tipos de dados estruturados homogêneos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Práticas de Inovação II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação II
+Competências para inovar (liderança, ferramenta DISC para avaliação pessoal, tipos de profissional); risco x incerteza (transformar incerteza em risco, classificando em tipo de grau de risco); Effectuation (metodologia de desenvolvimento de negócio); metodologia de validação de ideias; construção de um MVP Minimum Viable Product no laboratório de informática (elaboração de vídeos, app, blogs, fotos etc); falar de marketing digital e mídias sociais
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Geral
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Química Geral
+Quantidade de matéria; Gases; Líquidos; Estequiometria; Equilíbrio líquido – vapor. Balanço Material. Termoquímica; Combustão e combustíveis; Lubrificantes e lubrificação; Eletroquímica.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Cálculo Diferencial e Integral III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral III
+Funções de Várias Variáveis. Derivadas Parciais. Diferenciais. Integrais Múltiplas. Integrais de linha. Operadores: Gradiente, Divergente e Rotacional.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenvolvimento de Algoritmos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Desenvolvimento de Algoritmos
+Strings, recursividade, subprogramas e funções, ponteiros, alocação dinâmica, arquivos (texto e binário), passagem de parâmetros por referência, bibliotecas estáticas e compartilhadas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Equações Diferenciais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Equações Diferenciais
+Equações diferenciais de primeira Ordem: Variáveis Separáveis, Homogêneas, Lineares e Exatas. Equações Diferenciais de Segunda Ordem com Coeficientes Constantes: Homogênea e Completa. Modelagem matemática.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física III
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física III
+Carga elétrica, campo elétrico, força elétrica e fluxo de campo elétrico. Corrente elétrica, campo magnético, força magnética e fluxo de campo magnético. Movimento de cargas puntiformes em campos elétrico e magnético. Potencial elétrico, energia potencial elétrica e capacitância. Indução eletromagnética, energia magnética e indutância. Campos elétricos e magnéticos na matéria.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Robótica Móvel
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Introdução à Robótica Móvel
+Laboratório com Robôs móveis , sensores, instrumentação, e controle simples.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica Geral
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica Geral
+Centroide, centro de massa e momentos de inércia. Sistemas de forças e forças distribuídas. Equilíbrio. Cinemática do corpo rígido: translação, rotação e centro instantâneo de rotação. Dinâmica do corpo rígido: translação e rotação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Princípios de Ciência e Engenharia de Materiais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Princípios de Ciência e Engenharia de Materiais
+Tipos de ligações químicas em sólidos de substâncias puras e seu papel na determinação de: (1) propriedades físicas fundamentais; (2) estruturas atômicas/moleculares; (3) classes de materiais; (4) propriedades mecânicas básicas. Influência das estruturas e microestruturas nas propriedades dos materiais. Introdução a relação entre estrutura/propriedades/processamento e desempenho de materiais..
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas Digitais I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Sistemas Digitais I
+Sistemas de numeração. Álgebra Booleana. Portas Lógicas. Projeto Lógico Combinacional. Representação de Funções. Otimizações. Circuitos Lógicos de Aplicação. ULA. Sistemas de Lógica Programável. Linguagens de Descrição de Hardware.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Álgebra Linear e Aplicações
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Álgebra Linear e Aplicações
+Sistemas Lineares. Espaços Vetoriais. Subespaços Vetoriais. Bases e Dimensões. Transformações Lineares. Autovalores e Autovetores. Espaços Vetoriais com Produto Interno. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Atuadores e Servomotores
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Atuadores e Servomotores
+Motores DC e Servomotores. Ponte H, circuitos de potência, controle de corrente. Projetos de uso e aplicações práticas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletricidade Geral
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Eletricidade Geral
+Circuitos de corrente contínua. Potência gerada e dissipada. Circuitos de corrente alternada. Fator de Potência. Circuitos trifásicos. Motores e geradores elétricos. Geração, Transmissão e Distribuição de Energia Elétrica. Fornecimento de Energia – Tarifação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física Moderna
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Física Moderna
+Óptica física: polarização, interferência e difração. Relatividade: dilação temporal, contração espacial e equivalência entre massa e energia. Física quântica: fótons e efeito fotoelétrico, ondas de matéria e equação de Schrödinger, princípio da incerteza, interpretação probabilística e tunelamento, átomos e moléculas, condução de eletricidade nos sólidos, núcleos atômicos, radioatividade e energia nuclear.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Introdução à Análise de Circuitos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Introdução à Análise de Circuitos
+Números Complexos. Funções de Variáveis Complexas. Fasores e representação de sinais senoidais. Regime permanente senoidal. Cargas reativas. Séries de Funções. Séries de Fourier. Decomposição de sinais em séries de Fourier. Harmônicas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Sólidos
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica dos Sólidos
+Complementos de estática. Elementos estruturais. Mecânica dos sólidos deformáveis: tensões, deformações, deslocamentos, classificação dos materiais estruturais e leis constitutivas. Modelagem de casos particulares: i) tração/compressão e flambagem; ii) cisalhamento puro e ligações mecânicas; iii) flexão pura, simples e composta; iv) torção e transmissão de potência em seções circulares; v) tensões térmicas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Navegação de Robôs Móveis
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Navegação de Robôs Móveis
+Mapas; Campos Potenciais; Planejamento de Rotas e Trajetórias; Decomposição de Células; Árvore de Exploração randômica Rápida (RRT´s); Diagrama de Voronoi
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas Digitais II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Sistemas Digitais II
+Lógica Sequencial. Latch primitivo. Equações de Estado dos Flip-Flops. Máquina de Estados Finitos. Registradores de Deslocamento. Contadores Síncronos. Projeto em Nível de Transferência entre Registradores. Equações de Estado. Aplicações para Modelagem de Sistemas. Sistemas de Lógica Programável. Linguagem de Descrição de Hardware para estruturas sequenciais.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Circuitos Elétricos I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Circuitos Elétricos I
+Técnicas de análise nodal e de laço; Técnicas adicionais de análise (teoremas). Capacitância e Indutância. Circuitos RC, RL e RLC (Análise Transitória). Análise em CA: Análise senoidal em regime permanente (Teoremas em CA) Potência em CA regime permanente. Circuitos Polifásicos
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Conversão de Energia I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Conversão de Energia I
+Lei de Ampere; Intensidade do Campo H, fluxo e densidade de fluxo. Circuitos Magnéticos lineares. Circuitos Magnéticos não lineares, excitação em corrente alternada. Lei de Faraday/Lenz. Força eletromotriz. Parâmetros de Indutância. Energia Armazenada. Perda por histerese. Perda devido às correntes parasitas. Corrente Alternada. Reator. Transformadores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Eletrônica I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Eletrônica I
+Características elétricas e modelos simplificados de diodo. Circuitos com diodos. Transistores bipolares de junção. Transistores de Efeito de Campo. MOSFET como amplificador. Transistor como chave.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Gestão de Projetos Inovadores
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Gestão de Projetos Inovadores
+Gestão de Projetos: escopo, tempo, custos, qualidade, pessoas, comunicação, aquisições, riscos, stakeholders e integração; Grupos de processos: iniciação, planejamento, execução, controle e encerramento. Canvas. Elaboração de projeto em grupo com enunciação do problema e desenvolvimento da solução com o uso de Canvas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Fluidos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Mecânica dos Fluidos
+Conceitos fundamentais de mecânica dos fluidos; Viscosidade; Hidrostática; Manometria; Conservação da massa e energia em volume de controle; Equação de Bernoulli; Perda de carga distribuída e singular; Diagrama de Moody; Experimentos em laboratório de mecânica dos fluidos para escoamentos incompressíveis.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Mecânica dos Sólidos II
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Mecânica dos Sólidos II
+Análise de tensões, deformações e deslocamentos sob esforços combinados à luz do Estado Geral de Tensões. Estados Planos. Laboratório para análise experimental de estruturas: técnicas ponto a ponto (extensometria elétrica) e de campo completo (fotoelasticidade e Digital Image Correlation - DIC). Práticas computacional e experimental com ensaios de validação e com projeto de análise experimental de estrutura.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Modelos Probabilísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Modelos Probabilísticos
+Probabilidade. Variáveis Aleatórias Discretas. Distribuição Conjunta de Variáveis Aleatórias Discretas. Distribuições de Variáveis Discretas: Binomial e Poisson. Distribuições de Variáveis Aleatórias Contínuas: Normal e Exponencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cinemática e Dinâmica de Robôs Móveis
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cinemática e Dinâmica de Robôs Móveis
+Cinemática e dinâmica (nas formas direta e inversa) aplicadas a robôs móveis com rodas, pernas e aéreos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Introdução ao Controle Digital
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Introdução ao Controle Digital
+Transformada Z e Laplace; Teoria da Amostragem; Discretização; Equações de diferença; Sintonia de controladores PID e síntese em microcontrolador.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Manipuladores Robóticos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Manipuladores Robóticos
+Cinemática direta e inversa de Manipuladores. Geração de trajetória; Programação de robôs manipuladores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Métodos Estatísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Métodos Estatísticos
+Amostragem. Distribuições Amostrais. Intervalos de Confiança. Testes de Hipóteses para a Média e a Proporção. Correlação e Regressão. Teste de Qui-Quadrado. Análise de Variância. Desenho de Experimentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Orientação a Objetos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Orientação a Objetos
+Introdução a programação orientada a objetos (POO), Conceitos e codificações de Classes e Objetos, Construtores, Encapsulamentos, Modificadores de acesso, introdução à UML; Heranças, polimorfismo, Agregação, Upcasting/Downcasting, sobrecarga de métodos, sobrecarga de construtor, classes abstratas, interfaces, sobrecarga de operadores, Metaclasses
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Seleção de Materiais para Robótica
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Seleção de Materiais para Robótica
+A estratégia de seleção de materiais e suas interações com a inovação e a sustentabilidade. Aplicação desta estratégia orientada pela utilização de uma base de dados de seleção de materiais, incluindo materiais metálicos, cerâmicos, poliméricos e compósitos. Estudos de casos dirigidos para aplicação na seleção de materiais empregados na construção de robôs utilizados em ambientes internos e externos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Simulação Estrutural
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Simulação Estrutural
+Apresentação dos principais métodos numéricos de simulação estrutural, com aplicações na concepção dos componentes, definição de materiais e mecânico-estrutural.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Vibrações Mecânicas
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Vibrações Mecânicas
+Revisão de conceitos fundamentais da Mecânica Newtoniana. Modelagem de sistemas vibratórios. Vibração livre e forçada de sistemas de um grau de liberdade: excitação por forçante externa, oscilação de base e desbalanceamento. Resposta em frequência. Vibração livre e forçada de sistemas de múltiplos graus de liberdade: frequências naturais e modos de vibração. Controle de vibrações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Numérico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cálculo Numérico
+Sistemas lineares: métodos exatos e iterativos. Zeros de funções. Aproximação de funções – Método dos Mínimos Quadrados. Interpolação – Método de Newton e Método de Lagrange. Integração numérica. Equações diferenciais – métodos numéricos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico Mecânico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Desenho Técnico Mecânico
+Extensão dos conceitos desenvolvidos em Desenho Técnico. Desenhos de montagens de componentes mecânicos com aplicação de elementos normalizados. Fundamentos de toleranciamento e ajustes. Representação normalizada de desenhos de detalhes e conjuntos. Modelagem em software CAD; definição de materiais e lista de componentes. Indução ao estudo extra-classe da técnica de desenvolvimento de dobras em software CAD. Práticas computacional e experimental.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Economia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Economia
+Breve história do pensamento econômico. Microeconomia: oferta e demanda, elasticidade e custo marginal. Função produção. Inovação tecnológica no contexto da economia da empresa. Macroeconomia: taxa de juros, câmbio, moeda, dívida pública, PIB, desemprego, inflação. Introdução à organização industrial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Elementos de Máquina para a Automação
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Elementos de Máquina para a Automação
+Apresentação dos principais órgãos de máquinas e transmissão e estudo dos métodos de cálculo para seleção e emprego destes. Fadiga nos elementos mecânicos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Ensino Social Cristão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ensino Social Cristão
+Natureza do Ensino Social Cristão. Princípios norteadores. Dignidade humana e Direitos humanos. Princípio da Solidariedade; Princípio da Subsidiariedade e do Bem Comum. Justiça e Misericórdia. Política: papel do Estado e grupos intermediários. Liberdade religiosa. Economia, ética e destinação universal dos bens. A questão do trabalho humano. Solidariedade, economia e desenvolvimento integral.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estrutura de Dados e Análise de Algoritmos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Estrutura de Dados e Análise de Algoritmos
+Listas (Lineares, Ligadas, duplamente-ligadas, circulares), Pilhas, Filas, Arvores Binárias, Árvores de Busca, Grafos, Técnicas de Análise de Algoritmos (Big-Oh), Técnicas de desenvolvimento de algoritmos, Algoritmos de Ordenação, Algoritmos para Grafos e Árvores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Projeto de Robôs
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto de Robôs
+Design e Desenvolvimento de Robôs com uso de sensores avançados (LASER, GPS, IMU, outros)
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas de Controle I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Sistemas de Controle I
+Função de Transferência; Sistemas de 1ª. e 2ª. ordem; Estabilidade; Erros Estacionários; Lugar Geométrico das Raízes; Resposta em Frequência e Introdução a Robustez
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Empreendedorismo e Inovação
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Empreendedorismo e Inovação
+Desenvolvimento de produtos e serviços, Inovação tecnológica; Desenvolvimento Econômico; Competitividade Empresarial; Ambientes; Sistemas Institucionais; Estratégias aplicadas a Planos de Negócios; Estudos de Casos
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estratégia e Gestão Organizacional
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estratégia e Gestão Organizacional
+Estratégia. Gestão por processos e funções organizacionais (finanças, marketing, produção). Gestão do desenvolvimento de produto. Aspectos humanos nas organizações
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Inteligência Artificial e Aprendizado de Máquina
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Inteligência Artificial e Aprendizado de Máquina
+Representação de Conhecimento; Planejamento; Algoritmos Genéticos; Sistemas Fuzzy; Teoria da Decisão; Aprendizado Indutivo; Aprendizado por Reforço; Redes Neurais
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Metodologia da Pesquisa
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Metodologia da Pesquisa
+A pesquisa e a produção metodológica de conhecimento. Projeto de pesquisa científica. Taxonomias e tipos de pesquisas. Procedimentos e etapas de um trabalho científico (tema, problema, objetivos, hipóteses, justificativas). Citações e Referências bibliográficas. Plágio e ética na Pesquisa Científica. Níveis e variáveis de mensuração. Amostragem na pesquisa. Elementos pré-textuais, textuais e pós-textuais. As Referências e normas. Fontes de pesquisa e banco de patentes
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Robótica Probabilística
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Robótica Probabilística
+Filtros de Kalman, Particulas e Bayesianos; Modelos de Movimento; Mapeamento e Localização Simultâneous; Localização de Monte Carlo e Cadeias de Markov.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Sistemas de Controle II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Sistemas de Controle II
+Espaço de Estados; Realimentação de estado; Sistemas Não-Lineares; Critérios de estabilidade de Lyapunov; Controle por torque calculado e controle por modos deslizantes.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Visão Computacional
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Visão Computacional
+Processamento de imagens; Filtros, descritores e detectores; Segmentação; Reconhecimento; Correção de Ruídos; Camera Estéreo.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Engenharia Econômica
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Engenharia Econômica
+Matemática financeira. Valor do dinheiro no tempo: juros e fluxo de caixa. Métodos de análise de projetos de investimento (VPL, TIR, VAE, tempo de retorno). Vida econômica e substituição de equipamentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ética
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ética
+O âmbito da ética. Relações étnico-raciais, discriminação e xenofobia. Ética da Lei Natural. Fundamentos da Lei Natural. A opção fundamental e os comportamentos concretos. Direito natural e direito positivo. Ética, ciência e tecnologia. Éticas aplicadas: códigos de ética profissionais; ética dos negócios e ética concorrencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Processos Mecânicos de Fabricação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Processos Mecânicos de Fabricação
+Classificação e características dos processos de fabricação. Processos de conformação. Processos de usinagem. Máquinas e equipamentos de processos mecânicos de fabricação e suas aplicações. Planejamento de processos de fabricação de produtos. Tecnologia da informação aplicada nos processos de fabricação (CAPP, CNC/CAM). Noções de manufatura aditiva por impressão 3D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Sistemas Embarcados
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Sistemas Embarcados
+Hardware e Software de sistemas embarcados. Projeto de hardware embarcado. Projeto de software embarcado. Projeto integrado de aplicação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Trabalho de Conclusão de Curso I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Trabalho de Conclusão de Curso I
+Desenvolvimento de Projeto em Grupo
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Processos Mecânicos de Fabricação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Processos Mecânicos de Fabricação
+Classificação e características dos processos de fabricação. Processos de conformação. Processos de usinagem. Máquinas e equipamentos de processos mecânicos de fabricação e suas aplicações. Planejamento de processos de fabricação de produtos. Tecnologia da informação aplicada nos processos de fabricação (CAPP, CNC/CAM). Noções de manufatura aditiva por impressão 3D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Custos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Custos
+Conceitos básicos. Métodos de custeio. Abordagens contemporâneas de custos: custos ambientais, custos da qualidade, Life Cycle Costing (LCC), outras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ecologia e Sustentabilidade
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ecologia e Sustentabilidade
+questão ambiental e a vida humana. Teoria Ecológica: Sociedade, Desenvolvimento e Meio Ambiente. O Impacto das novas tecnologias. Eficiência energética. Produção Mais Limpa. Eco eficiência. Logística reversa. Produção sustentável e Análise de Ciclo de Vida do Produto. Normas e Certificações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+ELETIVAS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ELETIVAS
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Interação Humano-Robô
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Interação Humano-Robô
+Robótica Colaborativa; Aspectos Sociais da Robótica; Ética; Robôs Sociais; Neurociência/Emoções
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Trabalho de Conclusão de Curso II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Trabalho de Conclusão de Curso II
+Desenvolvimento de Projeto em Grupo
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+INGRESSANTES A PARTIR DE 2023 (inclui curricularização da extensão)
+Diurno
+Matriz Curricular
+Clique nos ciclos abaixo para mais detalhes:
+1 º Ciclo
+2 º Ciclo
+3 º Ciclo
+4 º Ciclo
+5 º Ciclo
+6 º Ciclo
+7 º Ciclo
+8 º Ciclo
+9 º Ciclo
+10 º Ciclo
+Cálculo Diferencial e Integral I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral I
+Conceito de Função. Funções Básicas. Limites. Formas Indeterminadas. Limites Fundamentais. Derivadas. Interpretação Geométrica. Propriedades Operatórias.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Vetorial e Geometria Analítica
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Vetorial e Geometria Analítica
+Matrizes. Vetores no Plano e no Espaço. Operações com Vetores. Dependência Linear. Bases. Produtos. Sistemas de Coordenadas. Retas e Planos. Superfícies Esféricas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Desenho Técnico
+Introdução aos conceitos básicos para a interpretação e elaboração de desenhos técnicos utilizados em engenharia. Representação de figuras planas e perspectivas. Elaboração de croquis. Projeções ortográficas convencionais e com utilização de cortes. Dimensionamento e escalas. Trabalhos práticos manuais com instrumentos e por meio de software CAD.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física I
+Medidas físicas; Cinemática da partícula; Dinâmica da partícula: Forças e leis de Newton; Trabalho, energia e conservação da energia; Impulso, momento linear e conservação do momento linear.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Laboratório de Matemática
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Laboratório de Matemática
+Conversão de relações descritas em língua natural (propostas de problemas) para a forma de expressões matemáticas e lógicas (modelos matemáticos) utilizando Funções Básicas. Desenvolvimento de soluções em ambiente computacional.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Práticas de Inovação I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação I
+Conceito de inovação (descoberta x invenção x inovação); tipos de inovação (produto, processo, marketing, método organizacional e modelo de negócio); formulação de problema e geração de ideias (técnicas de formulação de perguntas, ferramenta de Design Thinking ((pensar de forma criativa e visual e usado geralmente quando o problema não está bem definido)) e o método do 5W1H); seleção de ideias (uso da ferramenta do Funil da Inovação) e difusão de ideias em seus diferentes graus (incremental, radical e mudança de paradigma); falar de algumas ferramentas de auxílio do Google: Analytics, Adsense e Adwords.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sociologia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Sociologia
+Principais conceitos sociológicos. Trabalho objetivo e subjetivo. A transformação da organização social do trabalho. Trabalho, identidade e interação social. A quarta revolução industrial: trabalho, economia, cultura e política. Novos paradigmas sociais. Estado e políticas de inserção social. Desigualdades, conflitos sociais, identidade e diversidade. Multiculturalismo e pluralidade.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cálculo Diferencial e Integral II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral II
+Aplicações de Derivadas: otimização, regra do L’Hospital, esboço de gráficos de funções. Diferenciais e Taxa de Variação. Integrais Indefinidas. Técnicas de Integração. Integrais Definidas e Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Comunicação e Expressão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Comunicação e Expressão
+Textos literários e textos não literários. Níveis de linguagem, linguagem coloquial e norma culta. Leitura e interpretação de textos dissertativos, científicos e jornalísticos. Estrutura do texto dissertativo. Estrutura do parágrafo e tópico frasal; coesão e coerência textuais. Argumentação: tipos de argumento. Tópicos de linguagem. Produção textual.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletrônica Geral
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Eletrônica Geral
+Representação Analógica e Digital e suas interfaces. Introdução aos Circuitos Lógicos. Controladores Lógicos Programáveis e Microcontroladores. Instrumentação e amplificação. Sensores e Atuadores. Processamento de Sinais. Comunicação Digital.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Filosofia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Filosofia
+Realismo. Investigação existencial e Experiência. Razão e Razoabilidade. Certeza moral e Fé. Moralidade no conhecimento. Razão e Sentimento. Senso religioso. Pessoa e o Infinito.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física II
+Oscilações simples, amortecidas e forçadas. Ressonância. Ondas mecânicas. Equilíbrio térmico e calor. Transferência de calor: condução, convecção e radiação. Propriedades térmicas da matéria. Primeira lei da termodinâmica, trabalho, energia e processos termodinâmicos simples. Segunda lei da termodinâmica, entropia, máquinas térmicas e refrigeradores.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Computação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Introdução à Computação
+Introdução e conceitos básicos de Algoritmos. Noções sobre bases de numeração: decimal, binária, hexadecimal. Tipos básicos de dados. Variáveis, fluxos sequenciais, operadores matemáticos, lógicos e relacionais. Estruturas de controle de seleção. Estruturas de controle de repetição. Modularização. Tipos de dados estruturados homogêneos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Práticas de Inovação II
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Práticas de Inovação II
+Competências para inovar (liderança, ferramenta DISC para avaliação pessoal, tipos de profissional); risco x incerteza (transformar incerteza em risco, classificando em tipo de grau de risco); Effectuation (metodologia de desenvolvimento de negócio); metodologia de validação de ideias; construção de um MVP Minimum Viable Product no laboratório de informática (elaboração de vídeos, app, blogs, fotos etc); falar de marketing digital e mídias sociais
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Química Geral
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Química Geral
+Quantidade de matéria; Gases; Líquidos; Estequiometria; Equilíbrio líquido – vapor. Balanço Material. Termoquímica; Combustão e combustíveis; Lubrificantes e lubrificação; Eletroquímica.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Cálculo Diferencial e Integral III
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Cálculo Diferencial e Integral III
+Funções de Várias Variáveis. Derivadas Parciais. Diferenciais. Integrais Múltiplas. Integrais de linha. Operadores: Gradiente, Divergente e Rotacional.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenvolvimento de Algoritmos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Desenvolvimento de Algoritmos
+Strings, recursividade, subprogramas e funções, ponteiros, alocação dinâmica, arquivos (texto e binário), passagem de parâmetros por referência, bibliotecas estáticas e compartilhadas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Equações Diferenciais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Equações Diferenciais
+Equações diferenciais de primeira Ordem: Variáveis Separáveis, Homogêneas, Lineares e Exatas. Equações Diferenciais de Segunda Ordem com Coeficientes Constantes: Homogênea e Completa. Modelagem matemática.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Física III
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Física III
+Carga elétrica, campo elétrico, força elétrica e fluxo de campo elétrico. Corrente elétrica, campo magnético, força magnética e fluxo de campo magnético. Movimento de cargas puntiformes em campos elétrico e magnético. Potencial elétrico, energia potencial elétrica e capacitância. Indução eletromagnética, energia magnética e indutância. Campos elétricos e magnéticos na matéria.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Introdução à Robótica Móvel
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Introdução à Robótica Móvel
+Laboratório com Robôs móveis , sensores, instrumentação, e controle simples.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica Geral
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica Geral
+Centroide, centro de massa e momentos de inércia. Sistemas de forças e forças distribuídas. Equilíbrio. Cinemática do corpo rígido: translação, rotação e centro instantâneo de rotação. Dinâmica do corpo rígido: translação e rotação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Princípios de Ciência e Engenharia de Materiais
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Princípios de Ciência e Engenharia de Materiais
+Tipos de ligações químicas em sólidos de substâncias puras e seu papel na determinação de: (1) propriedades físicas fundamentais; (2) estruturas atômicas/moleculares; (3) classes de materiais; (4) propriedades mecânicas básicas. Influência das estruturas e microestruturas nas propriedades dos materiais. Introdução a relação entre estrutura/propriedades/processamento e desempenho de materiais..
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas Digitais I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Sistemas Digitais I
+Sistemas de numeração. Álgebra Booleana. Portas Lógicas. Projeto Lógico Combinacional. Representação de Funções. Otimizações. Circuitos Lógicos de Aplicação. ULA. Sistemas de Lógica Programável. Linguagens de Descrição de Hardware.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Álgebra Linear e Aplicações
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Álgebra Linear e Aplicações
+Sistemas Lineares. Espaços Vetoriais. Subespaços Vetoriais. Bases e Dimensões. Transformações Lineares. Autovalores e Autovetores. Espaços Vetoriais com Produto Interno. Aplicações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Atuadores e Servomotores
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Atuadores e Servomotores
+Motores DC e Servomotores. Ponte H, circuitos de potência, controle de corrente. Projetos de uso e aplicações práticas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Eletricidade Geral
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Eletricidade Geral
+Circuitos de corrente contínua. Potência gerada e dissipada. Circuitos de corrente alternada. Fator de Potência. Circuitos trifásicos. Motores e geradores elétricos. Geração, Transmissão e Distribuição de Energia Elétrica. Fornecimento de Energia – Tarifação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Física Moderna
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Física Moderna
+Óptica física: polarização, interferência e difração. Relatividade: dilação temporal, contração espacial e equivalência entre massa e energia. Física quântica: fótons e efeito fotoelétrico, ondas de matéria e equação de Schrödinger, princípio da incerteza, interpretação probabilística e tunelamento, átomos e moléculas, condução de eletricidade nos sólidos, núcleos atômicos, radioatividade e energia nuclear.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Introdução à Análise de Circuitos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Introdução à Análise de Circuitos
+Números Complexos. Funções de Variáveis Complexas. Fasores e representação de sinais senoidais. Regime permanente senoidal. Cargas reativas. Séries de Funções. Séries de Fourier. Decomposição de sinais em séries de Fourier. Harmônicas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Sólidos
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Mecânica dos Sólidos
+Complementos de estática. Elementos estruturais. Mecânica dos sólidos deformáveis: tensões, deformações, deslocamentos, classificação dos materiais estruturais e leis constitutivas. Modelagem de casos particulares: i) tração/compressão e flambagem; ii) cisalhamento puro e ligações mecânicas; iii) flexão pura, simples e composta; iv) torção e transmissão de potência em seções circulares; v) tensões térmicas.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Navegação de Robôs Móveis
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Navegação de Robôs Móveis
+Mapas; Campos Potenciais; Planejamento de Rotas e Trajetórias; Decomposição de Células; Árvore de Exploração randômica Rápida (RRT´s); Diagrama de Voronoi
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas Digitais II
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Sistemas Digitais II
+Lógica Sequencial. Latch primitivo. Equações de Estado dos Flip-Flops. Máquina de Estados Finitos. Registradores de Deslocamento. Contadores Síncronos. Projeto em Nível de Transferência entre Registradores. Equações de Estado. Aplicações para Modelagem de Sistemas. Sistemas de Lógica Programável. Linguagem de Descrição de Hardware para estruturas sequenciais.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Circuitos Elétricos I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Circuitos Elétricos I
+Técnicas de análise nodal e de laço; Técnicas adicionais de análise (teoremas). Capacitância e Indutância. Circuitos RC, RL e RLC (Análise Transitória). Análise em CA: Análise senoidal em regime permanente (Teoremas em CA) Potência em CA regime permanente. Circuitos Polifásicos
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Conversão de Energia I
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Conversão de Energia I
+Lei de Ampere; Intensidade do Campo H, fluxo e densidade de fluxo. Circuitos Magnéticos lineares. Circuitos Magnéticos não lineares, excitação em corrente alternada. Lei de Faraday/Lenz. Força eletromotriz. Parâmetros de Indutância. Energia Armazenada. Perda por histerese. Perda devido às correntes parasitas. Corrente Alternada. Reator. Transformadores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Eletrônica I
+Aulas Semanais
+4 Teóricas / 2 Práticas
+×
+Eletrônica I
+Características elétricas e modelos simplificados de diodo. Circuitos com diodos. Transistores bipolares de junção. Transistores de Efeito de Campo. MOSFET como amplificador. Transistor como chave.
+Código:
+Coordenação:
+Carga Horária Total:
+120 Horas
+Gestão de Projetos Inovadores
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Gestão de Projetos Inovadores
+Gestão de Projetos: escopo, tempo, custos, qualidade, pessoas, comunicação, aquisições, riscos, stakeholders e integração; Grupos de processos: iniciação, planejamento, execução, controle e encerramento. Canvas. Elaboração de projeto em grupo com enunciação do problema e desenvolvimento da solução com o uso de Canvas.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Mecânica dos Fluidos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Mecânica dos Fluidos
+Conceitos fundamentais de mecânica dos fluidos; Viscosidade; Hidrostática; Manometria; Conservação da massa e energia em volume de controle; Equação de Bernoulli; Perda de carga distribuída e singular; Diagrama de Moody; Experimentos em laboratório de mecânica dos fluidos para escoamentos incompressíveis.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Mecânica dos Sólidos II
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Mecânica dos Sólidos II
+Análise de tensões, deformações e deslocamentos sob esforços combinados à luz do Estado Geral de Tensões. Estados Planos. Laboratório para análise experimental de estruturas: técnicas ponto a ponto (extensometria elétrica) e de campo completo (fotoelasticidade e Digital Image Correlation - DIC). Práticas computacional e experimental com ensaios de validação e com projeto de análise experimental de estrutura.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Modelos Probabilísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Modelos Probabilísticos
+Probabilidade. Variáveis Aleatórias Discretas. Distribuição Conjunta de Variáveis Aleatórias Discretas. Distribuições de Variáveis Discretas: Binomial e Poisson. Distribuições de Variáveis Aleatórias Contínuas: Normal e Exponencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Cinemática e Dinâmica de Robôs Móveis
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cinemática e Dinâmica de Robôs Móveis
+Cinemática e dinâmica (nas formas direta e inversa) aplicadas a robôs móveis com rodas, pernas e aéreos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Introdução ao Controle Digital
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Introdução ao Controle Digital
+Transformada Z e Laplace; Teoria da Amostragem; Discretização; Equações de diferença; Sintonia de controladores PID e síntese em microcontrolador.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Manipuladores Robóticos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Manipuladores Robóticos
+Cinemática direta e inversa de Manipuladores. Geração de trajetória; Programação de robôs manipuladores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Métodos Estatísticos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Métodos Estatísticos
+Amostragem. Distribuições Amostrais. Intervalos de Confiança. Testes de Hipóteses para a Média e a Proporção. Correlação e Regressão. Teste de Qui-Quadrado. Análise de Variância. Desenho de Experimentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Orientação a Objetos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Orientação a Objetos
+Introdução a programação orientada a objetos (POO), Conceitos e codificações de Classes e Objetos, Construtores, Encapsulamentos, Modificadores de acesso, introdução à UML; Heranças, polimorfismo, Agregação, Upcasting/Downcasting, sobrecarga de métodos, sobrecarga de construtor, classes abstratas, interfaces, sobrecarga de operadores, Metaclasses
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Seleção de Materiais para Robótica
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Seleção de Materiais para Robótica
+A estratégia de seleção de materiais e suas interações com a inovação e a sustentabilidade. Aplicação desta estratégia orientada pela utilização de uma base de dados de seleção de materiais, incluindo materiais metálicos, cerâmicos, poliméricos e compósitos. Estudos de casos dirigidos para aplicação na seleção de materiais empregados na construção de robôs utilizados em ambientes internos e externos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Simulação Estrutural
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Simulação Estrutural
+Apresentação dos principais métodos numéricos de simulação estrutural, com aplicações na concepção dos componentes, definição de materiais e mecânico-estrutural.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Vibrações Mecânicas
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Vibrações Mecânicas
+Revisão de conceitos fundamentais da Mecânica Newtoniana. Modelagem de sistemas vibratórios. Vibração livre e forçada de sistemas de um grau de liberdade: excitação por forçante externa, oscilação de base e desbalanceamento. Resposta em frequência. Vibração livre e forçada de sistemas de múltiplos graus de liberdade: frequências naturais e modos de vibração. Controle de vibrações.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Cálculo Numérico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Cálculo Numérico
+Sistemas lineares: métodos exatos e iterativos. Zeros de funções. Aproximação de funções – Método dos Mínimos Quadrados. Interpolação – Método de Newton e Método de Lagrange. Integração numérica. Equações diferenciais – métodos numéricos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Desenho Técnico Mecânico
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Desenho Técnico Mecânico
+Extensão dos conceitos desenvolvidos em Desenho Técnico. Desenhos de montagens de componentes mecânicos com aplicação de elementos normalizados. Fundamentos de toleranciamento e ajustes. Representação normalizada de desenhos de detalhes e conjuntos. Modelagem em software CAD; definição de materiais e lista de componentes. Indução ao estudo extra-classe da técnica de desenvolvimento de dobras em software CAD. Práticas computacional e experimental.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Economia
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Economia
+Breve história do pensamento econômico. Microeconomia: oferta e demanda, elasticidade e custo marginal. Função produção. Inovação tecnológica no contexto da economia da empresa. Macroeconomia: taxa de juros, câmbio, moeda, dívida pública, PIB, desemprego, inflação. Introdução à organização industrial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Elementos de Máquina para a Automação
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Elementos de Máquina para a Automação
+Apresentação dos principais órgãos de máquinas e transmissão e estudo dos métodos de cálculo para seleção e emprego destes. Fadiga nos elementos mecânicos.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Ensino Social Cristão
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ensino Social Cristão
+Natureza do Ensino Social Cristão. Princípios norteadores. Dignidade humana e Direitos humanos. Princípio da Solidariedade; Princípio da Subsidiariedade e do Bem Comum. Justiça e Misericórdia. Política: papel do Estado e grupos intermediários. Liberdade religiosa. Economia, ética e destinação universal dos bens. A questão do trabalho humano. Solidariedade, economia e desenvolvimento integral.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estrutura de Dados e Análise de Algoritmos
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Estrutura de Dados e Análise de Algoritmos
+Listas (Lineares, Ligadas, duplamente-ligadas, circulares), Pilhas, Filas, Arvores Binárias, Árvores de Busca, Grafos, Técnicas de Análise de Algoritmos (Big-Oh), Técnicas de desenvolvimento de algoritmos, Algoritmos de Ordenação, Algoritmos para Grafos e Árvores.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Projeto de Robôs
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Projeto de Robôs
+Design e Desenvolvimento de Robôs com uso de sensores avançados (LASER, GPS, IMU, outros)
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Sistemas de Controle I
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Sistemas de Controle I
+Função de Transferência; Sistemas de 1ª. e 2ª. ordem; Estabilidade; Erros Estacionários; Lugar Geométrico das Raízes; Resposta em Frequência e Introdução a Robustez
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Empreendedorismo e Inovação
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Empreendedorismo e Inovação
+Desenvolvimento de produtos e serviços, Inovação tecnológica; Desenvolvimento Econômico; Competitividade Empresarial; Ambientes; Sistemas Institucionais; Estratégias aplicadas a Planos de Negócios; Estudos de Casos
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Estratégia e Gestão Organizacional
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Estratégia e Gestão Organizacional
+Estratégia. Gestão por processos e funções organizacionais (finanças, marketing, produção). Gestão do desenvolvimento de produto. Aspectos humanos nas organizações
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Inteligência Artificial e Aprendizado de Máquina
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Inteligência Artificial e Aprendizado de Máquina
+Representação de Conhecimento; Planejamento; Algoritmos Genéticos; Sistemas Fuzzy; Teoria da Decisão; Aprendizado Indutivo; Aprendizado por Reforço; Redes Neurais
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Metodologia da Pesquisa
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Metodologia da Pesquisa
+A pesquisa e a produção metodológica de conhecimento. Projeto de pesquisa científica. Taxonomias e tipos de pesquisas. Procedimentos e etapas de um trabalho científico (tema, problema, objetivos, hipóteses, justificativas). Citações e Referências bibliográficas. Plágio e ética na Pesquisa Científica. Níveis e variáveis de mensuração. Amostragem na pesquisa. Elementos pré-textuais, textuais e pós-textuais. As Referências e normas. Fontes de pesquisa e banco de patentes
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Robótica Probabilística
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Robótica Probabilística
+Filtros de Kalman, Particulas e Bayesianos; Modelos de Movimento; Mapeamento e Localização Simultâneous; Localização de Monte Carlo e Cadeias de Markov.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Sistemas de Controle II
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+Sistemas de Controle II
+Espaço de Estados; Realimentação de estado; Sistemas Não-Lineares; Critérios de estabilidade de Lyapunov; Controle por torque calculado e controle por modos deslizantes.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Visão Computacional
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Visão Computacional
+Processamento de imagens; Filtros, descritores e detectores; Segmentação; Reconhecimento; Correção de Ruídos; Camera Estéreo.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Engenharia Econômica
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Engenharia Econômica
+Matemática financeira. Valor do dinheiro no tempo: juros e fluxo de caixa. Métodos de análise de projetos de investimento (VPL, TIR, VAE, tempo de retorno). Vida econômica e substituição de equipamentos.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ética
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ética
+O âmbito da ética. Relações étnico-raciais, discriminação e xenofobia. Ética da Lei Natural. Fundamentos da Lei Natural. A opção fundamental e os comportamentos concretos. Direito natural e direito positivo. Ética, ciência e tecnologia. Éticas aplicadas: códigos de ética profissionais; ética dos negócios e ética concorrencial.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Processos Mecânicos de Fabricação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Processos Mecânicos de Fabricação
+Classificação e características dos processos de fabricação. Processos de conformação. Processos de usinagem. Máquinas e equipamentos de processos mecânicos de fabricação e suas aplicações. Planejamento de processos de fabricação de produtos. Tecnologia da informação aplicada nos processos de fabricação (CAPP, CNC/CAM). Noções de manufatura aditiva por impressão 3D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Sistemas Embarcados
+Aulas Semanais
+0 Teóricas / 4 Práticas
+×
+Sistemas Embarcados
+Hardware e Software de sistemas embarcados. Projeto de hardware embarcado. Projeto de software embarcado. Projeto integrado de aplicação.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Trabalho de Conclusão de Curso I
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Trabalho de Conclusão de Curso I
+Desenvolvimento de Projeto em Grupo
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Processos Mecânicos de Fabricação
+Aulas Semanais
+2 Teóricas / 2 Práticas
+×
+Processos Mecânicos de Fabricação
+Classificação e características dos processos de fabricação. Processos de conformação. Processos de usinagem. Máquinas e equipamentos de processos mecânicos de fabricação e suas aplicações. Planejamento de processos de fabricação de produtos. Tecnologia da informação aplicada nos processos de fabricação (CAPP, CNC/CAM). Noções de manufatura aditiva por impressão 3D.
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Custos
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Custos
+Conceitos básicos. Métodos de custeio. Abordagens contemporâneas de custos: custos ambientais, custos da qualidade, Life Cycle Costing (LCC), outras.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Ecologia e Sustentabilidade
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Ecologia e Sustentabilidade
+questão ambiental e a vida humana. Teoria Ecológica: Sociedade, Desenvolvimento e Meio Ambiente. O Impacto das novas tecnologias. Eficiência energética. Produção Mais Limpa. Eco eficiência. Logística reversa. Produção sustentável e Análise de Ciclo de Vida do Produto. Normas e Certificações.
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+ELETIVAS
+Aulas Semanais
+4 Teóricas / 0 Práticas
+×
+ELETIVAS
+Código:
+Coordenação:
+Carga Horária Total:
+80 Horas
+Interação Humano-Robô
+Aulas Semanais
+2 Teóricas / 0 Práticas
+×
+Interação Humano-Robô
+Robótica Colaborativa; Aspectos Sociais da Robótica; Ética; Robôs Sociais; Neurociência/Emoções
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Trabalho de Conclusão de Curso II
+Aulas Semanais
+0 Teóricas / 2 Práticas
+×
+Trabalho de Conclusão de Curso II
+Desenvolvimento de Projeto em Grupo
+Código:
+Coordenação:
+Carga Horária Total:
+40 Horas
+Nota: para alunos
+ingressantes a partir de 2023
+.
+Algumas disciplinas do currículo formam um itinerário extensionistas - unidades curriculares de extensão, atendendo as diretrizes para a extensão na educação superior brasileira (Resolução nº 7, de 18/12/2018, do Ministério da Educação e Cultura/Conselho Nacional de Educação).
+A inovação, na FEI, é baseada em conhecimento e pesquisa:
+Promovemos e incentivamos as pesquisas científicas e tecnológicas, que colocam você em posição de liderança na aquisição do conhecimento, com atualização constante dos contextos complexos que envolvem tecnologia.
+Praticamos a cultura da inovação, que permeia os cursos e o ambiente universitário.
+As pesquisas realizadas e nossos parceiros estão na vanguarda do desenvolvimento científico e tecnológico nacional e mundial.
+Desenvolvemos cooperação e convênios entre empresas, órgãos públicos e instituições internacionais, proporcionando a você contato direto com o mercado de trabalho e engajamento global.
+Na área da robótica, a indústria, o comércio e outros modelos de negócios necessitam fazer o avanço de suas máquinas para a indústria 4.0, com profissionais competentes que desenvolvam robôs de serviços, que possam ser confiáveis no relacionamento cada vez mais eminente com os seres humanos.
+A FEI investe na excelência do ensino e em pesquisa científica e tecnológica para que você projete cenários futuros!
+Local
+Campus São Bernardo do Campo - SP
+Duração
+10 semestres (Curso diurno)
+Habilitação Engenharia de Robôs
+4.034 horas aula
+100 horas de atividades complementares
+160 horas de estágio supervisionado
+Carga horária total: 4.294 horas
+Todos os cursos de Engenharia têm, no currículo, um núcleo de conteúdos básicos, um núcleo de conteúdos profissionalizantes e um núcleo de conteúdos específicos, que caracterizam a modalidade escolhida.
+No curso de Engenharia de Robôs, as disciplinas de conteúdos básicos e profissionalizantes estão dispostas em um núcleo comum às engenharias, enquanto as disciplinas de conteúdo específico estão dispostas em outro núcleo.
+A carga de aulas do curso está dividida em:
+•	Disciplinas do núcleo comum de Engenharia: 1800 horas
+•	Disciplinas específicas: 2234 horas, sendo:
+o	Disciplinas obrigatórias: 2034 horas
+o	Disciplinas optativas: 134 horas
+o	Disciplinas eletivas: 66 horas
+Disciplinas optativas são disciplinas que podem ser escolhidas pelo aluno e que estão previstas na grade curricular do curso. Disciplinas eletivas são disciplinas que também podem ser cursadas à livre escolha do aluno, mas que não estão descriminadas nas grades dos cursos, podendo ser cursadas na FEI ou em um curso reconhecido de outra instituição de ensino superior.
+Para completar a carga horária total do curso, os alunos realizam Atividades Complementares e Estágio Curricular Supervisionado.
+Temos uma visão contemporânea do ensino da engenharia, uma nova e arrojada proposta de mudança dos processos tradicionais de aprendizagem:
+•	foco em metodologias ativas
+•	ferramentas didáticas inovadoras
+•	novas estratégias de avaliação de competências e conhecimentos
+Trabalhamos com um ecossistema de ensino-aprendizagem que:
+•	favorece o desenvolvimento do perfil protagonista
+•	promove autonomia intelectual
+•	potencializa a capacidade de aprender a aprender
+Nossos alunos adaptam-se perfeitamente às demandas futuras e imprevisíveis. Eles têm o domínio do processo criativo e otimizam a mobilização de conhecimentos e execução de projetos em soluções com potencial disruptivo e de alto valor social.
+Fórmula FEI Elétrico
+O Fórmula FEI Elétrico é um projeto que coloca os alunos em sintonia com a mesma tecnologia empregada atualmente nos carros elétricos e na indústria automobilística. Os alunos que integram o projeto são desafiados a desenvolverem um sistema de propulsão (motor elétrico, inversor de frequência e baterias) além de soluções inovadoras e criativas em outros subsistemas do veículo tais como freios, suspensão, direção, chassis e transmissão.
+Saiba mais
+Pace fei
+O Centro Universitário da FEI é uma, das duas universidades brasileiras, que participam deste programa global que
+tem como o objetivo principal colaborar com o desenvolvimento do setor automotivo, formando mão de obra
+qualificada e atualizada com as mais modernas tecnologias utilizadas. Neste biênio a FEI pertence ao time 8 que
+envolve as faculdades de ITESM-Toluca (México), Universidad Iberoamericana (México), College For Creative Studies
+(EUA), University of Puerto Rico Mayaguez (EUA).
+Você poderá trabalhar nas indústrias no mundo todo, que hoje já são muitas e devem se multiplicar exponencialmente até a próxima década, exigindo a contratação de mão de obra qualificada.
+Você terá formação profissional para ser pioneiro na criação de empresas de robótica no Brasil e na América Latina.
+A robótica atrai a atenção e investimentos de setores importantes da economia mundial. Gigantes do setor automobilístico e de tecnologia investem pesado na robótica e em empresas de ponta do setor. Muitas empresas de serviços, agricultura, segurança, entre outras, têm procurado robôs para executarem funções e tarefas de forma autônoma.
+As demandas por novas tecnologias robóticas, que antes ficavam restritas às indústrias de grande porte, chegam agora até nossas casas e automóveis, ao pequeno agricultor, aos pequeno e médio empresários, às salas cirúrgicas e a tantas outras aplicações, expandindo o campo de atuação dos alunos da Engenharia de Robôs da FEI.
+QUERO ME INSCREVER!
+Por que criamos o primeiro curso de
+Engenharia de Robôs do Brasil
+Em sintonia com os atuais movimentos do ensino superior em busca da inovação e atuando há muitos anos em pesquisas em robótica, a FEI compreendeu a necessidade de um curso de graduação para formar profissionais aptos a lidar com a tecnologia dos robôs.
+Já temos programas de Mestrado e Doutorado em Engenharia Elétrica, que se desenvolvem em três linhas de pesquisa e uma delas, Inteligência Artificial Aplicada à Automação e Robótica (a área mudou de nome em 2017 e passou a incluir robótica no nome), está diretamente relacionada com a área do curso de Engenharia de Robôs. Desse modo, nos pareceu importante formar profissionais em sua primeira etapa de estudos, a graduação, incentivando seu posterior ingresso nos programa de Mestrado e Doutorado, incrementando as pesquisas na área.
+Esta relação entre graduação e pós-graduação dá sustentabilidade científica e tecnológica à formação do futuro profissional, tanto estimulando-o para a vida acadêmica e científica como preparando-o para as mudanças de tecnologia recorrentes em um mercado de trabalho exigente e dinâmico como o de Engenharia de Robôs. A formação continuada confere a nossos alunos o papel de protagonistas nas pesquisas para a promoção uma sociedade ainda melhor.
+Nosso campus está situado em uma região com diversas indústrias de ponta, o ABC paulista é uma das áreas mais robotizadas do país. Todos os segmentos estão passando por uma reestruturação que demanda a necessidade das chamadas fábricas inteligentes, também conhecida como indústria 4.0. Desse modo, a parceria desenvolvida entre a FEI e essas empresas também incentivou a criação da Engenharia de Robôs.
+Nos últimos 3 anos, muitos eventos nacionais têm incentivado jovens e crianças a se inserirem no mundo da robótica autônoma e inteligente:
+o	Olimpíada Brasileira de Robótica (OBR)
+o	Mostra Nacional de Robótica (MNR)
+o	Competição Brasileira de Robótica (CBR) - categorias júnior
+o	First Lego League (FLL)
+Na OBR, em 2018, foram 4.000 equipes inscritas, com aproximadamente 15 mil alunos de todos os estados brasileiros projetando, construindo e programando seus robôs autônomos. Mais de 150 mil alunos já realizaram provas teóricas sobre robótica, aplicadas desde o 1º ano do fundamental até o 3º ano do ensino médio. Outros 10 mil estudantes competiram na FLL, em desafios de robótica autônoma.
+Esses alunos, motivados e incentivados a aprender, vivenciar e deslumbrar a robótica desde pequenos, estão chegando às universidades. Nosso curso de Engenharia de Robôs insere-se neste contexto como a alternativa viável para esses jovens interessados em se profissionalizar na área.
+Saiba mais
+Relações
+Internacionais
+O Centro Universitário FEI mantém acordos de cooperação com instituições estrangeiras, que permitem aos alunos
+a formação técnica e multicultural exigida pelo mercado global, além de parcerias e programas de mobilidade
+acadêmica para a realização de intercâmbios.
+Saiba mais
+Programas de Iniciação
+Científica, Tecnológica e de Inovação, Didática e de Ações Sociais
+Os programas de Iniciação Científica, Tecnológica e de Inovação, Iniciação Didática e de Ações Sociais de Extensão visam iniciar alunos de bom rendimento acadêmico na metodologia científica aplicável às áreas: científica, tecnológica, didática ou de ação social.
+Saiba mais
+Júnior
+FEI
+Administrada e constituída totalmente por alunos da graduação, um dos objetivos da Júnior FEI é envolver os alunos
+que são membros da empresa em projetos de inovação, tecnologia, gestão e desenvolver habilidades profissionais e
+pessoais. Alunos de qualquer curso podem fazer parte da Junior FEI.
+Saiba mais
+Programa de
+Bolsas de Estudos
+Um setor especial atende os alunos que necessitam de bolsas, apoiando seu ingresso no ensino superior, e também os alunos regularmente matriculados que possam ter dificuldades financeiras de se manter no curso. O objetivo é oferecer um local de apoio, orientação e acompanhamento da permanência na vida universitária. Venha conversar conosco se precisar!
+Saiba mais
+Veja os
+Vídeos
+Conheça mais sobre a engenharia, nos vídeos abaixo:
+Como é ser Engenheiro(a) da FEI?
+Qual o papel do Engenheiro?
+Por que estudar Engenharia na FEI?
+Congresso de Inovação
+Alunos do 1º semestre de Engenharia criam soluções tecnológicas.
+Acontece na
+FEI
+Veja algumas matérias da FEI sobre Engenharia
+Um presidente movido a Paixão
+Destaque Internacional
+Lucas Di Grassi pilota carro de corrida elétrico desenvolvido por estudantes de engenharia da FEI.
+Inovação para o setor automobilístico
+Alunos da FEI desenvolvem projetos para melhorias em áreas estratégicas como Digital, Energia e Serviços
+Novos padrões de consumo surgirão a partir da Indústria 4.0
+A formação do engenheiro do futuro é tema em evento da Revista Exame.
+Coordenador
+do Curso
+Plano Pedagógico
+Clique aqui para visualizar!
+Relatórios de Gestão do Coordenador
+Saiba mais!
+×
+Mais Informações
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Agende uma Visita
+Nome Completo
+CPF
+E-Mail
+Celular
+Dia e Horário
+Opcional
+Escola ou Cursinho que Estuda
+Opcional
+Curso de Interesse
+Administração
+Ciência da Computação
+Engenharia de Automação e Controle
+Engenharia de Materiais
+Engenharia de Produção
+Engenharia de Robôs
+Engenharia Civil
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química
+Número de acompanhantes
+Como você conheceu a FEI?
+Feira de profissões ou palestra no meu colégio
+Indicação de amigos
+Indicação de pais
+Indicação de professores
+Internet
+Jornal, cartaz ou folder
+OBS: A FEI entrará em contato para confirmar a visita
+Desejo receber mais informações sobre o curso por e-mail
+Enviar
+```
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Preencha seus dados abaixo para visualizar o PPC
+Nome
+E-mail
+Telefone
+Colégio/Instituição de Ensino
+Estou ciente de que meus dados serão usados seguindo a
+Lei Geral de Proteção de Dados
+e a
+Política de Privacidade
+.
+Você deve concordar, antes de continuar.
+×
+Mais informações
+Nome
+E-mail
+Telefone
+×
+Deixe seus Dados
+Nome
+E-mail
+Celular
+Curso de Interesse
+Clique aqui e selecione o curso
+Administração
+Ciência da Computação
+Engenharia Civil
+Engenharia de Automação e Controle
+Engenharia de Materiais
+Engenharia de Produção
+Engenharia de Robôs
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química
