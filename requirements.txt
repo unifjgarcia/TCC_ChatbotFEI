@@ -1,6 +1,11 @@
 streamlit
 requests
 beautifulsoup4
-pandas
 sentence-transformers
 scikit-learn
+chromadb
+pandas
+langchain
+langchain-community
+langchain-text-splitters
+langchain-ollama
