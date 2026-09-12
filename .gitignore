@@ -4,3 +4,12 @@ __pycache__/
 .venv/
 venv/
 .streamlit/secrets.toml
+
+# Banco vetorial local
+dados/chroma_db_fei/
+
+# Logs locais de execução
+dados/logs_execucoes.csv
+
+# Chaves de API
+.env

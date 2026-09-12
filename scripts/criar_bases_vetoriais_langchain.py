@@ -55,12 +55,23 @@ def main():
 
         colecao = cliente.create_collection(name=nome_colecao)
 
-        textos = df_config["texto_chunk"].astype(str).tolist()
-        ids = df_config["chunk_id"].astype(str).tolist()
-        metadados = [
-            preparar_metadados(linha)
-            for _, linha in df_config.iterrows()
-        ]
+        textos = []
+        ids = []
+        metadados = []
+
+        for _, linha in df_config.iterrows():
+            texto_original = str(linha["texto_chunk"])
+
+            texto_para_busca = (
+                f"Título do documento: {linha['titulo']}\n"
+                f"Categoria: {linha['categoria']}\n"
+                f"Fonte: {linha['url']}\n\n"
+                f"Conteúdo:\n{texto_original}"
+            )
+
+            textos.append(texto_para_busca)
+            ids.append(str(linha["chunk_id"]))
+            metadados.append(preparar_metadados(linha))
 
         print("Gerando embeddings...")
         embeddings = modelo.encode(

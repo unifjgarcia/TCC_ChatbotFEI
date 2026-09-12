@@ -2,6 +2,7 @@ import time
 
 from services.buscador_vetorial import buscar_trechos
 from services.gerador_llama import gerar_resposta_com_llama, MODELO_LLAMA
+from services.gerador_gemini import gerar_resposta_com_gemini, MODELO_GEMINI
 from services.registrador_logs import registrar_execucao
 
 
@@ -17,10 +18,16 @@ def responder_pergunta(pergunta, top_k=3, config_id="C5", modelo_gerador=None):
         config_id=config_id
     )
 
-    resposta = gerar_resposta_com_llama(
-        pergunta=pergunta,
-        trechos=trechos
-    )
+    if modelo_gerador == MODELO_GEMINI:
+        resposta = gerar_resposta_com_gemini(
+            pergunta=pergunta,
+            trechos=trechos
+        )
+    else:
+        resposta = gerar_resposta_com_llama(
+            pergunta=pergunta,
+            trechos=trechos
+        )
 
     fim = time.time()
     tempo_resposta_ms = round((fim - inicio) * 1000, 2)

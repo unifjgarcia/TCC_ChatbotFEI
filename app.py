@@ -32,19 +32,19 @@ with st.sidebar:
 
     top_k = st.selectbox(
         "Quantidade de trechos recuperados",
-        options=[3, 5],
-        index=0
+        options=[3, 5, 8, 10],
+        index=1
     )
 
     modelo_gerador = st.selectbox(
         "Modelo gerador",
-        options=["llama3.1:8b"],
+        options=["llama3.1:8b", "gemini-3.6-flash"],
         index=0
     )
 
     st.caption(
         "Nesta versão, o sistema usa recuperação vetorial com ChromaDB "
-        "e geração local com Llama via Ollama."
+        "e permite geração local com Llama via Ollama ou geração via Gemini API."
     )
 
     st.markdown("#### Configuração atual")
@@ -69,10 +69,12 @@ if not st.session_state.mensagens:
     with col1:
         st.markdown("- Como funciona o diploma digital?")
         st.markdown("- Onde vejo informações sobre bolsas?")
+        st.markdown("- Tem fretado pra FEI?")
 
     with col2:
         st.markdown("- Como entro em contato com a secretaria?")
         st.markdown("- Onde fica a FEI SBC?")
+        st.markdown("- Onde encontro informações sobre estágio?")
 
 
 for indice_mensagem, mensagem in enumerate(st.session_state.mensagens):
@@ -102,9 +104,17 @@ for indice_mensagem, mensagem in enumerate(st.session_state.mensagens):
                     st.markdown(f"URL: {fonte['url']}")
 
                     distancia = fonte.get("distancia")
+                    origem_busca = fonte.get("origem_busca")
+                    score_palavra_chave = fonte.get("score_palavra_chave")
 
                     if distancia is not None:
-                        st.markdown(f"Distância: `{round(distancia, 4)}`")
+                        st.markdown(f"Distância vetorial: `{round(float(distancia), 4)}`")
+
+                    if origem_busca:
+                        st.markdown(f"Origem da recuperação: `{origem_busca}`")
+
+                    if score_palavra_chave is not None:
+                        st.markdown(f"Score palavra-chave: `{score_palavra_chave}`")
 
                     st.text_area(
                         label=f"Trecho recuperado {indice_fonte}",
@@ -123,7 +133,14 @@ if pergunta:
         "conteudo": pergunta
     })
 
-    with st.spinner("Buscando informações na base documental e gerando resposta com Llama..."):
+    if modelo_gerador == "llama3.1:8b":
+        mensagem_spinner = "Buscando informações na base documental e gerando resposta com Llama local..."
+    elif modelo_gerador == "gemini-3.6-flash":
+        mensagem_spinner = "Buscando informações na base documental e gerando resposta com Gemini..."
+    else:
+        mensagem_spinner = "Buscando informações na base documental e gerando resposta..."
+
+    with st.spinner(mensagem_spinner):
         resultado = responder_pergunta(
             pergunta=pergunta,
             top_k=top_k,
